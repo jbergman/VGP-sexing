@@ -1,17 +1,16 @@
 # vgp-sex-chromosome
 
-A Snakemake workflow for assigning genetic sex to samples from the
+A Snakemake workflow for assigning genetic sex to samples mapped to
 [Vertebrate Genomes Project](https://vertebrategenomesproject.org/) (VGP)
-Conservation Genomics dataset.
+reference assemblies.
 
 For each assembly accession the workflow:
 
 1. downloads the chromosome-level sequence report from NCBI Datasets to find
-   the sex chromosome and its length;
+   the sex chromosomes
 2. downloads the sample sheet, README, and per-sample mosdepth coverage
-   summaries from [GenomeArk](https://genomeark.github.io/);
+   summaries from GenomeArk
 3. fetches BioSample metadata (sex, organism, collection site) from NCBI
-   eutils; and
 4. computes a sex-chromosome / autosome coverage ratio and assigns
    `MALE`, `FEMALE`, or `UNKNOWN` to every sample.
 
@@ -30,8 +29,8 @@ rule all
 
 | Script | What it does |
 |---|---|
-| `scripts/fetch_reference_data.py` | Downloads NCBI sequence report; writes `contigs.tsv` with chromosome lengths and roles |
-| `scripts/fetch_sample_data_genark.py` | Lists the GenomeArk S3 folder; downloads `sample_sheet.csv`, `README.txt`, and mosdepth summary files |
+| `scripts/fetch_reference_data.py` | Downloads NCBI sequence report; writes `contigs.tsv`; detects sex chromosomes and adds three columns to `contigs.tsv`: TYPE (AUTO / chrX / chrY / chrZ / chrW / chrM), FEMALE_PLOIDY, MALE_PLOIDY |
+| `scripts/fetch_sample_data_genark.py` | Downloads `sample_sheet.csv`, `README.txt`, and per-sample mosdepth summary files from the GenomeArk S3 folder |
 | `scripts/fetch_sample_data_ncbi.py` | Calls NCBI eutils esearch + efetch for each BioSample ID in `sample_sheet.csv`; writes `biosample_metadata.tsv` |
 | `scripts/assign_genetic_sex.py` | Reads per-sample mosdepth coverage, computes XA/ZA ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv` |
 
@@ -65,7 +64,7 @@ Each accession gets its own output folder:
 ```
 output/
   GCA_903992535.2/
-    contigs.tsv                  # chromosome lengths from NCBI
+    contigs.tsv                  # Sequence report from NCBI + TYPE, FEMALE_PLOIDY, MALE_PLOIDY columns
     sample_sheet.csv             # GenomeArk sample list
     biosample_metadata.tsv       # NCBI metadata + GENETIC_SEX column
     .sex_assigned                # sentinel: pipeline finished
@@ -75,11 +74,6 @@ output/
       fetch_sample_data_ncbi.log
       assign_genetic_sex.log
 ```
-
-`biosample_metadata.tsv` is the primary result. It contains one row per
-sample with columns including `BIOSAMPLE_ID`, `ORGANISM`, `COLLECTED_BY`,
-`SEX` (as reported to NCBI), `XA_RATIO` or `ZA_RATIO`, and `GENETIC_SEX`
-(pipeline-assigned).
 
 ## Configuration
 
