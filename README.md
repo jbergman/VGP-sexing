@@ -22,9 +22,9 @@ supported.
 | Script | What it does |
 |---|---|
 | `scripts/fetch_reference_data.py` | Downloads NCBI sequence report; writes `contigs.tsv`; detects sex chromosomes (if annotated in the report) and adds three columns to `contigs.tsv`: `TYPE`: assigns each contig into one of the following categories - AUTO (default assignment; autosome), chrX, chrY, chrZ, chrW, chrM (mitochondrion), `FEMALE_PLOIDY`: ploidy of females for each contig `TYPE`, `MALE_PLOIDY`: ploidy of males for each contig `TYPE`. |
-| `scripts/fetch_sample_data_genark.py` | Downloads `sample_sheet.csv`, `README.txt`, and per-sample mosdepth summary files from the GenomeArk S3 folder. |
+| `scripts/fetch_sample_data_genark.py` | Downloads `sample_sheet.csv`, `README.txt`, and per-sample coverage summary files from the GenomeArk S3 folder. |
 | `scripts/fetch_sample_data_ncbi.py` | Calls NCBI eutils esearch + efetch for each BioSample ID in `sample_sheet.csv`; writes `biosample_metadata.tsv`. |
-| `scripts/assign_genetic_sex.py` | Reads per-sample mosdepth coverage, computes XA or ZA ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv`. The coverage of the longest autosome is chosen in the calculation of the XA or ZA ratio. Similarly, if there are multiple X (or Z) contigs present in the reference, the longest X (or Z) contig is used to get the sex-chromsome coverage. The threshold of 0.75 if used to assign genetic sex: in XY systems, `FEMALE` is assigned if XA ≥ 0.75 and `MALE` otherwise, while in ZW systems, `MALE` is assigned if ZA ≥ 0.75 and `FEMALE` otherwise. |
+| `scripts/assign_genetic_sex.py` | Reads per-sample coverage summary files, computes XA (or ZA) coverage ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv`. The coverage of the longest autosome is chosen in the calculation of the XA (or ZA) ratio. Similarly, if there are multiple X (or Z) contigs present in the reference, the `assembled-molecule` X (or Z) contig is used to get the sex-chromosome coverage. The threshold of 0.75 if used to assign genetic sex: in XY systems, `FEMALE` is assigned if XA ≥ 0.75 and `MALE` otherwise, while in ZW systems, `MALE` is assigned if ZA ≥ 0.75 and `FEMALE` otherwise. |
 
 ## All considered combinations of chromosome types and female/male ploidy
 
