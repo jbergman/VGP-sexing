@@ -1,4 +1,4 @@
-# vgp-sex-chromosome
+# Sexing of individuals mapped to VGP assemblies
 
 A Snakemake workflow for assigning genetic sex to samples mapped to
 [Vertebrate Genomes Project](https://vertebrategenomesproject.org/) (VGP)
