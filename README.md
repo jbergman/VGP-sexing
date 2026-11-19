@@ -34,6 +34,18 @@ rule all
 | `scripts/fetch_sample_data_ncbi.py` | Calls NCBI eutils esearch + efetch for each BioSample ID in `sample_sheet.csv`; writes `biosample_metadata.tsv` |
 | `scripts/assign_genetic_sex.py` | Reads per-sample mosdepth coverage, computes XA or ZA ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv` |
 
+
+## All considered combinations of chromosome types and female/male ploidy
+
+| TYPE | FEMALE_PLOIDY | MALE_PLOIDY |
+|---|---|---|
+| AUTO | 2 | 2 |
+| chrX | 2 | 1 |
+| chrY | 0 | 1 |
+| chrZ | 1 | 2 |
+| chrW | 1 | 0 |
+| chrM | 1 | 1 |
+
 ## Usage
 
 ```bash
