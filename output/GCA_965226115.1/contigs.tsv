@@ -1,0 +1,24 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_965226115.1	1	1	Chromosome	NC_138939.1	Primary Assembly	42687207	OZ245580.1	17351570	40.5	assembled-molecule	chr1	AUTO	2	2
+GCA_965226115.1	2	2	Chromosome	NC_138940.1	Primary Assembly	39707173	OZ245581.1	16271267	41	assembled-molecule	chr2	AUTO	2	2
+GCA_965226115.1	3	3	Chromosome	NC_138941.1	Primary Assembly	80478882	OZ245582.1	33765976	42	assembled-molecule	chr3	AUTO	2	2
+GCA_965226115.1	4	4	Chromosome	NC_138942.1	Primary Assembly	39468868	OZ245583.1	16349882	41.5	assembled-molecule	chr4	AUTO	2	2
+GCA_965226115.1	5	5	Chromosome	NC_138943.1	Primary Assembly	41247024	OZ245584.1	16878505	41	assembled-molecule	chr5	AUTO	2	2
+GCA_965226115.1	6	6	Chromosome	NC_138944.1	Primary Assembly	44199464	OZ245585.1	18170001	41	assembled-molecule	chr6	AUTO	2	2
+GCA_965226115.1	7	7	Chromosome	NC_138945.1	Primary Assembly	69801386	OZ245586.1	28413582	40.5	assembled-molecule	chr7	AUTO	2	2
+GCA_965226115.1	8	8	Chromosome	NC_138959.1	Primary Assembly	32394120	OZ245587.1	13392514	41.5	assembled-molecule	chr8	AUTO	2	2
+GCA_965226115.1	9	9	Chromosome	NC_138960.1	Primary Assembly	36868285	OZ245588.1	15287047	41.5	assembled-molecule	chr9	AUTO	2	2
+GCA_965226115.1	10	10	Chromosome	NC_138946.1	Primary Assembly	35632062	OZ245589.1	14604614	41	assembled-molecule	chr10	AUTO	2	2
+GCA_965226115.1	11	11	Chromosome	NC_138947.1	Primary Assembly	40335072	OZ245590.1	16612566	41	assembled-molecule	chr11	AUTO	2	2
+GCA_965226115.1	12	12	Chromosome	NC_138948.1	Primary Assembly	39826800	OZ245591.1	16291033	41	assembled-molecule	chr12	AUTO	2	2
+GCA_965226115.1	13	13	Chromosome	NC_138949.1	Primary Assembly	36319027	OZ245592.1	14810863	41	assembled-molecule	chr13	AUTO	2	2
+GCA_965226115.1	14	14	Chromosome	NC_138950.1	Primary Assembly	41181902	OZ245593.1	16925512	41	assembled-molecule	chr14	AUTO	2	2
+GCA_965226115.1	15	15	Chromosome	NC_138951.1	Primary Assembly	43050027	OZ245594.1	17675500	41	assembled-molecule	chr15	AUTO	2	2
+GCA_965226115.1	16	16	Chromosome	NC_138952.1	Primary Assembly	38325416	OZ245595.1	15671851	41	assembled-molecule	chr16	AUTO	2	2
+GCA_965226115.1	17	17	Chromosome	NC_138953.1	Primary Assembly	41328000	OZ245596.1	16937478	41	assembled-molecule	chr17	AUTO	2	2
+GCA_965226115.1	18	18	Chromosome	NC_138954.1	Primary Assembly	36896395	OZ245597.1	15158783	41	assembled-molecule	chr18	AUTO	2	2
+GCA_965226115.1	19	19	Chromosome	NC_138955.1	Primary Assembly	34173976	OZ245598.1	14142167	41.5	assembled-molecule	chr19	AUTO	2	2
+GCA_965226115.1	20	20	Chromosome	NC_138956.1	Primary Assembly	38813924	OZ245599.1	15988184	41	assembled-molecule	chr20	AUTO	2	2
+GCA_965226115.1	22	21	Chromosome	NC_138957.1	Primary Assembly	38657634	OZ245600.1	16006041	41.5	assembled-molecule	chr22	AUTO	2	2
+GCA_965226115.1	23	22	Chromosome	NC_138958.1	Primary Assembly	53973796	OZ245601.1	22330889	41.5	assembled-molecule	chr23	AUTO	2	2
+GCA_965226115.1	MT		Mitochondrion		non-nuclear	16584	OZ245602.1	7601	46	assembled-molecule	chrMT	chrM	1	1

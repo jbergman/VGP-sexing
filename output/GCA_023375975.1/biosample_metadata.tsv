@@ -1,0 +1,150 @@
+sample_id	accession	title	organism	tax_id	sex	isolate	dev_stage	note	tissue	biomaterial_provider	id_SRA	strain	age	breed	cultivar	ecotype	Replicate	id_GenBank	replicate	genotype	collected_by	collection_date	stud_book_number	specimen_voucher
+SAMN01780245	SAMN11404277	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	female	Pachon cavefish	adult	This sample group is the combination of the 3 BioSamples: SAMN01780245, SAMN01780250, and SAMN01889223	heart, liver, and a part of gill	Dr. William Jeffery														
+SAMN01780250	SAMN11404277	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	female	Pachon cavefish	adult	This sample group is the combination of the 3 BioSamples: SAMN01780245, SAMN01780250, and SAMN01889223	heart, liver, and a part of gill	Dr. William Jeffery														
+SAMN03024476	SAMN03024476	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699095	Choy_05	not collected											
+SAMN03024482	SAMN03024482	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699156	Choy_13	not collected											
+SAMN03024484	SAMN03024484	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699158	Pach_3	not collected											
+SAMN03024489	SAMN03024489	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699163	Pach_12	not collected											
+SAMN03024494	SAMN03024494	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699168	Molino_7a	not collected											
+SAMN03024496	SAMN03024496	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699170	Molino_10b	not collected											
+SAMN03024499	SAMN03024499	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699173	Molino_13b	not collected											
+SAMN03024503	SAMN03024503	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS699177	Rascon_04	not collected											
+SAMN03421314	SAMN03421314	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS876052	Tinaja_11	not collected											
+SAMN03421319	SAMN03421319	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS876059	Tinaja_C	not collected											
+SAMN03421322	SAMN03421322	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS876062	Tinaja_5	not collected											
+SAMN03421323	SAMN03421323	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS876063	Tinaja_E	not collected											
+SAMN03421324	SAMN03421324	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS876064	Rascon_13	not collected											
+SAMN03421325	SAMN03421325	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected				fin	not collected	SRS876066	Rascon_15	not collected											
+SAMN03734634	SAMN03734634	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected			Fin		SRS945432	not collected	not collected	not collected	not collected	Surface								
+SAMN05589753	SAMN05589753	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629275	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 1							
+SAMN05589756	SAMN05589756	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629279	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 4							
+SAMN05589758	SAMN05589758	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629270	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 6							
+SAMN05589760	SAMN05589760	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629288	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 8							
+SAMN05589762	SAMN05589762	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629306	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 10							
+SAMN05589763	SAMN05589763	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629271	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 11							
+SAMN05589765	SAMN05589765	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629273	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 13							
+SAMN05589766	SAMN05589766	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629274	not collected	not collected	not collected	not collected	Cave Pool 1	Biological Replicate 14							
+SAMN05589767	SAMN05589767	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629281	not collected	not collected	not collected	not collected	Cave Pool 5	Biological Replicate 1							
+SAMN05589768	SAMN05589768	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629282	not collected	not collected	not collected	not collected	Cave Pool 5	Biological Replicate 2							
+SAMN05589771	SAMN05589771	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not collected	not collected	Adult		Fin		SRS1629285	not collected	not collected	not collected	not collected	Cave Pool 5	Biological Replicate 5							
+SAMN08200084	SAMN02981523	Sample from Astyanax mexicanus	Astyanax mexicanus	7994	female	Rio Sabinas/Rio Valles surface cross	adult	changed in April 2019 to the surface fish sample instead of the cavefish sample (that is now SAMN11404277); This sample group is the combination of the 3 BioSamples SAMN08153771, SAMN08153804, SAMN08200084	muscle	Dr. Richard Borowsky								Rio Sabinas/Rio Valles surface cross						
+SAMN12478772	SAMN12478772	Mante_rep3	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211174					surface			Mante_rep3					
+SAMN12478773	SAMN12478773	Mante_rep4	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211175					surface			Mante_rep4					
+SAMN12478774	SAMN12478774	Mante_rep5	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211168					surface			Mante_rep5					
+SAMN12478775	SAMN12478775	Mante_rep6	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211169					surface			Mante_rep6					
+SAMN12478777	SAMN12478777	Mante_rep8	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211171					surface			Mante_rep8					
+SAMN12478779	SAMN12478779	Mante_rep10	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211177					surface			Mante_rep10					
+SAMN12478782	SAMN12478782	Peroles_rep1	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211183					surface			Peroles_rep1					
+SAMN12478783	SAMN12478783	Peroles_rep2	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211181					surface			Peroles_rep2					
+SAMN12478784	SAMN12478784	Peroles_rep3	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211179					surface			Peroles_rep3					
+SAMN12478786	SAMN12478786	Peroles_rep5	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211187					surface			Peroles_rep5					
+SAMN12478787	SAMN12478787	Peroles_rep6	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211160					surface			Peroles_rep6					
+SAMN12478790	SAMN12478790	Peroles_rep9	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211184					surface			Peroles_rep9					
+SAMN12478791	SAMN12478791	Peroles_rep10	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211182					surface			Peroles_rep10					
+SAMN12478792	SAMN12478792	Tigre_rep1	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211158					cave			Tigre_rep1					
+SAMN12478793	SAMN12478793	Tigre_rep2	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211157					cave			Tigre_rep2					
+SAMN12478796	SAMN12478796	Vasquez_rep3	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211163					cave			Vasquez_rep3					
+SAMN12478798	SAMN12478798	Vasquez_rep5	Astyanax mexicanus	7994	not collected		adult		fin		SRS5211167					cave			Vasquez_rep5					
+SAMN13339073	SAMN13339073	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696716					Arroryo			Arroryo_rep2					
+SAMN13339076	SAMN13339076	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696719					Jos			Jos_rep1					
+SAMN13339077	SAMN13339077	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696720					Molino			MolinoF0male_rep1					
+SAMN13339078	SAMN13339078	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696721					Pachon			PachonF0male_rep1					
+SAMN13339079	SAMN13339079	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696722					Surface			SurfaceF0female_rep1					
+SAMN13339080	SAMN13339080	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696723					SurfacexMolino			SurfacexMolinoF1female_rep1					
+SAMN13339081	SAMN13339081	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696724					SurfacexMolino			SurfacexMolinoF1male_rep1					
+SAMN13339083	SAMN13339083	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696727					SurfacexPachon			SurfacexPachonF1male_rep1					
+SAMN13339084	SAMN13339084	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696728					SurfacexTinaja			SurfacexTinajaF1female_rep1					
+SAMN13339085	SAMN13339085	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696729					SurfacexTinaja			SurfacexTinajaF1male_rep1					
+SAMN13339086	SAMN13339086	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696730					Sabinos			Japones_rep3					
+SAMN13339088	SAMN13339088	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696732					Jos			Jos_rep2					
+SAMN13339089	SAMN13339089	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696733					Jos			Jos_rep3					
+SAMN13339090	SAMN13339090	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696734					Jos			Jos_rep4					
+SAMN13339091	SAMN13339091	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696735					Jos			Jos_rep5					
+SAMN13339092	SAMN13339092	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696737					Palmaseca			Palmaseca_rep1					
+SAMN13339093	SAMN13339093	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696738					Japones			Japones_rep4					
+SAMN13339094	SAMN13339094	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696739					Japones			Japones_rep5					
+SAMN13339096	SAMN13339096	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696741					Toro			Toro_rep1					
+SAMN13339097	SAMN13339097	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696742					Toro			Toro_rep2					
+SAMN13339098	SAMN13339098	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696743					Toro			Toro_rep3					
+SAMN13339101	SAMN13339101	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696703					Palmaseca			Palmaseca_rep4					
+SAMN13339104	SAMN13339104	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696736					Palmaseca			Palmaseca_rep7					
+SAMN13339105	SAMN13339105	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696744					Palmaseca			Palmaseca_rep8					
+SAMN13339106	SAMN13339106	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696745					Montecillos			Montecillos_rep1					
+SAMN13339109	SAMN13339109	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696693					Montecillos			Montecillos_rep4					
+SAMN13339110	SAMN13339110	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696694					Montecillos			Montecillos_rep5					
+SAMN13339111	SAMN13339111	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696695					Montecillos			Montecillos_rep6					
+SAMN13339112	SAMN13339112	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696696					Montecillos			Montecillos_rep7					
+SAMN13339113	SAMN13339113	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696697					Montecillos			Montecillos_rep8					
+SAMN13339115	SAMN13339115	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696699					Tigre			Tigre_rep1					
+SAMN13339116	SAMN13339116	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696700					Tigre			Tigre_rep2					
+SAMN13339118	SAMN13339118	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696702					Tigre			Tigre_rep4					
+SAMN13339119	SAMN13339119	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696704					Tigre			Tigre_rep5					
+SAMN13339120	SAMN13339120	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696705					Tigre			Tigre_rep6					
+SAMN13339121	SAMN13339121	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696706					Tigre			Tigre_rep7					
+SAMN13339122	SAMN13339122	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696707					Yerbaniz			Yerbaniz_rep1					
+SAMN13339123	SAMN13339123	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696708					Yerbaniz			Yerbaniz_rep2					
+SAMN13339124	SAMN13339124	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696709					Yerbaniz			Yerbaniz_rep3					
+SAMN13339125	SAMN13339125	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696710					Yerbaniz			Yerbaniz_rep4					
+SAMN13339126	SAMN13339126	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696711					Yerbaniz			Yerbaniz_rep5					
+SAMN13339127	SAMN13339127	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696712					Yerbaniz			Yerbaniz_rep6					
+SAMN13339128	SAMN13339128	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS5696713					Yerbaniz			Yerbaniz_rep7					
+SAMN13911671	SAMN13911671	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057167					Escondido			Escondido_rep1					
+SAMN13911672	SAMN13911672	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057168					Japlin			Japlin_rep1					
+SAMN13911673	SAMN13911673	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057179					Japones			Japones_rep1					
+SAMN13911674	SAMN13911674	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057184					Molino			Molino_rep1					
+SAMN13911675	SAMN13911675	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057185					Molino			Molino_rep2					
+SAMN13911677	SAMN13911677	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057187					Molino			Molino_rep4					
+SAMN13911679	SAMN13911679	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057189					Pachon			Pachon_rep1					
+SAMN13911681	SAMN13911681	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057169					Rascon			Rascon_rep2					
+SAMN13911682	SAMN13911682	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057170					Rascon			Rascon_rep3					
+SAMN13911687	SAMN13911687	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057175					Tigre			Tigre_rep1					
+SAMN13911689	SAMN13911689	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057177					Tinaja			Tinaja_rep2					
+SAMN13911691	SAMN13911691	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057180					Tinaja			Tinaja_rep4					
+SAMN13911694	SAMN13911694	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS6057183					Vanquez			Vanquez_rep1					
+SAMN14118023	SAMN14118023	Astyanax mexicanus 0B Male sample	Astyanax mexicanus	7994	male				Muscle	Department of Structural and Functional Biology, Institute of Bioscience at Botucatu, So Paulo State University (UNESP), Botucatu, SP, Brazil	SRS6154970	Teleost	not applicable							0B				
+SAMN14118360	SAMN14118360	Astyanax mexicanus 1B Male sample	Astyanax mexicanus	7994	male				Muscle	Department of Structural and Functional Biology, Institute of Bioscience at Botucatu, So Paulo State University (UNESP), Botucatu, SP, Brazil	SRS6154971	Teleost	not applicable							1B				
+SAMN14118361	SAMN14118361	Astyanax mexicanus 2B Male sample	Astyanax mexicanus	7994	male				Muscle		SRS6154972	Teleost	not applicable							2B				
+SAMN18310658	SAMN18310658	Pooled gDNA from 91 Pachon Cavefish phenotypic males	Astyanax mexicanus	7994	male				fin clips	Boudjema Imarazene, INRAE LPGP, 35000 Rennes, France	SRS9132748		Adult			Pachon cave					Boudjema Imarazene, INRAE LPGP, 35000 Rennes, France	2019-02-12	Pach_MPool	
+SAMN18310659	SAMN18310659	Pooled gDNA from 81 Pachon Cavefish phenotypic females	Astyanax mexicanus	7994	female				fin clips	Boudjema Imarazene, INRAE LPGP, 35000 Rennes, France	SRS9132749		Adult			Pachon cave					Boudjema Imarazene, INRAE LPGP, 35000 Rennes, France	2019-02-12	Pach_FPool	
+SAMN30594026	SAMN30594026	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952988					Arroryo			Arroryo_rep1					
+SAMN30594027	SAMN30594027	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952989					Arroyo			Arroryo_rep2					
+SAMN30594028	SAMN30594028	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953000					Arroyo			Arroryo_rep3					
+SAMN30594029	SAMN30594029	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953011					Arroyo			Arroryo_rep4					
+SAMN30594030	SAMN30594030	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953022					Arroyo			Arroryo_rep5					
+SAMN30594031	SAMN30594031	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953030					Arroyo			Arroryo_rep6					
+SAMN30594034	SAMN30594034	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953016					Escondido			Escondido_rep1					
+SAMN30594035	SAMN30594035	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953017					Escondido			Escondido_rep2					
+SAMN30594036	SAMN30594036	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953018					Escondido			Escondido_rep3					
+SAMN30594037	SAMN30594037	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953019					Escondido			Escondido_rep4					
+SAMN30594038	SAMN30594038	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953020					Escondido			Escondido_rep5					
+SAMN30594039	SAMN30594039	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953021					Escondido			Escondido_rep6					
+SAMN30594041	SAMN30594041	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953024					Escondido			Escondido_rep8					
+SAMN30594042	SAMN30594042	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953033					Gallinas			Gallinas_rep1					
+SAMN30594044	SAMN30594044	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952990					Gallinas			Gallinas_rep3					
+SAMN30594045	SAMN30594045	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953025					Jineo			Jineo_rep1					
+SAMN30594046	SAMN30594046	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953026					Jineo			Jineo_rep2					
+SAMN30594047	SAMN30594047	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953027					Jineo			Jineo_rep3					
+SAMN30594048	SAMN30594048	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953028					Jineo			Jineo_rep4					
+SAMN30594049	SAMN30594049	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953029					Jineo			Jineo_rep5					
+SAMN30594051	SAMN30594051	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952992					Molino			Molino_rep1					
+SAMN30594052	SAMN30594052	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952993					Molino			Molino_rep2					
+SAMN30594053	SAMN30594053	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952994					Pachon			Pachon_rep1					
+SAMN30594054	SAMN30594054	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952995					Pachon			Pachon_rep2					
+SAMN30594055	SAMN30594055	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952996					Pachon			Pachon_rep3					
+SAMN30594056	SAMN30594056	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952997					Pachon			Pachon_rep4					
+SAMN30594057	SAMN30594057	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952998					Pachon			Pachon_rep5					
+SAMN30594058	SAMN30594058	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14952999					Pachon			Pachon_rep6					
+SAMN30594059	SAMN30594059	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953001					Pachon			Pachon_rep7					
+SAMN30594060	SAMN30594060	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953002					Pachon			Pachon_rep8					
+SAMN30594061	SAMN30594061	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953003					Subterraneo			Subterraneo_rep1					
+SAMN30594062	SAMN30594062	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953004					Subterraneo			Subterraneo_rep2					
+SAMN30594063	SAMN30594063	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953005					Subterraneo			Subterraneo_rep3					
+SAMN30594067	SAMN30594067	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953009					Subterraneo			Subterraneo_rep7					
+SAMN30594068	SAMN30594068	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953010					Subterraneo			Subterraneo_rep8					
+SAMN30594069	SAMN30594069	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953015					Tinaja			Tinaja_rep1					
+SAMN30594071	SAMN30594071	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	not provided		adult		fin		SRS14953013					Tinaja			Tinaja_rep3					
+SAMN32912814	SAMN32912814	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	missing		adults		Fin clips		SRS16583589		missing			cave								Chica1
+SAMN32912815	SAMN32912815	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	missing		adults		Fin clips		SRS16583590		missing			cave								Chica2
+SAMN32912816	SAMN32912816	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	missing		adults		Fin clips		SRS16583592		missing			cave								Chica3
+SAMN32912817	SAMN32912817	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	missing		adults		Fin clips		SRS16583591		missing			cave								Chica4
+SAMN32912818	SAMN32912818	Model organism or animal sample from Astyanax mexicanus	Astyanax mexicanus	7994	missing		adults		Fin clips		SRS16583593		missing			cave								Chica5

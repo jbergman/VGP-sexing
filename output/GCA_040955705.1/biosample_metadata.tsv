@@ -1,0 +1,29 @@
+sample_id	accession	title	organism	tax_id	id_SRA	geo_loc_name	tissue	sex	dev_stage	isolate	ecotype	age	breed	biomaterial_provider	strain	cultivar	collection_date	XA_RATIO	GENETIC_SEX
+SAMN04312208	SAMN04312208	South African Lycaon pictus	Lycaon pictus	9622	SRS1188228	South Africa	blood	male	Adult	South Africa Ananku								0.5279	MALE
+SAMN04312209	SAMN04312209	Kenyan Lycaon pictus	Lycaon pictus	9622	SRS1188231	Kenya	blood	female	Adult	Kenya WGF20								0.9570	FEMALE
+SAMN09917439	SAMN09917439	Model organism or animal sample from Lycaon pictus	Lycaon pictus	9622	SRS3799396		Whole blood	female	Adult	Sister 1	Zimbabwe	missing						1.0382	FEMALE
+SAMN09917479	SAMN09917479	Model organism or animal sample from Lycaon pictus	Lycaon pictus	9622	SRS3799397		Whole blood	female	Adult		Zimbabwe	missing						1.0395	FEMALE
+SAMN09917480	SAMN09917480	Model organism or animal sample from Lycaon pictus	Lycaon pictus	9622	SRS3799398		Whole blood	female	Adult		Captive	missing						1.0397	FEMALE
+SAMN09924608	SAMN09924608	Model organism or animal sample from Lycaon pictus	Lycaon pictus	9622	SRS3718579		DNA	female	adult	subordinate female in the Skukuza pack			Kruger National Park					1.0245	FEMALE
+SAMN19522958	SAMN19522958	PIC006558	Lycaon pictus	9622	SRS9149826		blood	female	missing	PIC006558		missing	lycaon pictus	The Dog Genome Project, university Rennes				0.9989	FEMALE
+SAMN19522959	SAMN19522959	PIC006566	Lycaon pictus	9622	SRS9149827		blood	male	missing	PIC006566		missing	lycaon pictus	The Dog Genome Project, university Rennes				0.5291	MALE
+SAMN50885739	SAMN50885739	MTP01	Lycaon pictus	9622	SRS26348375	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT235	not collected	2021-07-06	0.5406	MALE
+SAMN50885740	SAMN50885740	MTP02	Lycaon pictus	9622	SRS26348376	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT260	not collected	2021-09-01	0.9659	FEMALE
+SAMN50885741	SAMN50885741	MTP03	Lycaon pictus	9622	SRS26348387	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT278	not collected	2019-06-01	0.9924	FEMALE
+SAMN50885742	SAMN50885742	MTP04	Lycaon pictus	9622	SRS26348388	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT283	not collected	2019-06-01	0.9832	FEMALE
+SAMN50885743	SAMN50885743	MTP05	Lycaon pictus	9622	SRS26348389	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT284	not collected	2018-12-12	0.9949	FEMALE
+SAMN50885744	SAMN50885744	MTP06	Lycaon pictus	9622	SRS26348390	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT298	not collected	2019-04-18	0.5362	MALE
+SAMN50885745	SAMN50885745	MTP07	Lycaon pictus	9622	SRS26348391	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT302	not collected	2019-04-18	1.0109	FEMALE
+SAMN50885746	SAMN50885746	MTP08	Lycaon pictus	9622	SRS26348392	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT309	not collected	2018-12-07	0.5370	MALE
+SAMN50885747	SAMN50885747	MTP09	Lycaon pictus	9622	SRS26348393	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT343	not collected	2018-07-07	0.5365	MALE
+SAMN50885748	SAMN50885748	MTP10	Lycaon pictus	9622	SRS26348394	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT349	not collected	2021-03-26	0.5373	MALE
+SAMN50885749	SAMN50885749	FRM01	Lycaon pictus	9622	SRS26348377	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT230	not collected	2021-05-15	0.5367	MALE
+SAMN50885750	SAMN50885750	FRM02	Lycaon pictus	9622	SRS26348378	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT231	not collected	2020-08-28	0.5282	MALE
+SAMN50885751	SAMN50885751	FRM03	Lycaon pictus	9622	SRS26348379	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	EWT234	not collected	2020-02-19	0.9607	FEMALE
+SAMN50885752	SAMN50885752	FRM04	Lycaon pictus	9622	SRS26348380	South Africa	Blood	not provided	not collected	not collected	not collected	not collected	not collected	EWT	S6	not collected	2015-10-07	0.5443	MALE
+SAMN50885753	SAMN50885753	FRM05	Lycaon pictus	9622	SRS26348381	Zimbabwe	Blood	not provided	not collected	not collected	not collected	not collected	not collected	AWCF	S12	not collected	2015-10-07	0.5411	MALE
+SAMN50885754	SAMN50885754	FRM06	Lycaon pictus	9622	SRS26348382	Zimbabwe	Blood	not provided	not collected	not collected	not collected	not collected	not collected	AWCF	S20	not collected	2015-10-07	0.9643	FEMALE
+SAMN50885755	SAMN50885755	FRM07	Lycaon pictus	9622	SRS26348383	Zimbabwe	Blood	not provided	not collected	not collected	not collected	not collected	not collected	AWCF	S25	not collected	2015-10-07	0.5402	MALE
+SAMN50885756	SAMN50885756	FRM08	Lycaon pictus	9622	SRS26348384	Zimbabwe	Blood	not provided	not collected	not collected	not collected	not collected	not collected	AWCF	S30	not collected	2015-10-07	0.5000	MALE
+SAMN50885757	SAMN50885757	FRM09	Lycaon pictus	9622	SRS26348385	Zimbabwe	Blood	not provided	not collected	not collected	not collected	not collected	not collected	AWCF	S57	not collected	2015-10-07	0.5391	MALE
+SAMN50885758	SAMN50885758	FRM10	Lycaon pictus	9622	SRS26348386	Zimbabwe	Blood	not provided	not collected	not collected	not collected	not collected	not collected	AWCF	S73	not collected	2015-10-07	0.5181	MALE

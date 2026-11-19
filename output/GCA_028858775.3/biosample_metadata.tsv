@@ -1,0 +1,11 @@
+sample_id	accession	title	organism	tax_id	id_SRA	isolate	dev_stage	collection_date	geo_loc_name	sex	tissue	XA_RATIO	GENETIC_SEX
+SAMN53084319	SAMN53084319	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987889	1031	Adult	2005	USA: Mesa, Arizona	female	Blood	0.9899	FEMALE
+SAMN53084320	SAMN53084320	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987890	1034	Adult	2005	USA: Mesa, Arizona	female	Blood	0.9936	FEMALE
+SAMN53084321	SAMN53084321	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987891	1059	Adult	2005	USA: Mesa, Arizona	female	Blood	1.0111	FEMALE
+SAMN53084322	SAMN53084322	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987892	1064	Adult	2005	USA: Mesa, Arizona	female	Blood	1.0044	FEMALE
+SAMN53084323	SAMN53084323	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987893	1076	Adult	2005	USA: Mesa, Arizona	female	Blood	0.9988	FEMALE
+SAMN53084324	SAMN53084324	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987894	1078	Adult	2005	USA: Mesa, Arizona	female	Blood	0.9881	FEMALE
+SAMN53084325	SAMN53084325	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987895	2003	Adult	2005	USA: Mesa, Arizona	male	Blood	0.5241	MALE
+SAMN53084326	SAMN53084326	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987896	2047	Adult	2005	USA: Mesa, Arizona	male	Blood	0.5169	MALE
+SAMN53084327	SAMN53084327	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987897	2059	Adult	2005	USA: Mesa, Arizona	male	Blood	0.5203	MALE
+SAMN53084328	SAMN53084328	Model organism or animal sample from Pan troglodytes	Pan troglodytes	9598	SRS26987898	2073	Adult	2005	USA: Mesa, Arizona	male	Blood	0.5088	MALE

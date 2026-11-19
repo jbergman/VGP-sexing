@@ -1,0 +1,12 @@
+sample_id	accession	title	organism	tax_id	id_SRA	strain	age	sex	tissue	collection_date	genotype	sample_type	timepoint	quadruplet_id	individual	isolate	dev_stage	geo_loc_name	XA_RATIO	GENETIC_SEX
+SAMN13390506	SAMN13390506	DNA-seq  of quadruplets 12-10	Dasypus novemcinctus	9361	SRS5719822	not applicable	6 years	female	Blood	2012	WT	DNA	not applicable	12-10	not applicable				0.9541	FEMALE
+SAMN13390507	SAMN13390507	DNA-seq of quadruplets 15-500	Dasypus novemcinctus	9361	SRS5719823	not applicable	3 years	male	Blood	2015	WT	DNA	not applicable	15-50	not applicable				0.5036	MALE
+SAMN13390508	SAMN13390508	DNA-seq of quadruplets 16-200	Dasypus novemcinctus	9361	SRS5719824	not applicable	2 years	female	Blood	2016	WT	DNA	not applicable	16-20	not applicable				0.9516	FEMALE
+SAMN13390509	SAMN13390509	DNA-seq of quadruplets 16-30	Dasypus novemcinctus	9361	SRS5719825	not applicable	2 years	female	Blood	2016	WT	DNA	not applicable	16-30	not applicable				0.9858	FEMALE
+SAMN13390510	SAMN13390510	DNA-seq of quadruplets 16-90	Dasypus novemcinctus	9361	SRS5719826	not applicable	2 years	male	Blood	2016	WT	DNA	not applicable	16-90	not applicable				0.5009	MALE
+SAMN51799584	SAMN51799584	Model organism or animal sample from Dasypus novemcinctus	Dasypus novemcinctus	9361	SRS26672047		missing	female	missing	not applicable						DNO0001	missing	missing	0.9760	FEMALE
+SAMN51799585	SAMN51799585	Model organism or animal sample from Dasypus novemcinctus	Dasypus novemcinctus	9361	SRS26672048		missing	female	missing	not applicable						DNO0002	missing	missing	0.9805	FEMALE
+SAMN51799586	SAMN51799586	Model organism or animal sample from Dasypus novemcinctus	Dasypus novemcinctus	9361	SRS26672049		missing	male	missing	not applicable						DNO0003	missing	missing	0.5361	MALE
+SAMN51799587	SAMN51799587	Model organism or animal sample from Dasypus novemcinctus	Dasypus novemcinctus	9361	SRS26672050		missing	male	missing	not applicable						DNO6	missing	missing	0.5251	MALE
+SAMN51799588	SAMN51799588	Model organism or animal sample from Dasypus novemcinctus	Dasypus novemcinctus	9361	SRS26672051		missing	male	missing	not applicable						H2316	missing	missing	0.5250	MALE
+SAMN51799589	SAMN51799589	Model organism or animal sample from Dasypus novemcinctus	Dasypus novemcinctus	9361	SRS26672052		missing	female	missing	not applicable						H2317	missing	missing	1.0071	FEMALE

@@ -1,0 +1,301 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_055764355.1	1	1	Chromosome	Primary Assembly	195044740	CM147221.1	76528430	42	assembled-molecule	SUPER_1	AUTO	2	2
+GCA_055764355.1	2	2	Chromosome	Primary Assembly	135943202	CM147222.1	55323435	41.5	assembled-molecule	SUPER_2	AUTO	2	2
+GCA_055764355.1	3	3	Chromosome	Primary Assembly	130359720	CM147223.1	53824730	41.5	assembled-molecule	SUPER_3	AUTO	2	2
+GCA_055764355.1	4	4	Chromosome	Primary Assembly	76898014	CM147224.1	31084754	40.5	assembled-molecule	SUPER_4	AUTO	2	2
+GCA_055764355.1	5	5	Chromosome	Primary Assembly	74863146	CM147225.1	30455304	41	assembled-molecule	SUPER_5	AUTO	2	2
+GCA_055764355.1	6	6	Chromosome	Primary Assembly	67351901	CM147226.1	27428066	42	assembled-molecule	SUPER_6	AUTO	2	2
+GCA_055764355.1	7	7	Chromosome	Primary Assembly	48792274	CM147227.1	22079772	45.5	assembled-molecule	SUPER_7	AUTO	2	2
+GCA_055764355.1	8	8	Chromosome	Primary Assembly	37849222	CM147228.1	16201532	43	assembled-molecule	SUPER_8	AUTO	2	2
+GCA_055764355.1	9	9	Chromosome	Primary Assembly	32338083	CM147229.1	14778674	46	assembled-molecule	SUPER_9	AUTO	2	2
+GCA_055764355.1	10	10	Chromosome	Primary Assembly	32239491	CM147230.1	13405495	43	assembled-molecule	SUPER_10	AUTO	2	2
+GCA_055764355.1	11	11	Chromosome	Primary Assembly	29720272	CM147231.1	13769880	47	assembled-molecule	SUPER_11	AUTO	2	2
+GCA_055764355.1	12	12	Chromosome	Primary Assembly	28954177	CM147232.1	13321525	46	assembled-molecule	SUPER_12	AUTO	2	2
+GCA_055764355.1	13	13	Chromosome	Primary Assembly	27558619	CM147233.1	12707675	46.5	assembled-molecule	SUPER_13	AUTO	2	2
+GCA_055764355.1	14	14	Chromosome	Primary Assembly	27075784	CM147234.1	12729066	47	assembled-molecule	SUPER_14	AUTO	2	2
+GCA_055764355.1	16	15	Chromosome	Primary Assembly	21438181	CM147235.1	10220697	47.5	assembled-molecule	SUPER_16	AUTO	2	2
+GCA_055764355.1	15	16	Chromosome	Primary Assembly	24775012	CM147236.1	11725085	47.5	assembled-molecule	SUPER_15	AUTO	2	2
+GCA_055764355.1	17	17	Chromosome	Primary Assembly	19254625	CM147237.1	9937485	51.5	assembled-molecule	SUPER_17	AUTO	2	2
+GCA_055764355.1	18	18	Chromosome	Primary Assembly	16730124	CM147238.1	8018707	48	assembled-molecule	SUPER_18	AUTO	2	2
+GCA_055764355.1	19	19	Chromosome	Primary Assembly	14650652	CM147239.1	6505116	47.5	assembled-molecule	SUPER_19	AUTO	2	2
+GCA_055764355.1	20	20	Chromosome	Primary Assembly	14349565	CM147240.1	7000512	49	assembled-molecule	SUPER_20	AUTO	2	2
+GCA_055764355.1	21	21	Chromosome	Primary Assembly	13819032	CM147241.1	6867601	49.5	assembled-molecule	SUPER_21	AUTO	2	2
+GCA_055764355.1	22	22	Chromosome	Primary Assembly	12780336	CM147242.1	6136389	48.5	assembled-molecule	SUPER_22	AUTO	2	2
+GCA_055764355.1	23	23	Chromosome	Primary Assembly	11521262	CM147243.1	5716995	50	assembled-molecule	SUPER_23	AUTO	2	2
+GCA_055764355.1	24	24	Chromosome	Primary Assembly	10999434	CM147244.1	5437520	49.5	assembled-molecule	SUPER_24	AUTO	2	2
+GCA_055764355.1	25	25	Chromosome	Primary Assembly	9876152	CM147245.1	4998689	52	assembled-molecule	SUPER_25	AUTO	2	2
+GCA_055764355.1	26	26	Chromosome	Primary Assembly	8332243	CM147246.1	4328297	52.5	assembled-molecule	SUPER_26	AUTO	2	2
+GCA_055764355.1	27	27	Chromosome	Primary Assembly	7843998	CM147247.1	4131968	52.5	assembled-molecule	SUPER_27	AUTO	2	2
+GCA_055764355.1	28	28	Chromosome	Primary Assembly	7545696	CM147248.1	3658774	50	assembled-molecule	SUPER_28	AUTO	2	2
+GCA_055764355.1	29	29	Chromosome	Primary Assembly	6036874	CM147249.1	2629834	53.5	assembled-molecule	SUPER_29	AUTO	2	2
+GCA_055764355.1	30	30	Chromosome	Primary Assembly	4754170	CM147250.1	2645480	55.5	assembled-molecule	SUPER_30	AUTO	2	2
+GCA_055764355.1	W	31	Chromosome	Primary Assembly	82347276	CM147251.1	41232796	50	assembled-molecule	SUPER_W	chrW	1	0
+GCA_055764355.1	31	32	Chromosome	Primary Assembly	4635671	CM147252.1	2413304	52	assembled-molecule	SUPER_31	AUTO	2	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	112792491	CM147253.1	48105811	43	assembled-molecule	SUPER_Z	chrZ	1	2
+GCA_055764355.1	32	34	Chromosome	Primary Assembly	4439182	CM147254.1	2377612	53.5	assembled-molecule	SUPER_32	AUTO	2	2
+GCA_055764355.1	33	35	Chromosome	Primary Assembly	4344101	CM147255.1	2384685	55	assembled-molecule	SUPER_33	AUTO	2	2
+GCA_055764355.1	34	36	Chromosome	Primary Assembly	4239835	CM147256.1	2212853	52	assembled-molecule	SUPER_34	AUTO	2	2
+GCA_055764355.1	35	37	Chromosome	Primary Assembly	3569502	CM147257.1	1947774	54.5	assembled-molecule	SUPER_35	AUTO	2	2
+GCA_055764355.1	36	38	Chromosome	Primary Assembly	1046708	CM147258.1	591488	56.5	assembled-molecule	SUPER_36	AUTO	2	2
+GCA_055764355.1	37	39	Chromosome	Primary Assembly	999650	CM147259.1	604249	60.5	assembled-molecule	SUPER_37	AUTO	2	2
+GCA_055764355.1	38	40	Chromosome	Primary Assembly	661857	CM147260.1	370877	56	assembled-molecule	SUPER_38	AUTO	2	2
+GCA_055764355.1	39	41	Chromosome	Primary Assembly	169518	CM147261.1	97773	58	assembled-molecule	SUPER_39	AUTO	2	2
+GCA_055764355.1	2	2	Chromosome	Primary Assembly	192777	JBVTZT010000092.1			unlocalized-scaffold	SUPER_2_unloc_1	AUTO	2	2
+GCA_055764355.1	9	9	Chromosome	Primary Assembly	2506226	JBVTZT010000041.1			unlocalized-scaffold	SUPER_9_unloc_3	AUTO	2	2
+GCA_055764355.1	9	9	Chromosome	Primary Assembly	1161222	JBVTZT010000050.1			unlocalized-scaffold	SUPER_9_unloc_1	AUTO	2	2
+GCA_055764355.1	9	9	Chromosome	Primary Assembly	1021455	JBVTZT010000052.1			unlocalized-scaffold	SUPER_9_unloc_2	AUTO	2	2
+GCA_055764355.1	13	13	Chromosome	Primary Assembly	838670	JBVTZT010000057.1			unlocalized-scaffold	SUPER_13_unloc_1	AUTO	2	2
+GCA_055764355.1	28	28	Chromosome	Primary Assembly	2080912	JBVTZT010000043.1			unlocalized-scaffold	SUPER_28_unloc_1	AUTO	2	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	1484512	JBVTZT010000046.1			unlocalized-scaffold	SUPER_Z_unloc_13	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	884624	JBVTZT010000056.1			unlocalized-scaffold	SUPER_Z_unloc_6	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	782957	JBVTZT010000058.1			unlocalized-scaffold	SUPER_Z_unloc_2	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	574053	JBVTZT010000064.1			unlocalized-scaffold	SUPER_Z_unloc_4	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	572524	JBVTZT010000066.1			unlocalized-scaffold	SUPER_Z_unloc_7	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	524029	JBVTZT010000069.1			unlocalized-scaffold	SUPER_Z_unloc_8	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	312888	JBVTZT010000074.1			unlocalized-scaffold	SUPER_Z_unloc_5	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	304183	JBVTZT010000075.1			unlocalized-scaffold	SUPER_Z_unloc_9	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	273748	JBVTZT010000077.1			unlocalized-scaffold	SUPER_Z_unloc_3	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	251738	JBVTZT010000080.1			unlocalized-scaffold	SUPER_Z_unloc_10	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	214866	JBVTZT010000087.1			unlocalized-scaffold	SUPER_Z_unloc_12	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	203459	JBVTZT010000088.1			unlocalized-scaffold	SUPER_Z_unloc_1	chrZ	1	2
+GCA_055764355.1	Z	33	Chromosome	Primary Assembly	171216	JBVTZT010000096.1			unlocalized-scaffold	SUPER_Z_unloc_11	chrZ	1	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	4386079	JBVTZT010000036.1			unplaced-scaffold	Scaffold_89	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	3654345	JBVTZT010000039.1			unplaced-scaffold	Scaffold_92	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	2417698	JBVTZT010000042.1			unplaced-scaffold	Scaffold_82	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	1813851	JBVTZT010000044.1			unplaced-scaffold	Scaffold_97	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	1603631	JBVTZT010000045.1			unplaced-scaffold	Scaffold_99	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	1286147	JBVTZT010000047.1			unplaced-scaffold	Scaffold_85	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	1285959	JBVTZT010000048.1			unplaced-scaffold	Scaffold_86	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	1277607	JBVTZT010000049.1			unplaced-scaffold	Scaffold_100	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	926851	JBVTZT010000054.1			unplaced-scaffold	Scaffold_102	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	919483	JBVTZT010000055.1			unplaced-scaffold	Scaffold_103	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	628157	JBVTZT010000060.1			unplaced-scaffold	Scaffold_105	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	613237	JBVTZT010000061.1			unplaced-scaffold	Scaffold_106	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	592450	JBVTZT010000062.1			unplaced-scaffold	Scaffold_107	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	589674	JBVTZT010000063.1			unplaced-scaffold	Scaffold_108	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	573667	JBVTZT010000065.1			unplaced-scaffold	Scaffold_109	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	565786	JBVTZT010000067.1			unplaced-scaffold	Scaffold_110	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	532875	JBVTZT010000068.1			unplaced-scaffold	Scaffold_113	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	414692	JBVTZT010000070.1			unplaced-scaffold	Scaffold_118	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	391722	JBVTZT010000071.1			unplaced-scaffold	Scaffold_120	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	324344	JBVTZT010000072.1			unplaced-scaffold	Scaffold_124	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	324194	JBVTZT010000073.1			unplaced-scaffold	Scaffold_125	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	294457	JBVTZT010000076.1			unplaced-scaffold	Scaffold_126	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	271493	JBVTZT010000078.1			unplaced-scaffold	Scaffold_127	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	267218	JBVTZT010000079.1			unplaced-scaffold	Scaffold_128	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	244933	JBVTZT010000081.1			unplaced-scaffold	Scaffold_130	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	241094	JBVTZT010000082.1			unplaced-scaffold	Scaffold_131	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	238281	JBVTZT010000083.1			unplaced-scaffold	Scaffold_132	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	233617	JBVTZT010000084.1			unplaced-scaffold	Scaffold_133	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	225889	JBVTZT010000085.1			unplaced-scaffold	Scaffold_134	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	215663	JBVTZT010000086.1			unplaced-scaffold	Scaffold_83	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	203331	JBVTZT010000089.1			unplaced-scaffold	Scaffold_135	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	198647	JBVTZT010000090.1			unplaced-scaffold	Scaffold_136	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	197979	JBVTZT010000091.1			unplaced-scaffold	Scaffold_137	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	186580	JBVTZT010000093.1			unplaced-scaffold	Scaffold_139	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	178033	JBVTZT010000094.1			unplaced-scaffold	Scaffold_140	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	178018	JBVTZT010000095.1			unplaced-scaffold	Scaffold_141	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	165795	JBVTZT010000098.1			unplaced-scaffold	Scaffold_142	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	164811	JBVTZT010000099.1			unplaced-scaffold	Scaffold_143	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	155400	JBVTZT010000100.1			unplaced-scaffold	Scaffold_144	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	148240	JBVTZT010000101.1			unplaced-scaffold	Scaffold_147	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	147321	JBVTZT010000102.1			unplaced-scaffold	Scaffold_148	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	144839	JBVTZT010000103.1			unplaced-scaffold	Scaffold_149	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	134854	JBVTZT010000104.1			unplaced-scaffold	Scaffold_150	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	129320	JBVTZT010000105.1			unplaced-scaffold	Scaffold_153	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	127179	JBVTZT010000106.1			unplaced-scaffold	Scaffold_155	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	126714	JBVTZT010000107.1			unplaced-scaffold	Scaffold_156	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	125024	JBVTZT010000108.1			unplaced-scaffold	Scaffold_157	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	121298	JBVTZT010000109.1			unplaced-scaffold	Scaffold_159	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	121234	JBVTZT010000110.1			unplaced-scaffold	Scaffold_160	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	115427	JBVTZT010000111.1			unplaced-scaffold	Scaffold_163	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	115005	JBVTZT010000112.1			unplaced-scaffold	Scaffold_164	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	113038	JBVTZT010000113.1			unplaced-scaffold	Scaffold_167	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	111060	JBVTZT010000114.1			unplaced-scaffold	Scaffold_168	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	110978	JBVTZT010000115.1			unplaced-scaffold	Scaffold_169	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	110361	JBVTZT010000116.1			unplaced-scaffold	Scaffold_170	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	108240	JBVTZT010000117.1			unplaced-scaffold	Scaffold_173	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	106301	JBVTZT010000118.1			unplaced-scaffold	Scaffold_174	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	102251	JBVTZT010000119.1			unplaced-scaffold	Scaffold_175	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	101366	JBVTZT010000120.1			unplaced-scaffold	Scaffold_176	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	99149	JBVTZT010000121.1			unplaced-scaffold	Scaffold_177	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	98609	JBVTZT010000122.1			unplaced-scaffold	Scaffold_178	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	98536	JBVTZT010000123.1			unplaced-scaffold	Scaffold_179	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	95987	JBVTZT010000124.1			unplaced-scaffold	Scaffold_181	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	93915	JBVTZT010000125.1			unplaced-scaffold	Scaffold_183	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	93023	JBVTZT010000126.1			unplaced-scaffold	Scaffold_184	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	92252	JBVTZT010000127.1			unplaced-scaffold	Scaffold_185	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	85204	JBVTZT010000128.1			unplaced-scaffold	Scaffold_188	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	82946	JBVTZT010000129.1			unplaced-scaffold	Scaffold_189	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	80215	JBVTZT010000130.1			unplaced-scaffold	Scaffold_190	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	78722	JBVTZT010000131.1			unplaced-scaffold	Scaffold_191	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	76065	JBVTZT010000132.1			unplaced-scaffold	Scaffold_193	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	75369	JBVTZT010000133.1			unplaced-scaffold	Scaffold_194	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	72747	JBVTZT010000134.1			unplaced-scaffold	Scaffold_198	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	71730	JBVTZT010000135.1			unplaced-scaffold	Scaffold_199	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	70294	JBVTZT010000136.1			unplaced-scaffold	Scaffold_200	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	67721	JBVTZT010000137.1			unplaced-scaffold	Scaffold_203	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	67485	JBVTZT010000138.1			unplaced-scaffold	Scaffold_205	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	65737	JBVTZT010000139.1			unplaced-scaffold	Scaffold_206	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	65702	JBVTZT010000140.1			unplaced-scaffold	Scaffold_207	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	64507	JBVTZT010000141.1			unplaced-scaffold	Scaffold_209	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	64389	JBVTZT010000142.1			unplaced-scaffold	Scaffold_499	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	64271	JBVTZT010000143.1			unplaced-scaffold	Scaffold_210	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	63339	JBVTZT010000144.1			unplaced-scaffold	Scaffold_212	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	62877	JBVTZT010000145.1			unplaced-scaffold	Scaffold_502	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	62824	JBVTZT010000146.1			unplaced-scaffold	Scaffold_213	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	60894	JBVTZT010000147.1			unplaced-scaffold	Scaffold_215	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	60633	JBVTZT010000148.1			unplaced-scaffold	Scaffold_505	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	59662	JBVTZT010000149.1			unplaced-scaffold	Scaffold_218	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	59615	JBVTZT010000150.1			unplaced-scaffold	Scaffold_507	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	57507	JBVTZT010000151.1			unplaced-scaffold	Scaffold_220	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	57495	JBVTZT010000152.1			unplaced-scaffold	Scaffold_509	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	56049	JBVTZT010000153.1			unplaced-scaffold	Scaffold_222	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	54641	JBVTZT010000154.1			unplaced-scaffold	Scaffold_511	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	53975	JBVTZT010000155.1			unplaced-scaffold	Scaffold_224	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	53669	JBVTZT010000156.1			unplaced-scaffold	Scaffold_513	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	53171	JBVTZT010000157.1			unplaced-scaffold	Scaffold_514	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	50685	JBVTZT010000158.1			unplaced-scaffold	Scaffold_230	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	49266	JBVTZT010000159.1			unplaced-scaffold	Scaffold_232	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	49170	JBVTZT010000160.1			unplaced-scaffold	Scaffold_233	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	48795	JBVTZT010000161.1			unplaced-scaffold	Scaffold_518	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	48478	JBVTZT010000162.1			unplaced-scaffold	Scaffold_235	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	48379	JBVTZT010000163.1			unplaced-scaffold	Scaffold_236	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	48121	JBVTZT010000164.1			unplaced-scaffold	Scaffold_237	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	47008	JBVTZT010000165.1			unplaced-scaffold	Scaffold_239	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	46389	JBVTZT010000166.1			unplaced-scaffold	Scaffold_523	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	46353	JBVTZT010000167.1			unplaced-scaffold	Scaffold_241	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	45865	JBVTZT010000168.1			unplaced-scaffold	Scaffold_242	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	45124	JBVTZT010000169.1			unplaced-scaffold	Scaffold_244	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	44721	JBVTZT010000170.1			unplaced-scaffold	Scaffold_527	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	44256	JBVTZT010000171.1			unplaced-scaffold	Scaffold_246	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	43343	JBVTZT010000172.1			unplaced-scaffold	Scaffold_529	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	42986	JBVTZT010000173.1			unplaced-scaffold	Scaffold_249	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	42864	JBVTZT010000174.1			unplaced-scaffold	Scaffold_531	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	42737	JBVTZT010000175.1			unplaced-scaffold	Scaffold_532	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	42343	JBVTZT010000176.1			unplaced-scaffold	Scaffold_252	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	41322	JBVTZT010000177.1			unplaced-scaffold	Scaffold_254	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	40908	JBVTZT010000178.1			unplaced-scaffold	Scaffold_535	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	40619	JBVTZT010000179.1			unplaced-scaffold	Scaffold_255	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	40612	JBVTZT010000180.1			unplaced-scaffold	Scaffold_256	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	40227	JBVTZT010000181.1			unplaced-scaffold	Scaffold_257	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	39789	JBVTZT010000182.1			unplaced-scaffold	Scaffold_260	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	39649	JBVTZT010000183.1			unplaced-scaffold	Scaffold_540	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	39496	JBVTZT010000184.1			unplaced-scaffold	Scaffold_541	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	38599	JBVTZT010000185.1			unplaced-scaffold	Scaffold_262	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	38290	JBVTZT010000186.1			unplaced-scaffold	Scaffold_263	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	38211	JBVTZT010000187.1			unplaced-scaffold	Scaffold_544	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	38182	JBVTZT010000188.1			unplaced-scaffold	Scaffold_264	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	38097	JBVTZT010000189.1			unplaced-scaffold	Scaffold_546	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37957	JBVTZT010000190.1			unplaced-scaffold	Scaffold_265	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37406	JBVTZT010000191.1			unplaced-scaffold	Scaffold_548	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37378	JBVTZT010000192.1			unplaced-scaffold	Scaffold_549	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37376	JBVTZT010000193.1			unplaced-scaffold	Scaffold_267	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37226	JBVTZT010000194.1			unplaced-scaffold	Scaffold_551	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37182	JBVTZT010000195.1			unplaced-scaffold	Scaffold_268	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	37169	JBVTZT010000196.1			unplaced-scaffold	Scaffold_553	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36920	JBVTZT010000197.1			unplaced-scaffold	Scaffold_554	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36693	JBVTZT010000198.1			unplaced-scaffold	Scaffold_270	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36587	JBVTZT010000199.1			unplaced-scaffold	Scaffold_271	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36557	JBVTZT010000200.1			unplaced-scaffold	Scaffold_557	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36550	JBVTZT010000201.1			unplaced-scaffold	Scaffold_558	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36394	JBVTZT010000202.1			unplaced-scaffold	Scaffold_272	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	36328	JBVTZT010000203.1			unplaced-scaffold	Scaffold_560	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35947	JBVTZT010000204.1			unplaced-scaffold	Scaffold_561	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35923	JBVTZT010000205.1			unplaced-scaffold	Scaffold_274	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35919	JBVTZT010000206.1			unplaced-scaffold	Scaffold_563	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35568	JBVTZT010000207.1			unplaced-scaffold	Scaffold_564	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35483	JBVTZT010000208.1			unplaced-scaffold	Scaffold_275	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35258	JBVTZT010000209.1			unplaced-scaffold	Scaffold_566	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	35246	JBVTZT010000210.1			unplaced-scaffold	Scaffold_276	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	34740	JBVTZT010000211.1			unplaced-scaffold	Scaffold_277	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	34424	JBVTZT010000212.1			unplaced-scaffold	Scaffold_569	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	34328	JBVTZT010000213.1			unplaced-scaffold	Scaffold_570	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	34088	JBVTZT010000214.1			unplaced-scaffold	Scaffold_279	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	34071	JBVTZT010000215.1			unplaced-scaffold	Scaffold_572	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	33671	JBVTZT010000216.1			unplaced-scaffold	Scaffold_282	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	33592	JBVTZT010000217.1			unplaced-scaffold	Scaffold_574	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	33493	JBVTZT010000218.1			unplaced-scaffold	Scaffold_575	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	33404	JBVTZT010000219.1			unplaced-scaffold	Scaffold_283	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	33397	JBVTZT010000220.1			unplaced-scaffold	Scaffold_577	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32823	JBVTZT010000221.1			unplaced-scaffold	Scaffold_578	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32676	JBVTZT010000222.1			unplaced-scaffold	Scaffold_579	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32529	JBVTZT010000223.1			unplaced-scaffold	Scaffold_285	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32401	JBVTZT010000224.1			unplaced-scaffold	Scaffold_581	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32389	JBVTZT010000225.1			unplaced-scaffold	Scaffold_286	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32320	JBVTZT010000226.1			unplaced-scaffold	Scaffold_583	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	32234	JBVTZT010000227.1			unplaced-scaffold	Scaffold_287	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	31851	JBVTZT010000228.1			unplaced-scaffold	Scaffold_585	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	31812	JBVTZT010000229.1			unplaced-scaffold	Scaffold_290	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	31757	JBVTZT010000230.1			unplaced-scaffold	Scaffold_587	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	31583	JBVTZT010000231.1			unplaced-scaffold	Scaffold_291	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	31172	JBVTZT010000232.1			unplaced-scaffold	Scaffold_292	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	31110	JBVTZT010000233.1			unplaced-scaffold	Scaffold_590	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30966	JBVTZT010000234.1			unplaced-scaffold	Scaffold_591	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30859	JBVTZT010000235.1			unplaced-scaffold	Scaffold_592	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30672	JBVTZT010000236.1			unplaced-scaffold	Scaffold_295	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30663	JBVTZT010000237.1			unplaced-scaffold	Scaffold_594	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30482	JBVTZT010000238.1			unplaced-scaffold	Scaffold_296	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30364	JBVTZT010000239.1			unplaced-scaffold	Scaffold_596	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	30316	JBVTZT010000240.1			unplaced-scaffold	Scaffold_597	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29786	JBVTZT010000241.1			unplaced-scaffold	Scaffold_598	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29475	JBVTZT010000242.1			unplaced-scaffold	Scaffold_298	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29389	JBVTZT010000243.1			unplaced-scaffold	Scaffold_600	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29310	JBVTZT010000244.1			unplaced-scaffold	Scaffold_299	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29193	JBVTZT010000245.1			unplaced-scaffold	Scaffold_602	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29192	JBVTZT010000246.1			unplaced-scaffold	Scaffold_603	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	29029	JBVTZT010000247.1			unplaced-scaffold	Scaffold_300	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	28997	JBVTZT010000248.1			unplaced-scaffold	Scaffold_605	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	28753	JBVTZT010000249.1			unplaced-scaffold	Scaffold_606	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	28613	JBVTZT010000250.1			unplaced-scaffold	Scaffold_607	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	28245	JBVTZT010000251.1			unplaced-scaffold	Scaffold_304	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27756	JBVTZT010000252.1			unplaced-scaffold	Scaffold_305	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27701	JBVTZT010000253.1			unplaced-scaffold	Scaffold_610	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27640	JBVTZT010000254.1			unplaced-scaffold	Scaffold_611	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27598	JBVTZT010000255.1			unplaced-scaffold	Scaffold_612	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27534	JBVTZT010000256.1			unplaced-scaffold	Scaffold_613	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27510	JBVTZT010000257.1			unplaced-scaffold	Scaffold_307	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27500	JBVTZT010000258.1			unplaced-scaffold	Scaffold_615	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27430	JBVTZT010000259.1			unplaced-scaffold	Scaffold_616	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	27067	JBVTZT010000260.1			unplaced-scaffold	Scaffold_617	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26744	JBVTZT010000261.1			unplaced-scaffold	Scaffold_618	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26643	JBVTZT010000262.1			unplaced-scaffold	Scaffold_619	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26642	JBVTZT010000263.1			unplaced-scaffold	Scaffold_620	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26637	JBVTZT010000264.1			unplaced-scaffold	Scaffold_310	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26594	JBVTZT010000265.1			unplaced-scaffold	Scaffold_622	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26586	JBVTZT010000266.1			unplaced-scaffold	Scaffold_311	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	26244	JBVTZT010000267.1			unplaced-scaffold	Scaffold_624	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	25694	JBVTZT010000268.1			unplaced-scaffold	Scaffold_625	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	25385	JBVTZT010000269.1			unplaced-scaffold	Scaffold_314	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	25120	JBVTZT010000270.1			unplaced-scaffold	Scaffold_627	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	25083	JBVTZT010000271.1			unplaced-scaffold	Scaffold_315	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	24722	JBVTZT010000272.1			unplaced-scaffold	Scaffold_629	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	24582	JBVTZT010000273.1			unplaced-scaffold	Scaffold_630	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	24498	JBVTZT010000274.1			unplaced-scaffold	Scaffold_631	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	24440	JBVTZT010000275.1			unplaced-scaffold	Scaffold_632	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	24295	JBVTZT010000276.1			unplaced-scaffold	Scaffold_633	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	24125	JBVTZT010000277.1			unplaced-scaffold	Scaffold_634	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	23019	JBVTZT010000278.1			unplaced-scaffold	Scaffold_635	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	22892	JBVTZT010000279.1			unplaced-scaffold	Scaffold_636	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	22525	JBVTZT010000280.1			unplaced-scaffold	Scaffold_637	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	22343	JBVTZT010000281.1			unplaced-scaffold	Scaffold_320	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	22223	JBVTZT010000282.1			unplaced-scaffold	Scaffold_639	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	21229	JBVTZT010000283.1			unplaced-scaffold	Scaffold_640	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	21197	JBVTZT010000284.1			unplaced-scaffold	Scaffold_641	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	21129	JBVTZT010000285.1			unplaced-scaffold	Scaffold_642	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	20783	JBVTZT010000286.1			unplaced-scaffold	Scaffold_643	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	20633	JBVTZT010000287.1			unplaced-scaffold	Scaffold_323	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	20067	JBVTZT010000288.1			unplaced-scaffold	Scaffold_645	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	19881	JBVTZT010000289.1			unplaced-scaffold	Scaffold_646	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	19814	JBVTZT010000290.1			unplaced-scaffold	Scaffold_324	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	19524	JBVTZT010000291.1			unplaced-scaffold	Scaffold_648	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	19487	JBVTZT010000292.1			unplaced-scaffold	Scaffold_649	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	19418	JBVTZT010000293.1			unplaced-scaffold	Scaffold_325	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	19167	JBVTZT010000294.1			unplaced-scaffold	Scaffold_651	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	18904	JBVTZT010000295.1			unplaced-scaffold	Scaffold_652	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	18385	JBVTZT010000296.1			unplaced-scaffold	Scaffold_653	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	16559	JBVTZT010000297.1			unplaced-scaffold	Scaffold_654	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	14631	JBVTZT010000298.1			unplaced-scaffold	Scaffold_655	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	11998	JBVTZT010000299.1			unplaced-scaffold	Scaffold_656	AUTO	2	2
+GCA_055764355.1	Un	9999	Chromosome	Primary Assembly	11865	JBVTZT010000300.1			unplaced-scaffold	Scaffold_327	AUTO	2	2
+GCA_055764355.1	MT		Mitochondrion	non-nuclear	16812	CM147262.1	7549	45	assembled-molecule	ptg000001l_rotated	chrM	1	1

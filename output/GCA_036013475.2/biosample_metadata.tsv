@@ -1,0 +1,228 @@
+sample_id	accession	title	organism	tax_id	id_BGI	id_SRA	breed	BioSampleModel	strain	isolate	cultivar	ecotype	age	dev_stage	sex	tissue	stud_book_number	biomaterial_provider	sample_type	phenotype	alternate_id	ID	collection_date	geo_loc_name	lat_lon	store_cond	treatment	Source ID	ZA_RATIO	GENETIC_SEX
+SAMN00993249	SAMN00993249	Generic sample from Columba livia	Columba livia	8932	BGI_PI-1	SRS333674																							0.9919	MALE
+SAMN00993250	SAMN00993250	Generic sample from Columba livia	Columba livia	8932	BGI_PI-2	SRS333675																							0.9927	MALE
+SAMN00993251	SAMN00993251	Generic sample from Columba livia	Columba livia	8932	BGI_PI-3	SRS333676																							0.9873	MALE
+SAMN00993252	SAMN00993252	Generic sample from Columba livia	Columba livia	8932	BGI_PI-4	SRS333677																							0.9889	MALE
+SAMN00993253	SAMN00993253	Generic sample from Columba livia	Columba livia	8932	BGI_PI-5	SRS333678																							0.9871	MALE
+SAMN00993254	SAMN00993254	Generic sample from Columba livia	Columba livia	8932	BGI_PI-6	SRS333679																							0.9866	MALE
+SAMN01057532	SAMN01057532	Indian fantail	Columba livia	8932	BGI_idfan	SRS346864	Indian fantail	Generic																					0.9843	MALE
+SAMN01057533	SAMN01057533	Fantail	Columba livia	8932	BGI_fan	SRS346865	Fantail	Generic																					0.9771	MALE
+SAMN01057534	SAMN01057534	Columba rupestris	Columba livia	8932	BGI_C-rup	SRS346866																							0.9679	MALE
+SAMN01057535	SAMN01057535	Racing	Columba livia	8932	BGI_PI-DI	SRS346867	Racing	Generic																					0.9825	MALE
+SAMN01057539	SAMN01057539	Generic sample from Columba livia	Columba livia	8932	BGI_PI-BC	SRS346871	Feral (Salt Lake City, Utah, USA)	Generic																					0.9749	MALE
+SAMN01057540	SAMN01057540	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AG	SRS346872	English carrier	Generic																					0.9955	MALE
+SAMN01057541	SAMN01057541	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AH	SRS346873	Scandaroon	Generic																					0.9941	MALE
+SAMN01057542	SAMN01057542	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AI	SRS346874	Berlin longface tumbler	Generic																					0.9780	MALE
+SAMN01057543	SAMN01057543	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AJ	SRS346875	Birmingham roller	Generic																					0.9830	MALE
+SAMN01057544	SAMN01057544	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AK	SRS346876	King	Generic																					0.9802	MALE
+SAMN01057546	SAMN01057546	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AM	SRS346878	Saxon monk	Generic																					0.9834	MALE
+SAMN01057547	SAMN01057547	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AN	SRS346879	Syrian dewlap	Generic																					0.9899	MALE
+SAMN01057548	SAMN01057548	Sample from Columba livia	Columba livia	8932	BGI_PI-AO	SRS346880	Shakhsharli	Generic																					0.9782	MALE
+SAMN01057550	SAMN01057550	Sample from Columba livia	Columba livia	8932	BGI_PI-AQ	SRS346882	Carneau	Generic																					0.9770	MALE
+SAMN01057552	SAMN01057552	Generic sample from Columba livia	Columba livia	8932	BGI_PI-AS	SRS346884	English pouter	Generic																					0.9858	MALE
+SAMN01057554	SAMN01057554	Sample from Columba livia	Columba livia	8932	BGI_PI-AD	SRS346886	Mookee	Generic																					0.9849	MALE
+SAMN01057555	SAMN01057555	Sample from Columba livia	Columba livia	8932	BGI_PI-AF	SRS346887	Starling	Generic																					0.9746	MALE
+SAMN01057557	SAMN01057557	Sample from Columba livia	Columba livia	8932	BGI_PI-AB	SRS346889	African owl	Generic																					0.9878	MALE
+SAMN01057558	SAMN01057558	Sample from Columba livia	Columba livia	8932	BGI_PI-BD	SRS346890	ice pigeon	Generic																					0.9831	MALE
+SAMN01057559	SAMN01057559	Sample from Columba livia	Columba livia	8932	BGI_PI-BE	SRS346891	Frillback	Generic																					0.9909	MALE
+SAMN01057560	SAMN01057560	Sample from Columba livia	Columba livia	8932	BGI_PI-BF	SRS346892	iranian tumbler	Generic																					0.9842	MALE
+SAMN01057561	SAMN01057561	Sample from Columba livia	Columba livia	8932	BGI_PI-BG	SRS346893	Marchenero pouter	Generic																					0.9663	MALE
+SAMN01057562	SAMN01057562	Sample from Columba livia	Columba livia	8932	BGI_PI-BH	SRS346894	Runt	Generic																					0.9835	MALE
+SAMN01057563	SAMN01057563	Sample from Columba livia	Columba livia	8932	BGI_PI-BI	SRS346895	Saxon pouter	Generic																					0.9856	MALE
+SAMN01057564	SAMN01057564	Sample from Columba livia	Columba livia	8932	BGI_PI-BJ	SRS346896	English trumpeter	Generic																					0.9808	MALE
+SAMN01057565	SAMN01057565	Sample from Columba livia	Columba livia	8932	BGI_PI-AU	SRS346897	Lahore	Generic																					0.9789	MALE
+SAMN01057566	SAMN01057566	Sample from Columba livia	Columba livia	8932	BGI_PI-AV	SRS346898	Lebanon	Generic																					0.9684	MALE
+SAMN01057568	SAMN01057568	Sample from Columba livia	Columba livia	8932	BGI_PI-AX	SRS346900	Racing homer	Generic																					0.9842	MALE
+SAMN01057569	SAMN01057569	Sample from Columba livia	Columba livia	8932	BGI_PI-AY	SRS346901	Archangel	Generic																					0.9563	MALE
+SAMN01057570	SAMN01057570	Sample from Columba livia	Columba livia	8932	BGI_PI-AZ	SRS346902	Cumulet	Generic																					0.9690	MALE
+SAMN01057571	SAMN01057571	Sample from Columba livia	Columba livia	8932	BGI_PI-BA	SRS346903	Egyptian swift	Generic																					0.9955	MALE
+SAMN01057572	SAMN01057572	Sample from Columba livia	Columba livia	8932	BGI_PI-BB	SRS346904	Feral (Lake Anna, Virginia, USA)	Generic																					0.9778	MALE
+SAMN08237484	SAMN08237484	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2785636	racing		missing	missing	missing	missing	missing	missing	missing	muscle	a												0.9803	MALE
+SAMN08237486	SAMN08237486	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2785637	racing		missing	missing	missing	missing	missing	missing	missing	muscle	c												0.9755	MALE
+SAMN08237487	SAMN08237487	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2785638	racing		missing	missing	missing	missing	missing	missing	missing	muscle	d												0.9749	MALE
+SAMN08237488	SAMN08237488	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2785639	racing		missing	missing	missing	missing	missing	missing	missing	muscle	e												0.9741	MALE
+SAMN08237489	SAMN08237489	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2785640	racing		missing	missing	missing	missing	missing	missing	missing	muscle	f												0.9708	MALE
+SAMN08237490	SAMN08237490	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2785641	racing		missing	missing	missing	missing	missing	missing	missing	muscle	g												0.9713	MALE
+SAMN08286836	SAMN08286836	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803091				parlor roller x racing homer F2, band #MDS349				adult	male	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism										0.9710	MALE
+SAMN08286837	SAMN08286837	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803092	ice pigeon			ups13-01				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.9751	MALE
+SAMN08286838	SAMN08286838	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803087	Modena			ups14-26				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.4988	FEMALE
+SAMN08286839	SAMN08286839	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803088	racing homer			ups14-41				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.9763	MALE
+SAMN08286840	SAMN08286840	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803082	archangel			ups14-51				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.9708	MALE
+SAMN08286841	SAMN08286841	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803081	Chinese owl			ups14-55				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.9685	MALE
+SAMN08286842	SAMN08286842	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803099	racing homer			ct14-12				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.4916	FEMALE
+SAMN08286843	SAMN08286843	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803112	Birmingham roller			ct15-05				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.9682	MALE
+SAMN08286844	SAMN08286844	Model organism or animal sample from Columba livia	Columba livia	8932		SRS2803093	Old Dutch Capuchine			ct15-09				adult	not provided	blood		Shapiro Lab, Department of Biology, University of Utah	whole organism	barless									0.9749	MALE
+SAMN10715651	SAMN10715651	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233170	Armenian Tumbler							Adult	male	blood			whole organism										0.9667	MALE
+SAMN10715652	SAMN10715652	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233171	Bacska Tumbler							Adult	male	blood			whole organism										0.9587	MALE
+SAMN10715662	SAMN10715662	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233186	English Short Faced Tumbler							Adult	male	blood			whole organism										0.4968	FEMALE
+SAMN10715663	SAMN10715663	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233183	Berlin Short Faced Tumbler							Adult	male	blood			whole organism										0.9779	MALE
+SAMN10715664	SAMN10715664	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233184	Berlin Short Faced Tumbler							Adult	female	blood			whole organism										0.4938	FEMALE
+SAMN10715665	SAMN10715665	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233189	Old German Owl							Adult	male	blood			whole organism										0.9686	MALE
+SAMN10715666	SAMN10715666	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233190	Rafeno Pouter							Adult	male	blood			whole organism										0.9723	MALE
+SAMN10715667	SAMN10715667	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233187	Helmet							Adult	male	blood			whole organism										0.9791	MALE
+SAMN10715668	SAMN10715668	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233188	Oriental Frill							Adult	male	blood			whole organism										0.9753	MALE
+SAMN10715669	SAMN10715669	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233180	Old German Owl							Adult	female	blood			whole organism										0.9731	MALE
+SAMN10715670	SAMN10715670	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233181	English Trumpeter							Adult	female	blood			whole organism										0.9837	MALE
+SAMN10715671	SAMN10715671	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4233182	English Trumpeter							Adult	female	blood			whole organism	Almond									0.5028	FEMALE
+SAMN11518949	SAMN11518949	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4714933	Danish Tumbler							adult	female	blood													0.4931	FEMALE
+SAMN11518950	SAMN11518950	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4714932	Uzbek Tumbler							adult	male	blood													0.9836	MALE
+SAMN11518951	SAMN11518951	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4714931	Pigmy Pouter							adult	female	blood													0.4947	FEMALE
+SAMN11518952	SAMN11518952	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4714930	Pigmy Pouter							adult	male	blood													0.9788	MALE
+SAMN11518953	SAMN11518953	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4714935	English Trumpeter							adult	female	blood													0.4982	FEMALE
+SAMN11518954	SAMN11518954	Model organism or animal sample from Columba livia	Columba livia	8932		SRS4714934	Pomeranian pouter							adult	male	blood													0.9751	MALE
+SAMN12697399	SAMN12697399	Whole genome sequencing from Columba livia	Columba livia	8932		SRS5376593	Homing pigeon						not collected		not collected	muscle													0.9847	MALE
+SAMN12697424	SAMN12697424	Whole genome sequencing from Columba livia	Columba livia	8932		SRS5376597	Shiraz tumbler						not collected		not collected	muscle													0.9913	MALE
+SAMN12697476	SAMN12697476	Whole genome sequencing from Columba livia	Columba livia	8932		SRS5376598	Shiraz tumbler						not collected		not collected	muscle													0.9782	MALE
+SAMN12697536	SAMN12697536	Whole genome sequencing from Columba livia	Columba livia	8932		SRS5376600	Shiraz tumbler						not collected		not collected	muscle													0.9841	MALE
+SAMN16912471	SAMN16912471	14064X1_COF_UPS16_02_BLU_F	Columba livia	8932		SRS7808858	Classic Old Frill						not applicable		female	blood					UPS16_02								0.4944	FEMALE
+SAMN16912472	SAMN16912472	14064X2_AFO_UPS16_13_PIE_F	Columba livia	8932		SRS7808859	African Owl						not applicable		female	blood					UPS16_13								0.4980	FEMALE
+SAMN16912473	SAMN16912473	14064X3_LFT_UPS16_99_WHI_M	Columba livia	8932		SRS7808871	Long Face Clean Muff Tumbler						not applicable		male	blood					UPS16_99								0.9826	MALE
+SAMN16912474	SAMN16912474	14064X5_HEL_GN236_SPR_M	Columba livia	8932		SRS7808881	Helmet						not applicable		male	blood					GN236								0.9785	MALE
+SAMN16912475	SAMN16912475	14064X6_CNT_GN302_M	Columba livia	8932		SRS7808892	Chinese Nasal Tuft						not applicable		male	blood					GN302								0.9794	MALE
+SAMN16912476	SAMN16912476	14064X7_BUT_GN321_M	Columba livia	8932		SRS7808904	Budapest Tumbler						not applicable		male	blood					GN321								0.9767	MALE
+SAMN16912477	SAMN16912477	14064X8_ITO_UPS16_09_RED_M	Columba livia	8932		SRS7808914	Italian Owl						not applicable		male	blood					UPS16_09								0.9832	MALE
+SAMN16912478	SAMN16912478	14619X1_RAH_DS1707_o_B_M	Columba livia	8932		SRS7808924	Racing Homer						not applicable		male	blood					DS1707								0.9792	MALE
+SAMN16912479	SAMN16912479	14619X2_RAH_DS1710_o_B_F	Columba livia	8932		SRS7808936	Racing Homer						not applicable		female	blood					DS1710								0.5126	FEMALE
+SAMN16912480	SAMN16912480	14619X3_RAH_DS1711_o_C_M	Columba livia	8932		SRS7808939	Racing Homer						not applicable		male	blood					DS1711								0.9952	MALE
+SAMN16912481	SAMN16912481	14619X4_RAH_AR1709_o_B_F	Columba livia	8932		SRS7808860	Racing Homer						not applicable		female	blood					AR1709								0.5017	FEMALE
+SAMN16912482	SAMN16912482	14619X5_RAH_TB1707_o_barless_F	Columba livia	8932		SRS7808861	Racing Homer						not applicable		female	blood					TB1707								0.4989	FEMALE
+SAMN16912483	SAMN16912483	14619X6_RAH_RJM1705_o_barless_M	Columba livia	8932		SRS7808862	Racing Homer						not applicable		male	blood					RJM1705								0.9879	MALE
+SAMN16912484	SAMN16912484	15321X1_AFO_GN224_WHI_M	Columba livia	8932		SRS7808863	African Owl						not applicable		male	blood					GN224								0.9751	MALE
+SAMN16912485	SAMN16912485	15321X2_BST_UPS08_148_KHA_F	Columba livia	8932		SRS7808865	Berlin Short Face Tumbler						not applicable		female	blood					UPS08_148								0.5003	FEMALE
+SAMN16912486	SAMN16912486	15321X3_BUT_GN216_RED_F	Columba livia	8932		SRS7808864	Budapest Tumbler						not applicable		female	blood					GN216								0.4974	FEMALE
+SAMN16912487	SAMN16912487	15321X4_EGS_LBR027_BLO_F	Columba livia	8932		SRS7808866	Egyptian Swift						not applicable		male	blood					LBR027								0.9791	MALE
+SAMN16912488	SAMN16912488	15321X5_ELT_LD001_RED_M	Columba livia	8932		SRS7808867	English Long Face Tumbler						not applicable		male	blood					LD001								0.9793	MALE
+SAMN16912489	SAMN16912489	15321X6_EST_UPS14_35_ALM_M	Columba livia	8932		SRS7808868	English Short Face Tumbler						not applicable		female	blood					UPS14_35								0.5037	FEMALE
+SAMN16912490	SAMN16912490	15321X7_HEL_GN324_RED_M	Columba livia	8932		SRS7808869	Helmet						not applicable		male	blood					GN324								0.9766	MALE
+SAMN16912491	SAMN16912491	15321X8_ITO_GN268_BLU_B_F	Columba livia	8932		SRS7808870	Italian Owl						not applicable		female	blood					GN268								0.4944	FEMALE
+SAMN16912492	SAMN16912492	15321X9_UZT_UPS14_53_AOC_M	Columba livia	8932		SRS7808873	Uzbek Tumbler						not applicable		male	blood					UPS14_53								0.9778	MALE
+SAMN16912493	SAMN16912493	15778X1_DAH_UPS08-92	Columba livia	8932		SRS7808872	Danzig Highflier						not applicable		female	blood					UPS08_92								0.4913	FEMALE
+SAMN16912494	SAMN16912494	15778X2_TEM_UPS08-94	Columba livia	8932		SRS7808874	Temeschburger Schecker						not applicable		male	blood					UPS08_94								0.9801	MALE
+SAMN16912495	SAMN16912495	15778X3_SCM_UPS18-12	Columba livia	8932		SRS7808875	Schalkaldener Mohrenkopf						not applicable		female	blood					UPS18_12								0.4964	FEMALE
+SAMN16912496	SAMN16912496	15778X4_FAS_UPS14-13	Columba livia	8932		SRS7808876	Fairy Swallow						not applicable		male	blood					UPS14_13								0.9825	MALE
+SAMN16912497	SAMN16912497	15778X5_HGH_UPS15-86	Columba livia	8932		SRS7808877	Hungarian Giant House Pigeon						not applicable		female	blood					UPS15_86								0.4956	FEMALE
+SAMN16912498	SAMN16912498	15778X6_CSF_GN190	Columba livia	8932		SRS7808878	Crested Saxon Field Color Pigeon						not applicable		male	blood					GN190								0.9820	MALE
+SAMN16912499	SAMN16912499	15778X7_SAI_GN230	Columba livia	8932		SRS7808880	Saint						not applicable		male	blood					GN230								0.9811	MALE
+SAMN16912500	SAMN16912500	15778X8_FRT_GN240	Columba livia	8932		SRS7808879	Franconian Trumpeter						not applicable		male	blood					GN240								0.9717	MALE
+SAMN16912501	SAMN16912501	15778X9_NUN_GN233	Columba livia	8932		SRS7808882	Nun						not applicable		male	blood					GN233								0.9781	MALE
+SAMN16912502	SAMN16912502	15778X10_RUS_UPS17-07	Columba livia	8932		SRS7808883	Russian Tumbler						not applicable		female	blood					UPS17_07								0.4953	FEMALE
+SAMN16912503	SAMN16912503	15778X11_AMH_UPS15-85	Columba livia	8932		SRS7808884	American Highflier						not applicable		female	blood					UPS15_85								0.4976	FEMALE
+SAMN16912504	SAMN16912504	15778X12_HAM_UPS18-16	Columba livia	8932		SRS7808885	Hamburg Sticken						not applicable		male	blood					UPS18_16								0.9799	MALE
+SAMN16912505	SAMN16912505	15778X13_BOK_UPS18-19	Columba livia	8932		SRS7808886	Bokhara Trumpeter						not applicable		male	blood					UPS18_19								0.9671	MALE
+SAMN16912506	SAMN16912506	15778X14_KOT_MDS511	Columba livia	8932		SRS7808887	Komorner Tumbler						not applicable		female	blood					MDS511								0.4983	FEMALE
+SAMN16912507	SAMN16912507	15778X15_BUP_UPS08-290	Columba livia	8932		SRS7808888	Brunner Pouter						not applicable		male	blood					UPS08_290								0.9763	MALE
+SAMN16912508	SAMN16912508	15778X16_MIF_UPS10-316	Columba livia	8932		SRS7808889	Mindian Fantail						not applicable		female	blood					UPS10_316								0.4910	FEMALE
+SAMN16912509	SAMN16912509	15778X17_NAK_UPS18-10	Columba livia	8932		SRS7808890	Naked Neck						not applicable		female	blood					UPS18_10								0.4961	FEMALE
+SAMN16912510	SAMN16912510	15778X18_TUT_UPS18-13	Columba livia	8932		SRS7808891	Turkish Tumbler						not applicable		male	blood					UPS18_13								0.9819	MALE
+SAMN16912511	SAMN16912511	15778X19_AUT_UPS17-05	Columba livia	8932		SRS7808893	Australian Tumbler						not applicable		male	blood					UPS17_05								0.9732	MALE
+SAMN16912512	SAMN16912512	15778X20_NOC_KC-924	Columba livia	8932		SRS7808894	Norwich Cropper						not applicable		male	blood					KC_924								0.9781	MALE
+SAMN16912513	SAMN16912513	15778X21_TAG_JJ-257	Columba livia	8932		SRS7808895	Taganrog Tumbler						not applicable		male	blood					JJ_257								0.9900	MALE
+SAMN16912514	SAMN16912514	16238X1_CAN_UPS18-8	Columba livia	8932		SRS7808896	Canario Cropper						not applicable		male	blood					UPS18_8								0.9913	MALE
+SAMN16912515	SAMN16912515	16238X2_GRA_UPS18-21	Columba livia	8932		SRS7808897	Granadino Pouter						not applicable		male	blood					UPS18_21								0.9976	MALE
+SAMN16912516	SAMN16912516	16238X3_VMT_UPS18-15	Columba livia	8932		SRS7808898	Vienna MF Tumbler						not applicable		male	blood					UPS18_15								0.9832	MALE
+SAMN16912517	SAMN16912517	16238X4_BLT_UPS12-98	Columba livia	8932		SRS7808899	Berlin Long Faced Tumbler						not applicable		male	blood					UPS12_98								0.9913	MALE
+SAMN16912518	SAMN16912518	16238X5_DAM_UPS18-20	Columba livia	8932		SRS7808900	Damascene						not applicable		female	blood					UPS18_20								0.5031	FEMALE
+SAMN16912519	SAMN16912519	16238X6_DRA_UPS16-20	Columba livia	8932		SRS7808901	Dragoon						not applicable		male	blood					UPS16_20								0.9874	MALE
+SAMN16912520	SAMN16912520	16238X7_ENC_UPS16-11	Columba livia	8932		SRS7808902	English Carrier						not applicable		male	blood					UPS16_11								0.9909	MALE
+SAMN16912521	SAMN16912521	16238X8_ENM_GN264	Columba livia	8932		SRS7808903	English Magpie						not applicable		male	blood					GN264								0.9694	MALE
+SAMN16912522	SAMN16912522	16238X10_SCA_UPS16-12	Columba livia	8932		SRS7808905	Scandaroon						not applicable		male	blood					UPS16_12								0.9844	MALE
+SAMN16912523	SAMN16912523	16238X11_MAC_GN87	Columba livia	8932		SRS7808906	Miniature American Crest						not applicable		male	blood					GN87								0.9851	MALE
+SAMN16912524	SAMN16912524	16238X12_RHR_GN88	Columba livia	8932		SRS7808907	Rhine Ringbeater						not applicable		male	blood					GN88								0.9889	MALE
+SAMN17005599	SAMN17005599	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836435	Racing pigeon						not collected		not collected	feather						COLI0678							0.5176	FEMALE
+SAMN17005601	SAMN17005601	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836448	Racing pigeon						not collected		not collected	feather						COLI0696							0.5069	FEMALE
+SAMN17005602	SAMN17005602	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836460	Racing pigeon						not collected		not collected	feather						COLI0703							0.5055	FEMALE
+SAMN17005603	SAMN17005603	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836470	Racing pigeon						not collected		not collected	feather						COLI0710							0.5128	FEMALE
+SAMN17005604	SAMN17005604	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836481	Racing pigeon						not collected		not collected	feather						COLI0720							0.5005	FEMALE
+SAMN17005605	SAMN17005605	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836492	Racing pigeon						not collected		not collected	feather						COLI0735							0.5074	FEMALE
+SAMN17005606	SAMN17005606	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836503	Racing pigeon						not collected		not collected	feather						COLI0753							0.9772	MALE
+SAMN17005608	SAMN17005608	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836525	Racing pigeon						not collected		not collected	feather						COLI0759							1.0064	MALE
+SAMN17005609	SAMN17005609	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836436	Racing pigeon						not collected		not collected	feather						COLI0760							1.0062	MALE
+SAMN17005611	SAMN17005611	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836440	Racing pigeon						not collected		not collected	feather						COLI0777							0.5209	FEMALE
+SAMN17005612	SAMN17005612	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836441	Racing pigeon						not collected		not collected	feather						COLI0781							0.5109	FEMALE
+SAMN17005613	SAMN17005613	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836442	Racing pigeon						not collected		not collected	feather						COLI0813							0.5051	FEMALE
+SAMN17005614	SAMN17005614	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836443	Racing pigeon						not collected		not collected	feather						COLI0819							0.5095	FEMALE
+SAMN17005615	SAMN17005615	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836444	Racing pigeon						not collected		not collected	feather						COLI0824							0.5193	FEMALE
+SAMN17005616	SAMN17005616	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836445	Racing pigeon						not collected		not collected	feather						COLI0829							0.5179	FEMALE
+SAMN17005617	SAMN17005617	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836447	Racing pigeon						not collected		not collected	feather						COLI0835							0.5182	FEMALE
+SAMN17005618	SAMN17005618	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836446	Racing pigeon						not collected		not collected	feather						COLI0836							0.6481	FEMALE
+SAMN17005619	SAMN17005619	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836449	Racing pigeon						not collected		not collected	feather						COLI0999							0.5136	FEMALE
+SAMN17005620	SAMN17005620	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836450	Racing pigeon						not collected		not collected	feather						COLI1003							0.9960	MALE
+SAMN17005621	SAMN17005621	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836451	Racing pigeon						not collected		not collected	feather						COLI1016							0.5042	FEMALE
+SAMN17005622	SAMN17005622	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836452	Racing pigeon						not collected		not collected	feather						COLI1031							0.9813	MALE
+SAMN17005623	SAMN17005623	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836454	Racing pigeon						not collected		not collected	feather						COLI1046							0.5036	FEMALE
+SAMN17005624	SAMN17005624	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836453	Racing pigeon						not collected		not collected	feather						COLI1052							0.5137	FEMALE
+SAMN17005625	SAMN17005625	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836455	Racing pigeon						not collected		not collected	feather						COLI1054							0.9922	MALE
+SAMN17005626	SAMN17005626	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836456	Racing pigeon						not collected		not collected	feather						COLI1056							0.5045	FEMALE
+SAMN17005627	SAMN17005627	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836457	Racing pigeon						not collected		not collected	feather						COLI1061							0.9893	MALE
+SAMN17005629	SAMN17005629	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836459	Racing pigeon						not collected		not collected	feather						COLI1246							0.5023	FEMALE
+SAMN17005630	SAMN17005630	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836461	Racing pigeon						not collected		not collected	feather						COLI1250							0.5108	FEMALE
+SAMN17005631	SAMN17005631	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836463	Racing pigeon						not collected		not collected	feather						COLI1253							1.0170	MALE
+SAMN17005632	SAMN17005632	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836462	Racing pigeon						not collected		not collected	feather						COLI1254							0.9801	MALE
+SAMN17005633	SAMN17005633	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836464	Racing pigeon						not collected		not collected	feather						COLI1259							0.5133	FEMALE
+SAMN17005634	SAMN17005634	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836465	Racing pigeon						not collected		not collected	feather						COLI1273							1.0082	MALE
+SAMN17005635	SAMN17005635	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836466	Racing pigeon						not collected		not collected	feather						COLI1294							0.9815	MALE
+SAMN17005636	SAMN17005636	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836467	Racing pigeon						not collected		not collected	feather						COLI1299							0.5212	FEMALE
+SAMN17005637	SAMN17005637	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836468	Racing pigeon						not collected		not collected	feather						COLI1321							0.5052	FEMALE
+SAMN17005638	SAMN17005638	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836469	Racing pigeon						not collected		not collected	feather						COLI1322							1.0011	MALE
+SAMN17005639	SAMN17005639	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836471	Racing pigeon						not collected		not collected	feather						COLI1331							0.5457	FEMALE
+SAMN17005640	SAMN17005640	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836472	Racing pigeon						not collected		not collected	feather						COLI1332							0.9870	MALE
+SAMN17005641	SAMN17005641	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836473	Racing pigeon						not collected		not collected	feather						COLI1353							1.0378	MALE
+SAMN17005642	SAMN17005642	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836474	Racing pigeon						not collected		not collected	feather						COLI1356							0.9991	MALE
+SAMN17005643	SAMN17005643	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836475	Racing pigeon						not collected		not collected	feather						COLI1357							0.5239	FEMALE
+SAMN17005644	SAMN17005644	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836476	Racing pigeon						not collected		not collected	feather						COLI1362							1.0057	MALE
+SAMN17005645	SAMN17005645	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836477	Racing pigeon						not collected		not collected	feather						COLI1376							0.9941	MALE
+SAMN17005646	SAMN17005646	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836478	Racing pigeon						not collected		not collected	feather						COLI1378							0.5076	FEMALE
+SAMN17005647	SAMN17005647	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836479	Racing pigeon						not collected		not collected	feather						COLI1382							0.5030	FEMALE
+SAMN17005648	SAMN17005648	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836480	Racing pigeon						not collected		not collected	feather						COLI1477							1.0145	MALE
+SAMN17005649	SAMN17005649	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836482	Racing pigeon						not collected		not collected	feather						COLI1488							0.5153	FEMALE
+SAMN17005650	SAMN17005650	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836483	Racing pigeon						not collected		not collected	feather						COLI1501							1.0161	MALE
+SAMN17005651	SAMN17005651	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836484	Racing pigeon						not collected		not collected	feather						COLI1504							0.9911	MALE
+SAMN17005652	SAMN17005652	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836485	Racing pigeon						not collected		not collected	feather						COLI1511							0.5066	FEMALE
+SAMN17005653	SAMN17005653	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836486	Racing pigeon						not collected		not collected	feather						COLI1512							0.5192	FEMALE
+SAMN17005655	SAMN17005655	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836490	Racing pigeon						not collected		not collected	feather						COLI1518							0.9937	MALE
+SAMN17005656	SAMN17005656	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836488	Racing pigeon						not collected		not collected	feather						COLI1520							1.0128	MALE
+SAMN17005657	SAMN17005657	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836489	Racing pigeon						not collected		not collected	feather						COLI1522							0.9988	MALE
+SAMN17005659	SAMN17005659	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836493	Racing pigeon						not collected		not collected	feather						COLI1535							1.0000	MALE
+SAMN17005660	SAMN17005660	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836494	Racing pigeon						not collected		not collected	feather						COLI1539							0.9989	MALE
+SAMN17005661	SAMN17005661	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836495	Racing pigeon						not collected		not collected	feather						COLI1554							0.5017	FEMALE
+SAMN17005663	SAMN17005663	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836497	Racing pigeon						not collected		not collected	feather						COLI1568							1.0104	MALE
+SAMN17005664	SAMN17005664	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836498	Racing pigeon						not collected		not collected	feather						COLI1569							0.5014	FEMALE
+SAMN17005666	SAMN17005666	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836500	Racing pigeon						not collected		not collected	feather						COLI1582							1.0285	MALE
+SAMN17005667	SAMN17005667	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836501	Racing pigeon						not collected		not collected	feather						COLI1599							0.5237	FEMALE
+SAMN17005668	SAMN17005668	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836502	Racing pigeon						not collected		not collected	feather						COLI1603							0.5521	FEMALE
+SAMN17005669	SAMN17005669	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836504	Racing pigeon						not collected		not collected	feather						COLI1604							0.5138	FEMALE
+SAMN17005670	SAMN17005670	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836505	Racing pigeon						not collected		not collected	feather						COLI1606							1.0135	MALE
+SAMN17005671	SAMN17005671	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836506	Racing pigeon						not collected		not collected	feather						COLI1610							1.0020	MALE
+SAMN17005673	SAMN17005673	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836508	Racing pigeon						not collected		not collected	feather						COLI1632							1.0152	MALE
+SAMN17005674	SAMN17005674	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836509	Racing pigeon						not collected		not collected	feather						COLI1795							0.5050	FEMALE
+SAMN17005675	SAMN17005675	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836510	Racing pigeon						not collected		not collected	feather						COLI1808							1.0802	MALE
+SAMN17005676	SAMN17005676	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836511	Racing pigeon						not collected		not collected	feather						COLI1816							1.0622	MALE
+SAMN17005677	SAMN17005677	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836512	Racing pigeon						not collected		not collected	feather						COLI1835							0.5077	FEMALE
+SAMN17005679	SAMN17005679	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836515	Racing pigeon						not collected		not collected	feather						COLI1848							1.0274	MALE
+SAMN17005680	SAMN17005680	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836516	Racing pigeon						not collected		not collected	feather						COLI1850							0.5096	FEMALE
+SAMN17005682	SAMN17005682	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836518	Racing pigeon						not collected		not collected	feather						COLI1855							0.5099	FEMALE
+SAMN17005683	SAMN17005683	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836519	Racing pigeon						not collected		not collected	feather						COLI1859							0.5119	FEMALE
+SAMN17005684	SAMN17005684	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836520	Racing pigeon						not collected		not collected	feather						COLI1866							0.9812	MALE
+SAMN17005685	SAMN17005685	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836521	Racing pigeon						not collected		not collected	feather						COLI1872							0.5142	FEMALE
+SAMN17005686	SAMN17005686	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836522	Racing pigeon						not collected		not collected	feather						COLI1873							0.5088	FEMALE
+SAMN17005687	SAMN17005687	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836523	Racing pigeon						not collected		not collected	feather						COLI2023							0.5166	FEMALE
+SAMN17005688	SAMN17005688	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836524	Racing pigeon						not collected		not collected	feather						COLI2027							1.0707	MALE
+SAMN17005689	SAMN17005689	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836526	Racing pigeon						not collected		not collected	feather						COLI2032							0.9846	MALE
+SAMN17005690	SAMN17005690	Model organism or animal sample from Columba livia	Columba livia	8932		SRS7836527	Racing pigeon						not collected		not collected	feather						COLI2033							0.5243	FEMALE
+SAMN28200689	SAMN28200689	Model organism or animal sample from Columba livia	Columba livia	8932		SRS12973293						not collected	not collected		not collected	feather													0.9783	MALE
+SAMN35842927	SAMN35842927	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052538	American Flying Tumbler							adult	female	blood							2016	USA: Utah					0.5061	FEMALE
+SAMN35842928	SAMN35842928	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052537	Shakhsharli							adult	missing	blood							2019	USA: Utah					0.5082	FEMALE
+SAMN35842929	SAMN35842929	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052549	Parlor Roller							adult	female	blood							2010	USA: Utah					0.9811	MALE
+SAMN35842930	SAMN35842930	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052560	Oriental Roller							adult	male	blood							2015	USA: Utah					0.9931	MALE
+SAMN35842931	SAMN35842931	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052570	Birmingham Roller							adult	male	blood							2014	USA: Utah					0.9909	MALE
+SAMN35842932	SAMN35842932	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052571	Turkish Tumbler							adult	male	blood							2019	USA: Utah					0.9886	MALE
+SAMN35842933	SAMN35842933	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052572	Komorner Tumbler							adult	male	blood							2019	USA: Utah					0.9903	MALE
+SAMN35842934	SAMN35842934	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052574	West of England							adult	female	blood							2019	USA: Utah					0.4989	FEMALE
+SAMN35842935	SAMN35842935	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052573	Voorburg Shield Cropper							adult	female	blood							2017	USA: Utah					0.9945	MALE
+SAMN35842936	SAMN35842936	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052575	Elster Pouter							adult	male	blood							2018	USA: Utah					0.9953	MALE
+SAMN35842937	SAMN35842937	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052539	Iranian Highflier							adult	female	blood							2018	USA: Utah					0.9953	MALE
+SAMN35842938	SAMN35842938	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052543	Old Dutch Capuchine							adult	female	blood							2015	USA: Utah					0.9941	MALE
+SAMN35842939	SAMN35842939	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18052540	Birmingham Roller							adult	male	blood							2012	USA: Utah					0.9908	MALE
+SAMN36892106	SAMN36892106	Model organism or animal sample from Columba livia	Columba livia	8932		SRS18837981	Homer			18282X1_RAH_MDS_004_M				adult	male	blood							2020	USA: Utah					0.9967	MALE
+SAMN43039852	SAMN43039852	Animal sample from mother bColLiv2 of Columba livia (rock pigeon) for VGP reference genome, bColLiv1	Columba livia	8932		SRS22283570	racing homer			bColLiv2				adult	female	blood		Feanix Biotechnologies Inc: Thomas Bishop; University of Pennsylvania: Wojciech Panek					2023-03-29	USA: Davis, California	38.513750 N 121.754494 W	-80oC	100% EtOH	8964	0.4981	FEMALE
+SAMN43039853	SAMN43039853	Animal sample from father bColLiv3 of Columba livia (rock pigeon) for VGP reference genome, bColLiv1	Columba livia	8932		SRS22283566	racing homer			bColLiv3				adult	male	blood		Feanix Biotechnologies Inc: Thomas Bishop; University of Pennsylvania: Wojciech Panek					2023-03-29	USA: Davis, California	38.513750 N 121.754494 W	-80oC	100% EtOH	137	0.9877	MALE

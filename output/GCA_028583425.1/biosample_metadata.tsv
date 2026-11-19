@@ -1,0 +1,27 @@
+sample_id	accession	title	organism	tax_id	id_SRA	isolate	dev_stage	sex	tissue	geo_loc_name	breed	genotype	strain	age	collection_date
+SAMN05601430	SAMN05601430	Tail sample from a mail Eublepharis macularius individual	Eublepharis macularius	481883	SRS1630974	inbreeding	adult individual	male	tail	Pakistan					
+SAMN19217404	SAMN19217404	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988832		adult	male	saliva		Mr.Frosty	heterozygous Lemon Frost			
+SAMN19217405	SAMN19217405	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988831		adult	male and female	saliva/tailtip		63 heterozygous mutants				
+SAMN19217406	SAMN19217406	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988830		adult	male and female	saliva/tailtip		25 homozygous mutants				
+SAMN19217407	SAMN19217407	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988829		adult	male and female	saliva/tailtip		71 wildtype				
+SAMN19217408	SAMN19217408	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988828		adult	male and female	saliva/tailtip		188 animals				
+SAMN19217409	SAMN19217409	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988827		adult	male and female	skin biopsy		wildtype	wildtype			
+SAMN19217410	SAMN19217410	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS8988826		adult	male and female	skin biopsy		homozygous mutants	homozygous mutants			
+SAMN35723121	SAMN35723121	Mack Super Snow Male	Eublepharis macularius	481883	SRS17964027			male	other tissue	not collected		Mack Super Snow	not collected	adult	not collected
+SAMN35723122	SAMN35723122	Mack Snow Females	Eublepharis macularius	481883	SRS17964028			female	other tissue	not collected		mss/+	not collected	adult	not collected
+SAMN35723123	SAMN35723123	Pooled Mack Super Snow offpsring	Eublepharis macularius	481883	SRS17964029			pooled male and female	other tissue	not collected		Mack Super Snow	not collected	hatchling	not collected
+SAMN35723124	SAMN35723124	Pooled Mack Snow mss/+ offspring	Eublepharis macularius	481883	SRS17964030			pooled male and female	other tissue	not collected		mss/+	not collected	hatchling	not collected
+SAMN46889285	SAMN46889285	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117564		Adult	male	Blood	Switzerland: Geneva	Tremper albino (Homozygous)				2017
+SAMN46889286	SAMN46889286	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117565		Adult	female	Blood	Switzerland: Geneva	Tremper albino (Heterozygous)				2017
+SAMN46889287	SAMN46889287	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117570		Embryo	not applicable	Blood	Switzerland: Geneva	Tremper albino (Homozygous)				2017
+SAMN46889288	SAMN46889288	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117571		Embryo	not applicable	Blood	Switzerland: Geneva	Tremper albino (Heterozygous)				2017
+SAMN46889289	SAMN46889289	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117572		Embryo	not collected	Blood	Switzerland: Geneva	Tremper albino (Homozygous)				2024
+SAMN46889290	SAMN46889290	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117573		Adult	female	Blood	Switzerland: Geneva	Rainwater albino (Homozygous)				2021
+SAMN46889291	SAMN46889291	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117574		Adult	male	Blood	Switzerland: Geneva	Rainwater albino (Heterozygous)				2021
+SAMN46889292	SAMN46889292	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117575		Embryo	not applicable	Blood	Switzerland: Geneva	Rainwater albino (Homozygous)				2024
+SAMN46889293	SAMN46889293	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117576		Embryo	not applicable	Blood	Switzerland: Geneva	Rainwater albino (Heterozygous)				2024
+SAMN46889294	SAMN46889294	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117577		Adult	female	Blood	Switzerland: Geneva	Bell albino (Homozygous)				2021
+SAMN46889295	SAMN46889295	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117566		Adult	male	Blood	Switzerland: Geneva	Bell albino (Heterozygous)				2021
+SAMN46889296	SAMN46889296	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117567		Embryo	not applicable	Blood	Switzerland: Geneva	Bell albino (Homozygous)				2021
+SAMN46889297	SAMN46889297	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117568		Embryo	not applicable	Blood	Switzerland: Geneva	Bell albino (Heterozygous)				2021
+SAMN46889298	SAMN46889298	Model organism or animal sample from Eublepharis macularius	Eublepharis macularius	481883	SRS24117569		Embryo	not collected	Blood	Switzerland: Geneva	Bell albino (Homozygous)				2024

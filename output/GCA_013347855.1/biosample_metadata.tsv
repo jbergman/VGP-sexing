@@ -1,0 +1,59 @@
+sample_id	accession	title	organism	tax_id	id_SRA	id_GenBank	sex	tissue	geo_loc_name	collection_date	isolate	depth	env_broad_scale	env_local_scale	env_medium	isol_growth_condt	lat_lon	dev_stage	biomaterial_provider	birth_date	collected_by	store_cond	treatment	ecotype	sample_type	age	description
+SAMN02777865	SAMN02777865	Sample from Anguilla anguilla	Anguilla anguilla	7936	SRS1961724	AZBK	female	blood	Netherlands: Lake Veere	2009-12																	
+SAMN12257743	SAMN12257743	MIGS Eukaryotic sample from Anguilla anguilla	Anguilla anguilla	7936	SRS5101803				Sweden: Ringhals	2001	EU_1	missing	missing	missing	missing	missing	57.27 N 12.11 E										
+SAMN12257744	SAMN12257744	MIGS Eukaryotic sample from Anguilla anguilla	Anguilla anguilla	7936	SRS5101804				not applicable	2014	EU_2	missing	missing	missing	missing	missing	24.67 N 62.50 E										
+SAMN12623627	SAMN12623627	Animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS18671806		missing	liver	Czech Republic: Elbe River	2018-11-29	fAngAng1						50.2909 N 14.4971 E	adult	University of Konstanz	missing	Martin Reichard	frozen	liquid nitrogen				
+SAMN16492506	SAMN16492506	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS7546087		missing	not applicable	United Kingdom: Severn river	2002	AES13						51.993503 N 2.174012 W	young	Leif Andersson		Hakan Wickstrom			AES	tissue sample		
+SAMN16492519	SAMN16492519	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS7546335		missing	not applicable	United Kingdom: Severn river	2002	AES26						51.993503 N 2.174012 W	young	Leif Andersson		Hakan Wickstrom			AES	tissue sample		
+SAMN16492742	SAMN16492742	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS7546163		missing	not applicable	Sweden:Ringhals	2019	ASRI26						57.26626 N 12.106816 E	young	Leif Andersson		Hakan Wickstrom			ASRI	tissue sample		
+SAMN17394405	SAMN17394405	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS8086442		not provided	blood	France: Grand-Lieu lake	2018-12-23	YG23Dec2018								Yann Guiguen, INRAE LPGP, Campus de Beaulieu, 35042 rennes cedex, France		Yann Guiguen, INRAE LPGP, Campus de Beaulieu, 35042 rennes cedex, France	Blood was kept frozen at -80 degrees celsius with 15% DMSO until used for Hi-C library construction		Grand-Lieu lake		adult	Wild type juvenile female European eel.
+SAMN26366573	SAMN26366573	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167413		missing	muscle	Ireland: Burrishoole	2010	Bur_01							Adult									
+SAMN26366574	SAMN26366574	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167415		missing	muscle	Ireland: Burrishoole	2010	Bur_02							Adult									
+SAMN26366575	SAMN26366575	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167425		missing	muscle	Ireland: Burrishoole	2010	Bur_03							Adult									
+SAMN26366576	SAMN26366576	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167436		missing	muscle	Ireland: Burrishoole	2010	Bur_04							Adult									
+SAMN26366577	SAMN26366577	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167447		missing	muscle	Ireland: Burrishoole	2010	Bur_05							Adult									
+SAMN26366578	SAMN26366578	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167457		missing	muscle	Ireland: Burrishoole	2010	Bur_06							Adult									
+SAMN26366579	SAMN26366579	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167459		missing	muscle	Ireland: Burrishoole	2010	Bur_07							Adult									
+SAMN26366580	SAMN26366580	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167461		missing	muscle	Ireland: Burrishoole	2005	Bur_08							Glass eel									
+SAMN26366581	SAMN26366581	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167462		missing	muscle	Ireland: Burrishoole	2005	Bur_09							Glass eel									
+SAMN26366582	SAMN26366582	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167460		missing	muscle	Ireland: Burrishoole	2005	Bur_10							Glass eel									
+SAMN26366583	SAMN26366583	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167414		missing	muscle	Ireland: Burrishoole	2005	Bur_11							Glass eel									
+SAMN26366584	SAMN26366584	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167416		missing	muscle	Ireland: Burrishoole	2005	Bur_12							Glass eel									
+SAMN26366585	SAMN26366585	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167417		missing	muscle	Iceland: Ellidaar	2016	Ell_01							Glass eel									
+SAMN26366586	SAMN26366586	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167418		missing	muscle	Iceland: Ellidaar	2016	Ell_02							Glass eel									
+SAMN26366587	SAMN26366587	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167420		missing	muscle	Iceland: Ellidaar	2016	Ell_03							Glass eel									
+SAMN26366588	SAMN26366588	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167419		missing	muscle	Iceland: Ellidaar	2016	Ell_04							Glass eel									
+SAMN26366589	SAMN26366589	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167421		missing	muscle	Iceland: Ellidaar	2016	Ell_05							Glass eel									
+SAMN26366590	SAMN26366590	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167422		missing	muscle	France: Gironde	2008	Gir_01							Glass eel									
+SAMN26366591	SAMN26366591	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167423		missing	muscle	France: Gironde	2008	Gir_02							Glass eel									
+SAMN26366592	SAMN26366592	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167424		missing	muscle	France: Gironde	2008	Gir_03							Glass eel									
+SAMN26366593	SAMN26366593	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167426		missing	muscle	France: Gironde	2008	Gir_04							Glass eel									
+SAMN26366594	SAMN26366594	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167427		missing	muscle	France: Gironde	2008	Gir_05							Glass eel									
+SAMN26366595	SAMN26366595	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167428		missing	muscle	Sweden: Ringhals	2008	Rin_01							Glass eel									
+SAMN26366596	SAMN26366596	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167429		missing	muscle	Sweden: Ringhals	2008	Rin_02							Glass eel									
+SAMN26366597	SAMN26366597	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167430		missing	muscle	Sweden: Ringhals	2008	Rin_03							Glass eel									
+SAMN26366598	SAMN26366598	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167431		missing	muscle	Sweden: Ringhals	2008	Rin_04							Glass eel									
+SAMN26366599	SAMN26366599	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167432		missing	muscle	Sweden: Ringhals	2008	Rin_05							Glass eel									
+SAMN26366600	SAMN26366600	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167433		missing	muscle	Morocco: Oved Sebou	2001	Seb_01							Glass eel									
+SAMN26366601	SAMN26366601	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167434		missing	muscle	Morocco: Oved Sebou	2001	Seb_02							Glass eel									
+SAMN26366602	SAMN26366602	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167435		missing	muscle	Morocco: Oved Sebou	2001	Seb_03							Glass eel									
+SAMN26366603	SAMN26366603	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167437		missing	muscle	Morocco: Oved Sebou	2001	Seb_04							Glass eel									
+SAMN26366604	SAMN26366604	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167438		missing	muscle	Morocco: Oved Sebou	2001	Seb_05							Glass eel									
+SAMN26366605	SAMN26366605	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167439		missing	muscle	Morocco: Oved Sebou	2001	Seb_06							Glass eel									
+SAMN26366606	SAMN26366606	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167441		missing	muscle	Morocco: Oved Sebou	2001	Seb_07							Glass eel									
+SAMN26366607	SAMN26366607	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167440		missing	muscle	Iceland: Stokkseyri	2016	Sto_01							Glass eel									
+SAMN26366608	SAMN26366608	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167442		missing	muscle	Iceland: Stokkseyri	2016	Sto_02							Glass eel									
+SAMN26366609	SAMN26366609	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167444		missing	muscle	Iceland: Stokkseyri	2016	Sto_03							Glass eel									
+SAMN26366610	SAMN26366610	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167443		missing	muscle	Iceland: Stokkseyri	2016	Sto_04							Glass eel									
+SAMN26366611	SAMN26366611	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167445		missing	muscle	Iceland: Stokkseyri	2016	Sto_05							Glass eel									
+SAMN26366612	SAMN26366612	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167446		missing	muscle	Iceland: Stokkseyri	2016	Sto_06							Glass eel									
+SAMN26366613	SAMN26366613	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167448		missing	muscle	Spain: Valencia	2012	Val_01							Adult									
+SAMN26366614	SAMN26366614	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167449		missing	muscle	Spain: Valencia	2012	Val_02							Adult									
+SAMN26366615	SAMN26366615	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167450		missing	muscle	Spain: Valencia	2012	Val_03							Adult									
+SAMN26366616	SAMN26366616	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167451		missing	muscle	Spain: Valencia	2010	Val_04							Glass eel									
+SAMN26366617	SAMN26366617	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167452		missing	muscle	Spain: Valencia	2012	Val_05							Adult									
+SAMN26366618	SAMN26366618	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167453		missing	muscle	Spain: Valencia	2010	Val_06							Glass eel									
+SAMN26366619	SAMN26366619	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167455		missing	muscle	Spain: Valencia	2010	Val_07							Glass eel									
+SAMN26366620	SAMN26366620	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167454		missing	muscle	Spain: Valencia	2010	Val_08							Glass eel									
+SAMN26366621	SAMN26366621	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167456		missing	muscle	Spain: Valencia	2010	Val_09							Glass eel									
+SAMN26366622	SAMN26366622	Model organism or animal sample from Anguilla anguilla	Anguilla anguilla	7936	SRS12167458		missing	muscle	Spain: Valencia	2010	Val_10							Glass eel									

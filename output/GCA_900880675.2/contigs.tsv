@@ -1,0 +1,177 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_900880675.2	1	1	Chromosome	NC_044187.1	Primary Assembly	41035582	LR537121.1	17135149	42	assembled-molecule	Super_scaffold_1	AUTO	2	2
+GCA_900880675.2	2	2	Chromosome	NC_044188.1	Primary Assembly	36133474	LR537122.1	15164139	42	assembled-molecule	Super_scaffold_13	AUTO	2	2
+GCA_900880675.2	3	3	Chromosome	NC_044189.1	Primary Assembly	32888385	LR537123.1	13813625	42	assembled-molecule	Super_scaffold_11	AUTO	2	2
+GCA_900880675.2	4	4	Chromosome	NC_044190.1	Primary Assembly	41392777	LR537124.1	17214989	41.5	assembled-molecule	Super_scaffold_3	AUTO	2	2
+GCA_900880675.2	5	5	Chromosome	NC_044191.1	Primary Assembly	38249111	LR537125.1	16011351	42	assembled-molecule	Super_scaffold_9	AUTO	2	2
+GCA_900880675.2	6	6	Chromosome	NC_044192.1	Primary Assembly	40124345	LR537126.1	16714091	41.5	assembled-molecule	Super_scaffold_5	AUTO	2	2
+GCA_900880675.2	7	7	Chromosome	NC_044193.1	Primary Assembly	35997798	LR537127.1	15083124	42	assembled-molecule	Super_scaffold_7	AUTO	2	2
+GCA_900880675.2	8	8	Chromosome	NC_044194.1	Primary Assembly	36959192	LR537128.1	15518146	42	assembled-molecule	Super_scaffold_6	AUTO	2	2
+GCA_900880675.2	9	9	Chromosome	NC_044195.1	Primary Assembly	37012328	LR537129.1	15420240	41.5	assembled-molecule	Super_scaffold_21	AUTO	2	2
+GCA_900880675.2	10	10	Chromosome	NC_044196.1	Primary Assembly	35512760	LR537130.1	14812655	41.5	assembled-molecule	Super_scaffold_18	AUTO	2	2
+GCA_900880675.2	11	11	Chromosome	NC_044197.1	Primary Assembly	35380617	LR537131.1	14777057	42	assembled-molecule	Super_scaffold_4	AUTO	2	2
+GCA_900880675.2	12	12	Chromosome	NC_044198.1	Primary Assembly	30193437	LR537132.1	12612434	42	assembled-molecule	Super_scaffold_12	AUTO	2	2
+GCA_900880675.2	13	13	Chromosome	NC_044199.1	Primary Assembly	35791275	LR537133.1	14961491	42	assembled-molecule	Super_scaffold_14	AUTO	2	2
+GCA_900880675.2	14	14	Chromosome	NC_044200.1	Primary Assembly	25861820	LR537134.1	10956662	42.5	assembled-molecule	Super_scaffold_23	AUTO	2	2
+GCA_900880675.2	15	15	Chromosome	NC_044201.1	Primary Assembly	31859785	LR537135.1	13363742	42	assembled-molecule	Super_scaffold_15	AUTO	2	2
+GCA_900880675.2	16	16	Chromosome	NC_044202.1	Primary Assembly	30078578	LR537136.1	12742502	42.5	assembled-molecule	Super_scaffold_22	AUTO	2	2
+GCA_900880675.2	17	17	Chromosome	NC_044203.1	Primary Assembly	37948182	LR537137.1	15845436	42	assembled-molecule	Super_scaffold_16	AUTO	2	2
+GCA_900880675.2	18	18	Chromosome	NC_044204.1	Primary Assembly	37104330	LR537138.1	15516442	42	assembled-molecule	Super_scaffold_10	AUTO	2	2
+GCA_900880675.2	19	19	Chromosome	NC_044205.1	Primary Assembly	31047742	LR537139.1	13058385	42	assembled-molecule	Super_scaffold_20	AUTO	2	2
+GCA_900880675.2	20	20	Chromosome	NC_044206.1	Primary Assembly	28386240	LR537140.1	11977037	42	assembled-molecule	Super_scaffold_19	AUTO	2	2
+GCA_900880675.2	21	21	Chromosome	NC_044207.1	Primary Assembly	35160130	LR537141.1	14711188	42	assembled-molecule	Super_scaffold_17	AUTO	2	2
+GCA_900880675.2	22	22	Chromosome	NC_044208.1	Primary Assembly	31425404	LR537142.1	13202827	42	assembled-molecule	Super_scaffold_24	AUTO	2	2
+GCA_900880675.2	23	23	Chromosome	NC_044209.1	Primary Assembly	30526999	LR537143.1	12906880	42.5	assembled-molecule	Super_scaffold_8	AUTO	2	2
+GCA_900880675.2	24	24	Chromosome	NC_044210.1	Primary Assembly	22435136	LR537144.1	9533270	42.5	assembled-molecule	Super_scaffold_2	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652907.1	Primary Assembly	423250	CAAHFC020000001.1			unplaced-scaffold	contig1	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652908.1	Primary Assembly	417322	CAAHFC020000002.1			unplaced-scaffold	contig2	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652909.1	Primary Assembly	392191	CAAHFC020000003.1			unplaced-scaffold	contig3	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652910.1	Primary Assembly	366039	CAAHFC020000004.1			unplaced-scaffold	contig4	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652911.1	Primary Assembly	343555	CAAHFC020000005.1			unplaced-scaffold	contig5	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652912.1	Primary Assembly	317248	CAAHFC020000006.1			unplaced-scaffold	contig6	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652913.1	Primary Assembly	317227	CAAHFC020000007.1			unplaced-scaffold	contig7	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652914.1	Primary Assembly	310298	CAAHFC020000008.1			unplaced-scaffold	contig8	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652915.1	Primary Assembly	301216	CAAHFC020000009.1			unplaced-scaffold	contig9	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652916.1	Primary Assembly	298920	CAAHFC020000010.1			unplaced-scaffold	contig10	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652917.1	Primary Assembly	276901	CAAHFC020000011.1			unplaced-scaffold	contig11	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652918.1	Primary Assembly	262853	CAAHFC020000012.1			unplaced-scaffold	contig12	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652919.1	Primary Assembly	260828	CAAHFC020000013.1			unplaced-scaffold	contig13	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652920.1	Primary Assembly	233782	CAAHFC020000014.1			unplaced-scaffold	contig14	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652921.1	Primary Assembly	232415	CAAHFC020000015.1			unplaced-scaffold	contig15	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652922.1	Primary Assembly	218624	CAAHFC020000016.1			unplaced-scaffold	contig16	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652923.1	Primary Assembly	216807	CAAHFC020000017.1			unplaced-scaffold	contig17	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652924.1	Primary Assembly	193988	CAAHFC020000018.1			unplaced-scaffold	contig18	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652925.1	Primary Assembly	190138	CAAHFC020000019.1			unplaced-scaffold	contig19	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652926.1	Primary Assembly	189718	CAAHFC020000020.1			unplaced-scaffold	contig20	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652927.1	Primary Assembly	177197	CAAHFC020000021.1			unplaced-scaffold	contig21	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652928.1	Primary Assembly	177120	CAAHFC020000022.1			unplaced-scaffold	contig22	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652929.1	Primary Assembly	173598	CAAHFC020000023.1			unplaced-scaffold	contig23	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652930.1	Primary Assembly	163330	CAAHFC020000024.1			unplaced-scaffold	contig24	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652931.1	Primary Assembly	160859	CAAHFC020000025.1			unplaced-scaffold	contig25	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652932.1	Primary Assembly	158698	CAAHFC020000026.1			unplaced-scaffold	contig26	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652933.1	Primary Assembly	157380	CAAHFC020000027.1			unplaced-scaffold	contig27	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652934.1	Primary Assembly	147298	CAAHFC020000028.1			unplaced-scaffold	contig28	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652935.1	Primary Assembly	141590	CAAHFC020000029.1			unplaced-scaffold	contig29	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652936.1	Primary Assembly	138454	CAAHFC020000030.1			unplaced-scaffold	contig30	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652937.1	Primary Assembly	137540	CAAHFC020000031.1			unplaced-scaffold	contig31	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652938.1	Primary Assembly	132279	CAAHFC020000032.1			unplaced-scaffold	contig32	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652939.1	Primary Assembly	131620	CAAHFC020000033.1			unplaced-scaffold	contig33	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652940.1	Primary Assembly	128841	CAAHFC020000034.1			unplaced-scaffold	contig34	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652941.1	Primary Assembly	127140	CAAHFC020000035.1			unplaced-scaffold	contig35	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652942.1	Primary Assembly	126783	CAAHFC020000036.1			unplaced-scaffold	contig36	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652943.1	Primary Assembly	123694	CAAHFC020000037.1			unplaced-scaffold	contig37	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652944.1	Primary Assembly	122180	CAAHFC020000038.1			unplaced-scaffold	contig38	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652945.1	Primary Assembly	121153	CAAHFC020000039.1			unplaced-scaffold	contig39	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652946.1	Primary Assembly	121314	CAAHFC020000040.1			unplaced-scaffold	contig40	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652947.1	Primary Assembly	119712	CAAHFC020000041.1			unplaced-scaffold	contig41	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652948.1	Primary Assembly	119376	CAAHFC020000042.1			unplaced-scaffold	contig42	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652949.1	Primary Assembly	119061	CAAHFC020000043.1			unplaced-scaffold	contig43	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652950.1	Primary Assembly	117604	CAAHFC020000044.1			unplaced-scaffold	contig44	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652951.1	Primary Assembly	116722	CAAHFC020000045.1			unplaced-scaffold	contig45	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652952.1	Primary Assembly	116212	CAAHFC020000046.1			unplaced-scaffold	contig46	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652953.1	Primary Assembly	113463	CAAHFC020000047.1			unplaced-scaffold	contig47	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652954.1	Primary Assembly	113443	CAAHFC020000048.1			unplaced-scaffold	contig48	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652955.1	Primary Assembly	108829	CAAHFC020000049.1			unplaced-scaffold	contig49	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652956.1	Primary Assembly	108896	CAAHFC020000050.1			unplaced-scaffold	contig50	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652957.1	Primary Assembly	107150	CAAHFC020000051.1			unplaced-scaffold	contig51	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652958.1	Primary Assembly	104158	CAAHFC020000052.1			unplaced-scaffold	contig52	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652959.1	Primary Assembly	102518	CAAHFC020000053.1			unplaced-scaffold	contig53	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652960.1	Primary Assembly	94759	CAAHFC020000054.1			unplaced-scaffold	contig54	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652961.1	Primary Assembly	93944	CAAHFC020000055.1			unplaced-scaffold	contig55	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652962.1	Primary Assembly	93050	CAAHFC020000056.1			unplaced-scaffold	contig56	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652963.1	Primary Assembly	91954	CAAHFC020000057.1			unplaced-scaffold	contig57	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652964.1	Primary Assembly	83876	CAAHFC020000058.1			unplaced-scaffold	contig58	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652965.1	Primary Assembly	82649	CAAHFC020000059.1			unplaced-scaffold	contig59	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652966.1	Primary Assembly	80752	CAAHFC020000060.1			unplaced-scaffold	contig60	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652967.1	Primary Assembly	78132	CAAHFC020000061.1			unplaced-scaffold	contig61	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652968.1	Primary Assembly	78172	CAAHFC020000062.1			unplaced-scaffold	contig62	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652969.1	Primary Assembly	75833	CAAHFC020000063.1			unplaced-scaffold	contig63	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652970.1	Primary Assembly	74533	CAAHFC020000064.1			unplaced-scaffold	contig64	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652971.1	Primary Assembly	68917	CAAHFC020000065.1			unplaced-scaffold	contig65	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652972.1	Primary Assembly	67553	CAAHFC020000066.1			unplaced-scaffold	contig66	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652973.1	Primary Assembly	66278	CAAHFC020000067.1			unplaced-scaffold	contig67	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652974.1	Primary Assembly	64670	CAAHFC020000068.1			unplaced-scaffold	contig68	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652975.1	Primary Assembly	62739	CAAHFC020000069.1			unplaced-scaffold	contig69	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652976.1	Primary Assembly	60726	CAAHFC020000070.1			unplaced-scaffold	contig70	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652977.1	Primary Assembly	60705	CAAHFC020000071.1			unplaced-scaffold	contig71	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652978.1	Primary Assembly	58424	CAAHFC020000072.1			unplaced-scaffold	contig72	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652979.1	Primary Assembly	58234	CAAHFC020000073.1			unplaced-scaffold	contig73	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652980.1	Primary Assembly	52844	CAAHFC020000074.1			unplaced-scaffold	contig74	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652981.1	Primary Assembly	50719	CAAHFC020000075.1			unplaced-scaffold	contig75	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652982.1	Primary Assembly	50706	CAAHFC020000076.1			unplaced-scaffold	contig76	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652983.1	Primary Assembly	50407	CAAHFC020000077.1			unplaced-scaffold	contig77	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652984.1	Primary Assembly	48720	CAAHFC020000078.1			unplaced-scaffold	contig78	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652985.1	Primary Assembly	47831	CAAHFC020000079.1			unplaced-scaffold	contig79	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652986.1	Primary Assembly	47122	CAAHFC020000080.1			unplaced-scaffold	contig80	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652987.1	Primary Assembly	46728	CAAHFC020000081.1			unplaced-scaffold	contig81	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652988.1	Primary Assembly	45624	CAAHFC020000082.1			unplaced-scaffold	contig82	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652989.1	Primary Assembly	44143	CAAHFC020000083.1			unplaced-scaffold	contig83	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652990.1	Primary Assembly	43087	CAAHFC020000084.1			unplaced-scaffold	contig84	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652991.1	Primary Assembly	41546	CAAHFC020000085.1			unplaced-scaffold	contig85	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652992.1	Primary Assembly	41387	CAAHFC020000086.1			unplaced-scaffold	contig86	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652993.1	Primary Assembly	40994	CAAHFC020000087.1			unplaced-scaffold	contig87	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652994.1	Primary Assembly	40787	CAAHFC020000088.1			unplaced-scaffold	contig88	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652995.1	Primary Assembly	40526	CAAHFC020000089.1			unplaced-scaffold	contig89	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652996.1	Primary Assembly	39651	CAAHFC020000090.1			unplaced-scaffold	contig90	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652997.1	Primary Assembly	39428	CAAHFC020000091.1			unplaced-scaffold	contig91	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652998.1	Primary Assembly	39477	CAAHFC020000092.1			unplaced-scaffold	contig92	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027652999.1	Primary Assembly	39451	CAAHFC020000093.1			unplaced-scaffold	contig93	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653000.1	Primary Assembly	39088	CAAHFC020000094.1			unplaced-scaffold	contig94	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653001.1	Primary Assembly	38600	CAAHFC020000095.1			unplaced-scaffold	contig95	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653002.1	Primary Assembly	37769	CAAHFC020000096.1			unplaced-scaffold	contig96	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653003.1	Primary Assembly	37692	CAAHFC020000097.1			unplaced-scaffold	contig97	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653004.1	Primary Assembly	37517	CAAHFC020000098.1			unplaced-scaffold	contig98	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653005.1	Primary Assembly	37432	CAAHFC020000099.1			unplaced-scaffold	contig99	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653006.1	Primary Assembly	37242	CAAHFC020000100.1			unplaced-scaffold	contig100	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653007.1	Primary Assembly	36688	CAAHFC020000101.1			unplaced-scaffold	contig101	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653008.1	Primary Assembly	36352	CAAHFC020000102.1			unplaced-scaffold	contig102	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653009.1	Primary Assembly	36319	CAAHFC020000103.1			unplaced-scaffold	contig103	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653010.1	Primary Assembly	36106	CAAHFC020000104.1			unplaced-scaffold	contig104	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653011.1	Primary Assembly	36069	CAAHFC020000105.1			unplaced-scaffold	contig105	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653012.1	Primary Assembly	33685	CAAHFC020000106.1			unplaced-scaffold	contig106	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653013.1	Primary Assembly	33320	CAAHFC020000107.1			unplaced-scaffold	contig107	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653014.1	Primary Assembly	33103	CAAHFC020000108.1			unplaced-scaffold	contig108	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653015.1	Primary Assembly	33113	CAAHFC020000109.1			unplaced-scaffold	contig109	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653016.1	Primary Assembly	32114	CAAHFC020000110.1			unplaced-scaffold	contig110	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653017.1	Primary Assembly	31225	CAAHFC020000111.1			unplaced-scaffold	contig111	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653018.1	Primary Assembly	30581	CAAHFC020000112.1			unplaced-scaffold	contig112	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653019.1	Primary Assembly	30734	CAAHFC020000113.1			unplaced-scaffold	contig113	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653020.1	Primary Assembly	30737	CAAHFC020000114.1			unplaced-scaffold	contig114	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653021.1	Primary Assembly	30070	CAAHFC020000115.1			unplaced-scaffold	contig115	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653022.1	Primary Assembly	29948	CAAHFC020000116.1			unplaced-scaffold	contig116	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653023.1	Primary Assembly	29658	CAAHFC020000117.1			unplaced-scaffold	contig117	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653024.1	Primary Assembly	29289	CAAHFC020000118.1			unplaced-scaffold	contig118	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653025.1	Primary Assembly	28888	CAAHFC020000119.1			unplaced-scaffold	contig119	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653026.1	Primary Assembly	28644	CAAHFC020000120.1			unplaced-scaffold	contig120	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653027.1	Primary Assembly	28577	CAAHFC020000121.1			unplaced-scaffold	contig121	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653028.1	Primary Assembly	27983	CAAHFC020000122.1			unplaced-scaffold	contig122	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653029.1	Primary Assembly	28029	CAAHFC020000123.1			unplaced-scaffold	contig123	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653030.1	Primary Assembly	27618	CAAHFC020000124.1			unplaced-scaffold	contig124	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653031.1	Primary Assembly	27574	CAAHFC020000125.1			unplaced-scaffold	contig125	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653032.1	Primary Assembly	27285	CAAHFC020000126.1			unplaced-scaffold	contig126	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653033.1	Primary Assembly	26932	CAAHFC020000127.1			unplaced-scaffold	contig127	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653034.1	Primary Assembly	26914	CAAHFC020000128.1			unplaced-scaffold	contig128	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653035.1	Primary Assembly	26863	CAAHFC020000129.1			unplaced-scaffold	contig129	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653036.1	Primary Assembly	26524	CAAHFC020000130.1			unplaced-scaffold	contig130	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653037.1	Primary Assembly	25411	CAAHFC020000131.1			unplaced-scaffold	contig131	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653038.1	Primary Assembly	25299	CAAHFC020000132.1			unplaced-scaffold	contig132	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653039.1	Primary Assembly	25263	CAAHFC020000133.1			unplaced-scaffold	contig133	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653040.1	Primary Assembly	25125	CAAHFC020000134.1			unplaced-scaffold	contig134	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653041.1	Primary Assembly	24395	CAAHFC020000135.1			unplaced-scaffold	contig135	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653042.1	Primary Assembly	24467	CAAHFC020000136.1			unplaced-scaffold	contig136	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653043.1	Primary Assembly	24148	CAAHFC020000137.1			unplaced-scaffold	contig137	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653044.1	Primary Assembly	23298	CAAHFC020000138.1			unplaced-scaffold	contig138	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653045.1	Primary Assembly	23045	CAAHFC020000139.1			unplaced-scaffold	contig139	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653046.1	Primary Assembly	22962	CAAHFC020000140.1			unplaced-scaffold	contig140	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653047.1	Primary Assembly	22795	CAAHFC020000141.1			unplaced-scaffold	contig141	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653048.1	Primary Assembly	22768	CAAHFC020000142.1			unplaced-scaffold	contig142	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653049.1	Primary Assembly	21948	CAAHFC020000143.1			unplaced-scaffold	contig143	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653050.1	Primary Assembly	21482	CAAHFC020000144.1			unplaced-scaffold	contig144	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653051.1	Primary Assembly	21607	CAAHFC020000145.1			unplaced-scaffold	contig145	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653052.1	Primary Assembly	21163	CAAHFC020000146.1			unplaced-scaffold	contig146	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653053.1	Primary Assembly	20962	CAAHFC020000147.1			unplaced-scaffold	contig147	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653054.1	Primary Assembly	20830	CAAHFC020000148.1			unplaced-scaffold	contig148	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653055.1	Primary Assembly	20806	CAAHFC020000149.1			unplaced-scaffold	contig149	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653056.1	Primary Assembly	493923	CAAHFC020000150.1			unplaced-scaffold	contig150	AUTO	2	2
+GCA_900880675.2	Un	9999	Chromosome	NW_027653057.1	Primary Assembly	469395	CAAHFC020000151.1			unplaced-scaffold	contig151	AUTO	2	2
+GCA_900880675.2	MT		Mitochondrion		non-nuclear	16652	OD909577.1	7654	46	assembled-molecule	scaffold_MT	chrM	1	1

@@ -1,0 +1,52 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	assembly_unit	length	genbank_accession	gc_count	gc_percent	unlocalized_count	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_014108235.2	1	1	Chromosome	Primary Assembly	227467604	CM138244.1	94475234	42	1	assembled-molecule	SUPER_1	AUTO	2	2
+GCA_014108235.2	2	2	Chromosome	Primary Assembly	218846388	CM138245.1	92003276	42.5		assembled-molecule	SUPER_2	AUTO	2	2
+GCA_014108235.2	3	3	Chromosome	Primary Assembly	217066114	CM138246.1	89083055	41.5		assembled-molecule	SUPER_3	AUTO	2	2
+GCA_014108235.2	4	4	Chromosome	Primary Assembly	113662874	CM138247.1	48272110	42.5		assembled-molecule	SUPER_4	AUTO	2	2
+GCA_014108235.2	5	5	Chromosome	Primary Assembly	108649645	CM138248.1	47020754	44.5		assembled-molecule	SUPER_5	AUTO	2	2
+GCA_014108235.2	6	6	Chromosome	Primary Assembly	98503836	CM138249.1	40726237	41.5		assembled-molecule	SUPER_6	AUTO	2	2
+GCA_014108235.2	7	7	Chromosome	Primary Assembly	94234955	CM138250.1	38821382	41.5		assembled-molecule	SUPER_7	AUTO	2	2
+GCA_014108235.2	8	8	Chromosome	Primary Assembly	93419483	CM138251.1	40860752	44		assembled-molecule	SUPER_8	AUTO	2	2
+GCA_014108235.2	9	9	Chromosome	Primary Assembly	85419161	CM138252.1	36575212	44		assembled-molecule	SUPER_9	AUTO	2	2
+GCA_014108235.2	10	10	Chromosome	Primary Assembly	84037509	CM138253.1	34832301	42		assembled-molecule	SUPER_10	AUTO	2	2
+GCA_014108235.2	11	11	Chromosome	Primary Assembly	79519096	CM138254.1	34381327	43.5		assembled-molecule	SUPER_11	AUTO	2	2
+GCA_014108235.2	12	12	Chromosome	Primary Assembly	66134237	CM138255.1	28570006	43.5	3	assembled-molecule	SUPER_12	AUTO	2	2
+GCA_014108235.2	13	13	Chromosome	Primary Assembly	61041271	CM138256.1	26826133	44.5		assembled-molecule	SUPER_13	AUTO	2	2
+GCA_014108235.2	14	14	Chromosome	Primary Assembly	58607551	CM138257.1	26023790	44.5		assembled-molecule	SUPER_14	AUTO	2	2
+GCA_014108235.2	15	15	Chromosome	Primary Assembly	54694650	CM138258.1	24398377	48		assembled-molecule	SUPER_15	AUTO	2	2
+GCA_014108235.2	16	16	Chromosome	Primary Assembly	53811387	CM138259.1	22922719	42.5		assembled-molecule	SUPER_16	AUTO	2	2
+GCA_014108235.2	17	17	Chromosome	Primary Assembly	51753079	CM138260.1	24133130	48		assembled-molecule	SUPER_17	AUTO	2	2
+GCA_014108235.2	18	18	Chromosome	Primary Assembly	43538023	CM138261.1	20027742	46.5		assembled-molecule	SUPER_18	AUTO	2	2
+GCA_014108235.2	19	19	Chromosome	Primary Assembly	27712430	CM138262.1	13721660	49.5		assembled-molecule	SUPER_19	AUTO	2	2
+GCA_014108235.2	20	20	Chromosome	Primary Assembly	15591159	CM138263.1	7246877	47.5		assembled-molecule	SUPER_20	AUTO	2	2
+GCA_014108235.2	21	21	Chromosome	Primary Assembly	14007056	CM138264.1	6943491	51		assembled-molecule	SUPER_21	AUTO	2	2
+GCA_014108235.2	X	22	Chromosome	Primary Assembly	131248058	CM138265.1	51396328	41	1	assembled-molecule	SUPER_X	chrX	2	1
+GCA_014108235.2	1	1	Chromosome	Primary Assembly	183360	JABWUV020000030.1			1	unlocalized-scaffold	SUPER_1_unloc_1	AUTO	2	2
+GCA_014108235.2	12	12	Chromosome	Primary Assembly	366720	JABWUV020000025.1			3	unlocalized-scaffold	SUPER_12_unloc_2	AUTO	2	2
+GCA_014108235.2	12	12	Chromosome	Primary Assembly	223462	JABWUV020000026.1			3	unlocalized-scaffold	SUPER_12_unloc_1	AUTO	2	2
+GCA_014108235.2	12	12	Chromosome	Primary Assembly	183360	JABWUV020000029.1			3	unlocalized-scaffold	SUPER_12_unloc_3	AUTO	2	2
+GCA_014108235.2	X	22	Chromosome	Primary Assembly	121838	JABWUV020000035.1			1	unlocalized-scaffold	SUPER_X_unloc_1	chrX	2	1
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	679316	JABWUV020000024.1				unplaced-scaffold	Scaffold_22	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	206615	JABWUV020000027.1				unplaced-scaffold	Scaffold_23	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	188461	JABWUV020000028.1				unplaced-scaffold	Scaffold_24	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	147788	JABWUV020000031.1				unplaced-scaffold	Scaffold_25	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	126163	JABWUV020000032.1				unplaced-scaffold	Scaffold_26	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	125338	JABWUV020000033.1				unplaced-scaffold	Scaffold_27	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	124669	JABWUV020000034.1				unplaced-scaffold	Scaffold_28	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	104718	JABWUV020000036.1				unplaced-scaffold	Scaffold_29	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	104115	JABWUV020000037.1				unplaced-scaffold	Scaffold_30	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	97268	JABWUV020000038.1				unplaced-scaffold	Scaffold_31	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	91028	JABWUV020000039.1				unplaced-scaffold	Scaffold_32	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	88811	JABWUV020000040.1				unplaced-scaffold	Scaffold_33	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	84383	JABWUV020000041.1				unplaced-scaffold	Scaffold_34	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	84131	JABWUV020000042.1				unplaced-scaffold	Scaffold_35	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	71161	JABWUV020000043.1				unplaced-scaffold	Scaffold_36	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	63657	JABWUV020000044.1				unplaced-scaffold	Scaffold_37	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	60455	JABWUV020000045.1				unplaced-scaffold	Scaffold_38	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	56930	JABWUV020000046.1				unplaced-scaffold	Scaffold_39	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	56719	JABWUV020000047.1				unplaced-scaffold	Scaffold_40	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	55619	JABWUV020000048.1				unplaced-scaffold	Scaffold_41	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	45504	JABWUV020000049.1				unplaced-scaffold	Scaffold_42	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	42821	JABWUV020000050.1				unplaced-scaffold	Scaffold_43	AUTO	2	2
+GCA_014108235.2	Un	9999	Chromosome	Primary Assembly	15962	JABWUV020000051.1				unplaced-scaffold	Scaffold_44	AUTO	2	2
+GCA_014108235.2	MT		Mitochondrion	non-nuclear	17308	CM024383.2	6103	35.5		assembled-molecule	mMyoMyo1	chrM	1	1

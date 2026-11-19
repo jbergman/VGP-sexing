@@ -1,0 +1,20 @@
+sample_id	accession	title	organism	tax_id	id_SRA	ecotype	dev_stage	collection_date	geo_loc_name	sex	tissue	lat_lon	sample_type
+SAMN37653106	SAMN37653106	NOR2	Sprattus sprattus	196075	SRS19047658	Norwegian fjords	Adult	2001-05	Norway: Nordfjord	not applicable	missing	61.86 N 6.004 E	pool
+SAMN37653107	SAMN37653107	NOR3	Sprattus sprattus	196075	SRS19047659	Norwegian fjords	Adult	2015-12	Norway: Nordfjord	not applicable	missing	61.811 N 6.111 E	pool
+SAMN37653108	SAMN37653108	SOG2	Sprattus sprattus	196075	SRS19047666	Norwegian fjords	Adult	2015-12	Norway: Sognefjorden	not applicable	missing	61.485 N 7.597 E	pool
+SAMN37653109	SAMN37653109	HAR1	Sprattus sprattus	196075	SRS19048422	Norwegian fjords	Adult	2015-12	Norway: Hardangerfjorden	not applicable	missing	60.225 N 6.058 E	pool
+SAMN37653110	SAMN37653110	HAN	Sprattus sprattus	196075	SRS19047667	missing	Adult	2018-05	Norway: Oslofjorden	not applicable	missing	59.2 N 10.8 E	pool
+SAMN37653111	SAMN37653111	LAND15	Sprattus sprattus	196075	SRS19048423	Landvik	Adult	2015-03	Norway: Landvikvannet	not applicable	missing	58.317 N 8.491 E	pool
+SAMN37653112	SAMN37653112	LAND19	Sprattus sprattus	196075	SRS19047668	Landvik	Adult	2019-09	Norway: Landvikvannet	not applicable	missing	58.317 N 8.491 E	pool
+SAMN37653113	SAMN37653113	NS1	Sprattus sprattus	196075	SRS19049018	NorthSea_KatSka	Adult	2018-07	North Sea	not applicable	missing	56.049 N 7.723 E	pool
+SAMN37653114	SAMN37653114	NS3	Sprattus sprattus	196075	SRS19047669	NorthSea_KatSka	Adult	2008	North Sea	not applicable	missing	54.307 N 1.842 E	pool
+SAMN37653115	SAMN37653115	BoB	Sprattus sprattus	196075	SRS19047670	NorthSea_KatSka	Adult	2008-08	France: Bay of Biscay	not applicable	missing	47.192 N 1.318 W	pool
+SAMN37653116	SAMN37653116	CEL	Sprattus sprattus	196075	SRS19047660	NorthSea_KatSka	Adult	2009-10	Atlantic Ocean: Celtic Sea	not applicable	missing	52.814 N 9.856 W	pool
+SAMN37653117	SAMN37653117	SK1	Sprattus sprattus	196075	SRS19048421	NorthSea_KatSka	Adult	2018-06	Denmark: Kattegat	not applicable	missing	58.011 N 11.156 E	pool
+SAMN37653118	SAMN37653118	SK5	Sprattus sprattus	196075	SRS19047661	NorthSea_KatSka	Adult	2018-07	Denmark: Kattegat	not applicable	missing	57.021 N 11.744 E	pool
+SAMN37653119	SAMN37653119	UV	Sprattus sprattus	196075	SRS19060137	TRANSITION ZONE	Adult	2008-05	Sweden: Uddevallafjorden	not applicable	missing	58.25 N 11.428 E	pool
+SAMN37653120	SAMN37653120	AB	Sprattus sprattus	196075	SRS19047662	Baltic	Adult	2006-05	Baltic Sea: Arkona Basin	not applicable	missing	55.147 N 13.845 E	pool
+SAMN37653121	SAMN37653121	BBS	Sprattus sprattus	196075	SRS19047663	Baltic	Adult	2006-03	Baltic Sea: Bornholm Basin S	not applicable	missing	54.933 N 15.69 E	pool
+SAMN37653122	SAMN37653122	GD	Sprattus sprattus	196075	SRS19047664	Baltic	Adult	2006-03	Baltic Sea: Gdansk Deep	not applicable	missing	54.751 N 18.993 E	pool
+SAMN37653123	SAMN37653123	GOTB	Sprattus sprattus	196075	SRS19047665	Baltic	Adult	2006-05	Baltic Sea: Gotland Basin	not applicable	missing	58.406 N 20.526 E	pool
+SAMN37653124	SAMN37653124	BS	Sprattus sprattus	196075	SRS19048769	Black Sea	Adult	2008-12	Turkey: Black Sea	not applicable	missing	41.087 N 40.027 E	pool

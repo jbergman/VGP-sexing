@@ -1,0 +1,27 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_028858775.3	1	1	Chromosome	NC_072398.2	Primary Assembly	231299448	CM054434.2	96612158	42	assembled-molecule	chr1_hap1_hsa1	AUTO	2	2
+GCA_028858775.3	2	2	Chromosome	NC_086015.1	Primary Assembly	201579334	CM068905.1	79899644	39.5	assembled-molecule	chr2_hap1_hsa3	AUTO	2	2
+GCA_028858775.3	3	3	Chromosome	NC_072401.2	Primary Assembly	191670129	CM054437.2	73398852	38.5	assembled-molecule	chr3_hap1_hsa4	AUTO	2	2
+GCA_028858775.3	4	4	Chromosome	NC_072402.2	Primary Assembly	178964043	CM054438.2	70805264	39.5	assembled-molecule	chr4_hap1_hsa5	AUTO	2	2
+GCA_028858775.3	5	5	Chromosome	NC_072403.2	Primary Assembly	183320697	CM054439.2	72134161	39.5	assembled-molecule	chr5_hap1_hsa6	AUTO	2	2
+GCA_028858775.3	6	6	Chromosome	NC_072404.2	Primary Assembly	174648847	CM054440.2	70723432	40.5	assembled-molecule	chr6_hap1_hsa7	AUTO	2	2
+GCA_028858775.3	7	7	Chromosome	NC_072405.2	Primary Assembly	155691389	CM054441.2	62493644	40	assembled-molecule	chr7_hap1_hsa8	AUTO	2	2
+GCA_028858775.3	8	8	Chromosome	NC_072406.2	Primary Assembly	146288486	CM054442.2	60100762	41	assembled-molecule	chr8_hap1_hsa10	AUTO	2	2
+GCA_028858775.3	9	9	Chromosome	NC_072407.2	Primary Assembly	136991367	CM054443.2	56685583	41.5	assembled-molecule	chr9_hap1_hsa11	AUTO	2	2
+GCA_028858775.3	10	10	Chromosome	NC_072408.2	Primary Assembly	140160335	CM054444.2	56812760	40.5	assembled-molecule	chr10_hap1_hsa12	AUTO	2	2
+GCA_028858775.3	11	11	Chromosome	NC_072409.2	Primary Assembly	118863153	CM054445.2	49041169	41.5	assembled-molecule	chr11_hap1_hsa9	AUTO	2	2
+GCA_028858775.3	12	12	Chromosome	NC_072410.2	Primary Assembly	122853238	CM054446.2	49795003	40.5	assembled-molecule	chr12_hap1_hsa2a	AUTO	2	2
+GCA_028858775.3	13	13	Chromosome	NC_072411.2	Primary Assembly	144476839	CM054447.2	56677184	39	assembled-molecule	chr13_hap1_hsa2b	AUTO	2	2
+GCA_028858775.3	14	14	Chromosome	NC_072412.2	Primary Assembly	120149342	CM054448.2	45804190	38.5	assembled-molecule	chr14_hap1_hsa13	AUTO	2	2
+GCA_028858775.3	15	15	Chromosome	NC_072413.2	Primary Assembly	104701121	CM054449.2	41188316	39.5	assembled-molecule	chr15_hap1_hsa14	AUTO	2	2
+GCA_028858775.3	16	16	Chromosome	NC_072414.2	Primary Assembly	93846347	CM054450.2	39036462	41.5	assembled-molecule	chr16_hap1_hsa15	AUTO	2	2
+GCA_028858775.3	17	17	Chromosome	NC_072415.2	Primary Assembly	90695042	CM054451.2	35272418	39.5	assembled-molecule	chr17_hap1_hsa18	AUTO	2	2
+GCA_028858775.3	18	18	Chromosome	NC_072416.2	Primary Assembly	94528409	CM054452.2	41363060	44	assembled-molecule	chr18_hap1_hsa16	AUTO	2	2
+GCA_028858775.3	19	19	Chromosome	NC_072417.2	Primary Assembly	99595324	CM054453.2	43900104	44	assembled-molecule	chr19_hap1_hsa17	AUTO	2	2
+GCA_028858775.3	20	20	Chromosome	NC_072418.2	Primary Assembly	68087067	CM054454.2	31475779	46	assembled-molecule	chr20_hap1_hsa19	AUTO	2	2
+GCA_028858775.3	21	21	Chromosome	NC_072419.2	Primary Assembly	78115444	CM054455.2	33124972	42.5	assembled-molecule	chr21_hap1_hsa20	AUTO	2	2
+GCA_028858775.3	22	22	Chromosome	NC_072420.2	Primary Assembly	51350302	CM054456.2	19974375	39.5	assembled-molecule	chr22_hap1_hsa21	AUTO	2	2
+GCA_028858775.3	23	23	Chromosome	NC_086016.1	Primary Assembly	59520411	CM068906.1	24928093	42.5	assembled-molecule	chr23_hap1_hsa22	AUTO	2	2
+GCA_028858775.3	X	24	Chromosome	NC_072421.2	Primary Assembly	153896354	CM054457.2	60829529	39.5	assembled-molecule	chrX_hap1_hsaX	chrX	2	1
+GCA_028858775.3	Y	25	Chromosome	NC_072422.2	Primary Assembly	36447294	CM054458.2	15046100	41.5	assembled-molecule	chrY_hap2_hsaY	chrY	0	1
+GCA_028858775.3	MT		Mitochondrion		non-nuclear	16569	CM054459.2	7201	43.5	assembled-molecule	MT	chrM	1	1

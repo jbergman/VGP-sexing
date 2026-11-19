@@ -1,0 +1,32 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_964374335.1	1	1	Chromosome	NC_137422.1	Primary Assembly	42037831	OZ206492.1	17118946	40.5	assembled-molecule	SUPER_1	AUTO	2	2
+GCA_964374335.1	2	2	Chromosome	NC_137423.1	Primary Assembly	38542664	OZ206493.1	15791519	41	assembled-molecule	SUPER_2	AUTO	2	2
+GCA_964374335.1	3	3	Chromosome	NC_137424.1	Primary Assembly	85450608	OZ206494.1	36075470	42	assembled-molecule	SUPER_3	AUTO	2	2
+GCA_964374335.1	4	4	Chromosome	NC_137425.1	Primary Assembly	37107368	OZ206495.1	15342388	41.5	assembled-molecule	SUPER_4	AUTO	2	2
+GCA_964374335.1	5	5	Chromosome	NC_137426.1	Primary Assembly	39779922	OZ206496.1	16261435	41	assembled-molecule	SUPER_5	AUTO	2	2
+GCA_964374335.1	6	6	Chromosome	NC_137427.1	Primary Assembly	44779394	OZ206497.1	18343562	41	assembled-molecule	SUPER_6	AUTO	2	2
+GCA_964374335.1	7	7	Chromosome	NC_137428.1	Primary Assembly	69938957	OZ206498.1	28430712	40.5	assembled-molecule	SUPER_7	AUTO	2	2
+GCA_964374335.1	8	8	Chromosome	NC_137429.1	Primary Assembly	31323313	OZ206499.1	12915817	41	assembled-molecule	SUPER_8	AUTO	2	2
+GCA_964374335.1	9	9	Chromosome	NC_137430.1	Primary Assembly	35885049	OZ206500.1	14834586	41.5	assembled-molecule	SUPER_9	AUTO	2	2
+GCA_964374335.1	10	10	Chromosome	NC_137431.1	Primary Assembly	35269104	OZ206501.1	14449659	41	assembled-molecule	SUPER_10	AUTO	2	2
+GCA_964374335.1	11	11	Chromosome	NC_137432.1	Primary Assembly	39326975	OZ206502.1	16137011	41	assembled-molecule	SUPER_11	AUTO	2	2
+GCA_964374335.1	12	12	Chromosome	NC_137433.1	Primary Assembly	40563461	OZ206503.1	16660498	41	assembled-molecule	SUPER_12	AUTO	2	2
+GCA_964374335.1	13	13	Chromosome	NC_137434.1	Primary Assembly	34150131	OZ206504.1	13988542	41	assembled-molecule	SUPER_13	AUTO	2	2
+GCA_964374335.1	14	14	Chromosome	NC_137435.1	Primary Assembly	41463324	OZ206505.1	17035145	41	assembled-molecule	SUPER_14	AUTO	2	2
+GCA_964374335.1	15	15	Chromosome	NC_137436.1	Primary Assembly	42551788	OZ206506.1	17470382	41	assembled-molecule	SUPER_15	AUTO	2	2
+GCA_964374335.1	16	16	Chromosome	NC_137437.1	Primary Assembly	37673654	OZ206507.1	15369904	41	assembled-molecule	SUPER_16	AUTO	2	2
+GCA_964374335.1	17	17	Chromosome	NC_137438.1	Primary Assembly	41438639	OZ206508.1	17030787	41	assembled-molecule	SUPER_17	AUTO	2	2
+GCA_964374335.1	18	18	Chromosome	NC_137439.1	Primary Assembly	37140231	OZ206509.1	15321943	41.5	assembled-molecule	SUPER_18	AUTO	2	2
+GCA_964374335.1	19	19	Chromosome	NC_137440.1	Primary Assembly	32384732	OZ206510.1	13323040	41	assembled-molecule	SUPER_19	AUTO	2	2
+GCA_964374335.1	20	20	Chromosome	NC_137441.1	Primary Assembly	37849387	OZ206511.1	15556653	41	assembled-molecule	SUPER_20	AUTO	2	2
+GCA_964374335.1	22	21	Chromosome	NC_137442.1	Primary Assembly	37940353	OZ206512.1	15700575	41.5	assembled-molecule	SUPER_22	AUTO	2	2
+GCA_964374335.1	23	22	Chromosome	NC_137443.1	Primary Assembly	49858702	OZ206513.1	20596322	41.5	assembled-molecule	SUPER_23	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653672.1	Primary Assembly	97404	CAYJYG010000001.1			unplaced-scaffold	SCAFFOLD_15	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653673.1	Primary Assembly	106646	CAYJYG010000002.1			unplaced-scaffold	SCAFFOLD_17	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653674.1	Primary Assembly	245407	CAYJYG010000003.1			unplaced-scaffold	SCAFFOLD_23	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653675.1	Primary Assembly	197898	CAYJYG010000004.1			unplaced-scaffold	SCAFFOLD_24	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653676.1	Primary Assembly	130200	CAYJYG010000005.1			unplaced-scaffold	SCAFFOLD_25	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653677.1	Primary Assembly	77509	CAYJYG010000006.1			unplaced-scaffold	SCAFFOLD_27	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653678.1	Primary Assembly	68014	CAYJYG010000007.1			unplaced-scaffold	SCAFFOLD_28	AUTO	2	2
+GCA_964374335.1	Un	9999	Chromosome	NW_027653679.1	Primary Assembly	34523	CAYJYG010000008.1			unplaced-scaffold	SCAFFOLD_30	AUTO	2	2
+GCA_964374335.1	MT		Mitochondrion		non-nuclear	16582	OZ206514.1	7606	46	assembled-molecule	scaffold_MT_1	chrM	1	1

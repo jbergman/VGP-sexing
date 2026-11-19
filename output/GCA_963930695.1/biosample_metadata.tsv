@@ -1,0 +1,132 @@
+sample_id	accession	title	organism	tax_id	id_SRA	ENA first public	ENA last update	ENA-CHECKLIST	External Id	INSDC center alias	INSDC center name	INSDC first public	INSDC last update	INSDC status	Submitter Id	common name	sample_name	isolate	dev_stage	sex	tissue	collection_date	lat_lon	ecotype	age	geo_loc_name	specimen_voucher
+SAMEA2707596	SAMEA2707596	Wrasse_pool	Labrus bergylta	56723	ERS529359	2015-10-18	2014-08-19	ERC000011	SAMEA2707596	IOA	Institute of Aquaculture, University of Stirling, Stirling, UK	2015-10-18T17:01:21Z	2014-08-19T09:17:00Z	public	Wrasse_pool	ballan wrasse	Wrasse_pool										
+SAMN14333373	SAMN14333373	Model organism or animal sample from Labrus bergylta	Labrus bergylta	56723	SRS6703908													ZMUCP2395577	not applicable	not applicable	Muscle	2014	55.576277 N 12.27487 E				
+SAMN45926536	SAMN45926536	001-CONC-P3	Labrus bergylta	56723	SRS23608734														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	001-CONC-P3
+SAMN45926538	SAMN45926538	003-CONC-P7	Labrus bergylta	56723	SRS23608852														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	003-CONC-P7
+SAMN45926539	SAMN45926539	004-CONC-P8	Labrus bergylta	56723	SRS23608862														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	004-CONC-P8
+SAMN45926540	SAMN45926540	005-CONC-P9	Labrus bergylta	56723	SRS23608875														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	005-CONC-P9
+SAMN45926541	SAMN45926541	006-CONC-P10	Labrus bergylta	56723	SRS23608884														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	006-CONC-P10
+SAMN45926542	SAMN45926542	007-CONC-P11	Labrus bergylta	56723	SRS23608767														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	007-CONC-P11
+SAMN45926543	SAMN45926543	008-CONC-P12	Labrus bergylta	56723	SRS23608777														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	008-CONC-P12
+SAMN45926545	SAMN45926545	010-CONC-P14	Labrus bergylta	56723	SRS23608801														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	010-CONC-P14
+SAMN45926547	SAMN45926547	012-CONC-P32	Labrus bergylta	56723	SRS23608747														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	012-CONC-P32
+SAMN45926549	SAMN45926549	014-CONC-P36	Labrus bergylta	56723	SRS23608820														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	014-CONC-P36
+SAMN45926550	SAMN45926550	015-CONC-P37	Labrus bergylta	56723	SRS23608831														missing	missing	finclip	2014-09		Plain	missing	France: Coastal Concarneau	015-CONC-P37
+SAMN45926551	SAMN45926551	016-CONC-S2	Labrus bergylta	56723	SRS23608842														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	016-CONC-S2
+SAMN45926552	SAMN45926552	017-CONC-S5	Labrus bergylta	56723	SRS23608848														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	017-CONC-S5
+SAMN45926553	SAMN45926553	018-CONC-S19	Labrus bergylta	56723	SRS23608849														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	018-CONC-S19
+SAMN45926554	SAMN45926554	019-CONC-S20	Labrus bergylta	56723	SRS23608851														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	019-CONC-S20
+SAMN45926555	SAMN45926555	020-CONC-S22	Labrus bergylta	56723	SRS23608850														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	020-CONC-S22
+SAMN45926556	SAMN45926556	021-CONC-S23	Labrus bergylta	56723	SRS23608853														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	021-CONC-S23
+SAMN45926557	SAMN45926557	022-CONC-S24	Labrus bergylta	56723	SRS23608855														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	022-CONC-S24
+SAMN45926558	SAMN45926558	023-CONC-S25	Labrus bergylta	56723	SRS23608854														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	023-CONC-S25
+SAMN45926559	SAMN45926559	024-CONC-S27	Labrus bergylta	56723	SRS23608856														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	024-CONC-S27
+SAMN45926560	SAMN45926560	025-CONC-S28	Labrus bergylta	56723	SRS23608857														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	025-CONC-S28
+SAMN45926561	SAMN45926561	026-CONC-S29	Labrus bergylta	56723	SRS23608859														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	026-CONC-S29
+SAMN45926562	SAMN45926562	027-CONC-S31	Labrus bergylta	56723	SRS23608858														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	027-CONC-S31
+SAMN45926563	SAMN45926563	028-CONC-S39	Labrus bergylta	56723	SRS23608860														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	028-CONC-S39
+SAMN45926564	SAMN45926564	029-CONC-S41	Labrus bergylta	56723	SRS23608861														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	029-CONC-S41
+SAMN45926565	SAMN45926565	030-CONC-S42	Labrus bergylta	56723	SRS23608863														missing	missing	finclip	2014-09		Spotty	missing	France: Coastal Concarneau	030-CONC-S42
+SAMN45926566	SAMN45926566	031-VGO-P1	Labrus bergylta	56723	SRS23608864														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	031-VGO-P1
+SAMN45926567	SAMN45926567	032-VGO-P6	Labrus bergylta	56723	SRS23608865														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	032-VGO-P6
+SAMN45926568	SAMN45926568	033-VGO-P7	Labrus bergylta	56723	SRS23608866														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	033-VGO-P7
+SAMN45926569	SAMN45926569	034-VGO-P8	Labrus bergylta	56723	SRS23608867														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	034-VGO-P8
+SAMN45926570	SAMN45926570	035-VGO-P9	Labrus bergylta	56723	SRS23608868														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	035-VGO-P9
+SAMN45926571	SAMN45926571	036-VGO-P10	Labrus bergylta	56723	SRS23608869														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	036-VGO-P10
+SAMN45926572	SAMN45926572	037-VGO-P14	Labrus bergylta	56723	SRS23608870														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	037-VGO-P14
+SAMN45926573	SAMN45926573	038-VGO-P15	Labrus bergylta	56723	SRS23608871														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	038-VGO-P15
+SAMN45926574	SAMN45926574	039-VGO-P16	Labrus bergylta	56723	SRS23608872														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	039-VGO-P16
+SAMN45926575	SAMN45926575	040-VGO-P23	Labrus bergylta	56723	SRS23608873														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	040-VGO-P23
+SAMN45926576	SAMN45926576	041-VGO-P24	Labrus bergylta	56723	SRS23608874														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	041-VGO-P24
+SAMN45926577	SAMN45926577	042-VGO-P27	Labrus bergylta	56723	SRS23608876														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	042-VGO-P27
+SAMN45926578	SAMN45926578	043-VGO-P31	Labrus bergylta	56723	SRS23608877														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	043-VGO-P31
+SAMN45926579	SAMN45926579	044-VGO-P32	Labrus bergylta	56723	SRS23608879														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	044-VGO-P32
+SAMN45926580	SAMN45926580	045-VGO-P33	Labrus bergylta	56723	SRS23608878														missing	missing	finclip	2013-02		Plain	missing	Spain: Vigo	045-VGO-P33
+SAMN45926581	SAMN45926581	046-VGO-S1	Labrus bergylta	56723	SRS23608880														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	046-VGO-S1
+SAMN45926582	SAMN45926582	047-VGO-S21	Labrus bergylta	56723	SRS23608881														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	047-VGO-S21
+SAMN45926583	SAMN45926583	048-VGO-S30	Labrus bergylta	56723	SRS23608882														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	048-VGO-S30
+SAMN45926584	SAMN45926584	049-VGO-S4	Labrus bergylta	56723	SRS23608883														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	049-VGO-S4
+SAMN45926585	SAMN45926585	050-VGO-S5	Labrus bergylta	56723	SRS23608885														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	050-VGO-S5
+SAMN45926586	SAMN45926586	051-VGO-S26	Labrus bergylta	56723	SRS23608886														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	051-VGO-S26
+SAMN45926587	SAMN45926587	052-VGO-S7	Labrus bergylta	56723	SRS23608888														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	052-VGO-S7
+SAMN45926588	SAMN45926588	053-VGO-S8	Labrus bergylta	56723	SRS23608759														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	053-VGO-S8
+SAMN45926589	SAMN45926589	054-VGO-S13	Labrus bergylta	56723	SRS23608760														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	054-VGO-S13
+SAMN45926590	SAMN45926590	055-VGO-S14	Labrus bergylta	56723	SRS23608762														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	055-VGO-S14
+SAMN45926591	SAMN45926591	056-VGO-S32	Labrus bergylta	56723	SRS23608761														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	056-VGO-S32
+SAMN45926592	SAMN45926592	057-VGO-S17	Labrus bergylta	56723	SRS23608763														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	057-VGO-S17
+SAMN45926593	SAMN45926593	058-VGO-S18	Labrus bergylta	56723	SRS23608764														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	058-VGO-S18
+SAMN45926594	SAMN45926594	059-VGO-S27	Labrus bergylta	56723	SRS23608765														missing	missing	finclip	2013-02		Spotty	missing	Spain: Vigo	059-VGO-S27
+SAMN45926596	SAMN45926596	061-BRK-P1	Labrus bergylta	56723	SRS23608768														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	061-BRK-P1
+SAMN45926597	SAMN45926597	062-BRK-P3	Labrus bergylta	56723	SRS23608769														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	062-BRK-P3
+SAMN45926598	SAMN45926598	063-BRK-P4	Labrus bergylta	56723	SRS23608770														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	063-BRK-P4
+SAMN45926599	SAMN45926599	064-BRK-P5	Labrus bergylta	56723	SRS23608772														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	064-BRK-P5
+SAMN45926600	SAMN45926600	065-BRK-P6	Labrus bergylta	56723	SRS23608771														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	065-BRK-P6
+SAMN45926601	SAMN45926601	066-BRK-P7	Labrus bergylta	56723	SRS23608773														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	066-BRK-P7
+SAMN45926602	SAMN45926602	067-BRK-P9	Labrus bergylta	56723	SRS23608775														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	067-BRK-P9
+SAMN45926603	SAMN45926603	068-BRK-P11	Labrus bergylta	56723	SRS23608774														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	068-BRK-P11
+SAMN45926604	SAMN45926604	069-BRK-P13	Labrus bergylta	56723	SRS23608776														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	069-BRK-P13
+SAMN45926606	SAMN45926606	071-BRK-P15	Labrus bergylta	56723	SRS23608779														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	071-BRK-P15
+SAMN45926607	SAMN45926607	072-BRK-P16	Labrus bergylta	56723	SRS23608780														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	072-BRK-P16
+SAMN45926608	SAMN45926608	073-BRK-P17	Labrus bergylta	56723	SRS23608781														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	073-BRK-P17
+SAMN45926609	SAMN45926609	074-BRK-P18	Labrus bergylta	56723	SRS23608782														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	074-BRK-P18
+SAMN45926610	SAMN45926610	075-BRK-P19	Labrus bergylta	56723	SRS23608783														missing	missing	finclip	2015-10		Plain	missing	Spain: Barakaldo	075-BRK-P19
+SAMN45926611	SAMN45926611	076-BRK-S1	Labrus bergylta	56723	SRS23608784														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	076-BRK-S1
+SAMN45926615	SAMN45926615	080-BRK-S7	Labrus bergylta	56723	SRS23608789														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	080-BRK-S7
+SAMN45926616	SAMN45926616	081-BRK-S8	Labrus bergylta	56723	SRS23608790														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	081-BRK-S8
+SAMN45926617	SAMN45926617	082-BRK-S9	Labrus bergylta	56723	SRS23608791														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	082-BRK-S9
+SAMN45926618	SAMN45926618	083-BRK-S10	Labrus bergylta	56723	SRS23608793														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	083-BRK-S10
+SAMN45926619	SAMN45926619	084-BRK-S12	Labrus bergylta	56723	SRS23608794														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	084-BRK-S12
+SAMN45926620	SAMN45926620	085-BRK-S13	Labrus bergylta	56723	SRS23608795														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	085-BRK-S13
+SAMN45926621	SAMN45926621	086-BRK-S14	Labrus bergylta	56723	SRS23608796														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	086-BRK-S14
+SAMN45926622	SAMN45926622	087-BRK-S16	Labrus bergylta	56723	SRS23608798														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	087-BRK-S16
+SAMN45926623	SAMN45926623	088-BRK-S17	Labrus bergylta	56723	SRS23608797														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	088-BRK-S17
+SAMN45926624	SAMN45926624	089-BRK-S18	Labrus bergylta	56723	SRS23608799														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	089-BRK-S18
+SAMN45926625	SAMN45926625	090-BRK-S19	Labrus bergylta	56723	SRS23608800														missing	missing	finclip	2015-10		Spotty	missing	Spain: Barakaldo	090-BRK-S19
+SAMN45926626	SAMN45926626	091-FLO-S-BG9	Labrus bergylta	56723	SRS23608803														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	091-FLO-S-BG9
+SAMN45926627	SAMN45926627	092-FLO-P-BG11	Labrus bergylta	56723	SRS23608802														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	092-FLO-P-BG11
+SAMN45926628	SAMN45926628	093-FLO-P-BG20	Labrus bergylta	56723	SRS23608804														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	093-FLO-P-BG20
+SAMN45926629	SAMN45926629	094-FLO-P-BG22	Labrus bergylta	56723	SRS23608805														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	094-FLO-P-BG22
+SAMN45926630	SAMN45926630	095-FLO-P-BG32	Labrus bergylta	56723	SRS23608806														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	095-FLO-P-BG32
+SAMN45926631	SAMN45926631	096-FLO-P-BG33	Labrus bergylta	56723	SRS23608808														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	096-FLO-P-BG33
+SAMN45926633	SAMN45926633	098-FLO-S-BG86	Labrus bergylta	56723	SRS23608809														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	098-FLO-S-BG86
+SAMN45926634	SAMN45926634	099-FLO-S-BG118	Labrus bergylta	56723	SRS23608792														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	099-FLO-S-BG118
+SAMN45926635	SAMN45926635	100-FLO-S-BG120	Labrus bergylta	56723	SRS23608810														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	100-FLO-S-BG120
+SAMN45926636	SAMN45926636	101-FLO-S-BG122	Labrus bergylta	56723	SRS23608737														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	101-FLO-S-BG122
+SAMN45926637	SAMN45926637	102-FLO-P-BG124	Labrus bergylta	56723	SRS23608738														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	102-FLO-P-BG124
+SAMN45926638	SAMN45926638	103-FLO-S-BG129	Labrus bergylta	56723	SRS23608739														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	103-FLO-S-BG129
+SAMN45926639	SAMN45926639	104-FLO-P-BG1	Labrus bergylta	56723	SRS23608740														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	104-FLO-P-BG1
+SAMN45926640	SAMN45926640	105-FLO-S-BG11	Labrus bergylta	56723	SRS23608741														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	105-FLO-S-BG11
+SAMN45926641	SAMN45926641	106-FLO-S-BG12	Labrus bergylta	56723	SRS23608742														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	106-FLO-S-BG12
+SAMN45926642	SAMN45926642	107-FLO-S-BG13	Labrus bergylta	56723	SRS23608743														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	107-FLO-S-BG13
+SAMN45926644	SAMN45926644	109-FLO-P-BG23	Labrus bergylta	56723	SRS23608745														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	109-FLO-P-BG23
+SAMN45926645	SAMN45926645	110-FLO-P-BG33	Labrus bergylta	56723	SRS23608746														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	110-FLO-P-BG33
+SAMN45926646	SAMN45926646	111-FLO-P-BG38	Labrus bergylta	56723	SRS23608748														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	111-FLO-P-BG38
+SAMN45926647	SAMN45926647	112-FLO-P-BG39	Labrus bergylta	56723	SRS23608749														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	112-FLO-P-BG39
+SAMN45926648	SAMN45926648	113-FLO-S-BG42	Labrus bergylta	56723	SRS23608750														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	113-FLO-S-BG42
+SAMN45926649	SAMN45926649	114-FLO-P-BG47	Labrus bergylta	56723	SRS23608751														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	114-FLO-P-BG47
+SAMN45926651	SAMN45926651	116-FLO-P-BG49	Labrus bergylta	56723	SRS23608753														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	116-FLO-P-BG49
+SAMN45926652	SAMN45926652	117-FLO-S-BG51	Labrus bergylta	56723	SRS23608754														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	117-FLO-S-BG51
+SAMN45926653	SAMN45926653	118-FLO-S-BG52	Labrus bergylta	56723	SRS23608755														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	118-FLO-S-BG52
+SAMN45926654	SAMN45926654	119-FLO-P-BG56	Labrus bergylta	56723	SRS23608756														missing	missing	finclip	2018-07		Plain	missing	Norway: Flodevigen	119-FLO-P-BG56
+SAMN45926655	SAMN45926655	120-FLO-S-BG58	Labrus bergylta	56723	SRS23608757														missing	missing	finclip	2018-07		Spotty	missing	Norway: Flodevigen	120-FLO-S-BG58
+SAMN45926656	SAMN45926656	121-SMO-S-BG10	Labrus bergylta	56723	SRS23608811														missing	missing	finclip	2019-08		Spotty	missing	Norway:Smola	121-SMO-S-BG10
+SAMN45926657	SAMN45926657	122-SMO-S-BG13	Labrus bergylta	56723	SRS23608813														missing	missing	finclip	2019-08		Spotty	missing	Norway:Smola	122-SMO-S-BG13
+SAMN45926659	SAMN45926659	124-SMO-S-BG15	Labrus bergylta	56723	SRS23608814														missing	missing	finclip	2019-08		Spotty	missing	Norway:Smola	124-SMO-S-BG15
+SAMN45926660	SAMN45926660	125-SMO-S-BG19	Labrus bergylta	56723	SRS23608815														missing	missing	finclip	2019-08		Spotty	missing	Norway:Smola	125-SMO-S-BG19
+SAMN45926663	SAMN45926663	128-SMO-S-BG23	Labrus bergylta	56723	SRS23608817														missing	missing	finclip	2019-08		Spotty	missing	Norway:Smola	128-SMO-S-BG23
+SAMN45926664	SAMN45926664	129-SMO-S-BG28	Labrus bergylta	56723	SRS23608819														missing	missing	finclip	2018-08		Spotty	missing	Norway:Smola	129-SMO-S-BG28
+SAMN45926668	SAMN45926668	133-SMO-P-BG35	Labrus bergylta	56723	SRS23608823														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	133-SMO-P-BG35
+SAMN45926670	SAMN45926670	135-SMO-S-BG54	Labrus bergylta	56723	SRS23608826														missing	missing	finclip	2018-08		Spotty	missing	Norway:Smola	135-SMO-S-BG54
+SAMN45926672	SAMN45926672	137-SMO-S-BG97	Labrus bergylta	56723	SRS23608829														missing	missing	finclip	2018-08		Spotty	missing	Norway:Smola	137-SMO-S-BG97
+SAMN45926673	SAMN45926673	138-SMO-S-BG33	Labrus bergylta	56723	SRS23608828														missing	missing	finclip	2018-07		Spotty	missing	Norway:Smola	138-SMO-S-BG33
+SAMN45926674	SAMN45926674	139-SMO-S-BG38	Labrus bergylta	56723	SRS23608830														missing	missing	finclip	2018-07		Spotty	missing	Norway:Smola	139-SMO-S-BG38
+SAMN45926676	SAMN45926676	141-SMO-P-BG64	Labrus bergylta	56723	SRS23608833														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	141-SMO-P-BG64
+SAMN45926677	SAMN45926677	142-SMO-P-BG65	Labrus bergylta	56723	SRS23608835														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	142-SMO-P-BG65
+SAMN45926678	SAMN45926678	143-SMO-P-BG66	Labrus bergylta	56723	SRS23608834														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	143-SMO-P-BG66
+SAMN45926679	SAMN45926679	144-SMO-P-BG68	Labrus bergylta	56723	SRS23608836														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	144-SMO-P-BG68
+SAMN45926680	SAMN45926680	145-SMO-P-BG69	Labrus bergylta	56723	SRS23608837														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	145-SMO-P-BG69
+SAMN45926681	SAMN45926681	146-SMO-P-BG70	Labrus bergylta	56723	SRS23608838														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	146-SMO-P-BG70
+SAMN45926684	SAMN45926684	149-SMO-P-BG76	Labrus bergylta	56723	SRS23608841														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	149-SMO-P-BG76
+SAMN45926685	SAMN45926685	150-SMO-P-BG77	Labrus bergylta	56723	SRS23608843														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	150-SMO-P-BG77
+SAMN45926686	SAMN45926686	151-SMO-P-BG82	Labrus bergylta	56723	SRS23608844														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	151-SMO-P-BG82
+SAMN45926687	SAMN45926687	152-SMO-P-BG85	Labrus bergylta	56723	SRS23608845														missing	missing	finclip	2018-08		Plain	missing	Norway:Smola	152-SMO-P-BG85

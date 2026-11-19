@@ -1,0 +1,28 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_027172205.1	1	1	Chromosome	NC_070602.1	Primary Assembly	139138986	CM049750.1	59933835	43	assembled-molecule	SUPER_1	AUTO	2	2
+GCA_027172205.1	2	2	Chromosome	NC_070603.1	Primary Assembly	127263675	CM049751.1	55849617	44	assembled-molecule	SUPER_2	AUTO	2	2
+GCA_027172205.1	3	3	Chromosome	NC_070604.1	Primary Assembly	124660641	CM049752.1	53421659	43	assembled-molecule	SUPER_3	AUTO	2	2
+GCA_027172205.1	4	4	Chromosome	NC_070605.1	Primary Assembly	108497525	CM049753.1	46411416	43	assembled-molecule	SUPER_4	AUTO	2	2
+GCA_027172205.1	5	5	Chromosome	NC_070606.1	Primary Assembly	102317954	CM049754.1	44156958	43	assembled-molecule	SUPER_5	AUTO	2	2
+GCA_027172205.1	6	6	Chromosome	NC_070607.1	Primary Assembly	100096178	CM049755.1	43450873	43.5	assembled-molecule	SUPER_6	AUTO	2	2
+GCA_027172205.1	7	7	Chromosome	NC_070608.1	Primary Assembly	92543381	CM049756.1	39748976	43	assembled-molecule	SUPER_7	AUTO	2	2
+GCA_027172205.1	8	8	Chromosome	NC_070609.1	Primary Assembly	93623253	CM049757.1	42513903	45.5	assembled-molecule	SUPER_8	AUTO	2	2
+GCA_027172205.1	9	9	Chromosome	NC_070610.1	Primary Assembly	80976960	CM049758.1	34821539	43	assembled-molecule	SUPER_9	AUTO	2	2
+GCA_027172205.1	10	10	Chromosome	NC_070611.1	Primary Assembly	79254795	CM049759.1	34440786	43.5	assembled-molecule	SUPER_10	AUTO	2	2
+GCA_027172205.1	11	11	Chromosome	NC_070612.1	Primary Assembly	66434231	CM049760.1	28670196	43	assembled-molecule	SUPER_11	AUTO	2	2
+GCA_027172205.1	12	12	Chromosome	NC_070613.1	Primary Assembly	61439401	CM049761.1	26697699	43.5	assembled-molecule	SUPER_12	AUTO	2	2
+GCA_027172205.1	13	13	Chromosome	NC_070614.1	Primary Assembly	56248303	CM049762.1	25422503	45	assembled-molecule	SUPER_13	AUTO	2	2
+GCA_027172205.1	14	14	Chromosome	NC_070615.1	Primary Assembly	53986714	CM049763.1	24434977	45.5	assembled-molecule	SUPER_14	AUTO	2	2
+GCA_027172205.1	15	15	Chromosome	NC_070616.1	Primary Assembly	45100313	CM049764.1	20513316	45.5	assembled-molecule	SUPER_15	AUTO	2	2
+GCA_027172205.1	16	16	Chromosome	NC_070617.1	Primary Assembly	42970794	CM049765.1	19975988	46.5	assembled-molecule	SUPER_16	AUTO	2	2
+GCA_027172205.1	17	17	Chromosome	NC_070618.1	Primary Assembly	42074563	CM049766.1	18689184	44.5	assembled-molecule	SUPER_17	AUTO	2	2
+GCA_027172205.1	18	18	Chromosome	NC_070619.1	Primary Assembly	13334018	CM049767.1	6522932	49	assembled-molecule	SUPER_18	AUTO	2	2
+GCA_027172205.1	W	19	Chromosome	NC_070620.1	Primary Assembly	31610000	CM049768.1	14410773	45.5	assembled-molecule	SUPER_W	chrW	1	0
+GCA_027172205.1	Z	20	Chromosome	NC_070621.1	Primary Assembly	51487686	CM049769.1	22704934	44	assembled-molecule	SUPER_Z	chrZ	1	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518833.1	Primary Assembly	37849	JAPYJY010000021.1			unplaced-scaffold	scaffold_32	AUTO	2	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518839.1	Primary Assembly	358	JAPYJY010000022.1			unplaced-scaffold	scaffold_38	AUTO	2	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518834.1	Primary Assembly	10540	JAPYJY010000023.1			unplaced-scaffold	scaffold_33_ctg1	AUTO	2	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518835.1	Primary Assembly	8553	JAPYJY010000024.1			unplaced-scaffold	scaffold_34_ctg1	AUTO	2	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518836.1	Primary Assembly	7317	JAPYJY010000025.1			unplaced-scaffold	scaffold_35_ctg1	AUTO	2	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518837.1	Primary Assembly	6473	JAPYJY010000026.1			unplaced-scaffold	scaffold_36_ctg1	AUTO	2	2
+GCA_027172205.1	Un	9999	Chromosome	NW_026518838.1	Primary Assembly	1042	JAPYJY010000027.1			unplaced-scaffold	scaffold_37_ctg1	AUTO	2	2

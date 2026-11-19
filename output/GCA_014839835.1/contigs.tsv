@@ -1,0 +1,182 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_014839835.1	1	1	Chromosome	NC_071612.1	Primary Assembly	66299413	CM025994.1	29165911	44	assembled-molecule	SUPER_1	AUTO	2	2
+GCA_014839835.1	2	2	Chromosome	NC_071613.1	Primary Assembly	58280340	CM025995.1	25578323	44	assembled-molecule	SUPER_2	AUTO	2	2
+GCA_014839835.1	3	3	Chromosome	NC_071614.1	Primary Assembly	49942877	CM025996.1	21881197	44	assembled-molecule	SUPER_3	AUTO	2	2
+GCA_014839835.1	4	4	Chromosome	NC_071615.1	Primary Assembly	49665236	CM025997.1	22324473	45	assembled-molecule	SUPER_4	AUTO	2	2
+GCA_014839835.1	5	5	Chromosome	NC_071616.1	Primary Assembly	47718145	CM025998.1	20981049	44	assembled-molecule	SUPER_5	AUTO	2	2
+GCA_014839835.1	6	6	Chromosome	NC_071617.1	Primary Assembly	47220077	CM025999.1	20114890	42.5	assembled-molecule	SUPER_6	AUTO	2	2
+GCA_014839835.1	7	7	Chromosome	NC_071618.1	Primary Assembly	46078117	CM026000.1	19070667	41.5	assembled-molecule	SUPER_7	AUTO	2	2
+GCA_014839835.1	8	8	Chromosome	NC_071619.1	Primary Assembly	44340053	CM026001.1	19217732	43.5	assembled-molecule	SUPER_8	AUTO	2	2
+GCA_014839835.1	9	9	Chromosome	NC_071620.1	Primary Assembly	43945086	CM026002.1	18958098	43	assembled-molecule	SUPER_9	AUTO	2	2
+GCA_014839835.1	10	10	Chromosome	NC_071621.1	Primary Assembly	38715865	CM026003.1	16806736	43.5	assembled-molecule	SUPER_10	AUTO	2	2
+GCA_014839835.1	11	11	Chromosome	NC_071622.1	Primary Assembly	37677379	CM026004.1	16764143	44.5	assembled-molecule	SUPER_11	AUTO	2	2
+GCA_014839835.1	12	12	Chromosome	NC_071623.1	Primary Assembly	34196716	CM026005.1	14586451	42.5	assembled-molecule	SUPER_12	AUTO	2	2
+GCA_014839835.1	13	13	Chromosome	NC_071624.1	Primary Assembly	33422062	CM026006.1	15911503	47.5	assembled-molecule	SUPER_13	AUTO	2	2
+GCA_014839835.1	14	14	Chromosome	NC_071625.1	Primary Assembly	30736538	CM026007.1	13419900	43.5	assembled-molecule	SUPER_14	AUTO	2	2
+GCA_014839835.1	15	15	Chromosome	NC_071626.1	Primary Assembly	27842676	CM026008.1	12629610	45.5	assembled-molecule	SUPER_15	AUTO	2	2
+GCA_014839835.1	16	16	Chromosome	NC_071627.1	Primary Assembly	25438780	CM026009.1	11796685	46.5	assembled-molecule	SUPER_16	AUTO	2	2
+GCA_014839835.1	17	17	Chromosome	NC_071628.1	Primary Assembly	24562890	CM026010.1	11290778	46	assembled-molecule	SUPER_17	AUTO	2	2
+GCA_014839835.1	18	18	Chromosome	NC_071629.1	Primary Assembly	24254811	CM026011.1	11261992	46.5	assembled-molecule	SUPER_18	AUTO	2	2
+GCA_014839835.1	19	19	Chromosome	NC_071630.1	Primary Assembly	23431764	CM026012.1	10614444	45.5	assembled-molecule	SUPER_19	AUTO	2	2
+GCA_014839835.1	20	20	Chromosome	NC_071631.1	Primary Assembly	23336242	CM026013.1	12096559	52	assembled-molecule	SUPER_20	AUTO	2	2
+GCA_014839835.1	21	21	Chromosome	NC_071632.1	Primary Assembly	21920297	CM026014.1	10104925	46	assembled-molecule	SUPER_21	AUTO	2	2
+GCA_014839835.1	22	22	Chromosome	NC_071633.1	Primary Assembly	20256623	CM026015.1	9522517	47	assembled-molecule	SUPER_22	AUTO	2	2
+GCA_014839835.1	23	23	Chromosome	NC_071634.1	Primary Assembly	18851875	CM026016.1	8831757	47	assembled-molecule	SUPER_23	AUTO	2	2
+GCA_014839835.1	24	24	Chromosome	NC_071635.1	Primary Assembly	17782616	CM026017.1	8102205	45.5	assembled-molecule	SUPER_24	AUTO	2	2
+GCA_014839835.1	25	25	Chromosome	NC_071636.1	Primary Assembly	17489499	CM026018.1	8139993	48	assembled-molecule	SUPER_25	AUTO	2	2
+GCA_014839835.1	26	26	Chromosome	NC_071637.1	Primary Assembly	17338828	CM026019.1	8478950	49	assembled-molecule	SUPER_26	AUTO	2	2
+GCA_014839835.1	27	27	Chromosome	NC_071638.1	Primary Assembly	15498314	CM026020.1	6969298	45	assembled-molecule	SUPER_27	AUTO	2	2
+GCA_014839835.1	28	28	Chromosome	NC_071639.1	Primary Assembly	14895330	CM026021.1	6958484	46.5	assembled-molecule	SUPER_28	AUTO	2	2
+GCA_014839835.1	29	29	Chromosome	NC_071640.1	Primary Assembly	14305593	CM026022.1	7385444	51.5	assembled-molecule	SUPER_29	AUTO	2	2
+GCA_014839835.1	30	30	Chromosome	NC_071641.1	Primary Assembly	13878464	CM026023.1	6558027	47.5	assembled-molecule	SUPER_30	AUTO	2	2
+GCA_014839835.1	31	31	Chromosome	NC_071642.1	Primary Assembly	12393089	CM026024.1	7039623	57	assembled-molecule	SUPER_31	AUTO	2	2
+GCA_014839835.1	32	32	Chromosome	NC_071643.1	Primary Assembly	10719845	CM026025.1	4998907	46.5	assembled-molecule	SUPER_32	AUTO	2	2
+GCA_014839835.1	33	33	Chromosome	NC_071644.1	Primary Assembly	9866092	CM026026.1	5259858	53.5	assembled-molecule	SUPER_33	AUTO	2	2
+GCA_014839835.1	34	34	Chromosome	NC_071645.1	Primary Assembly	9155534	CM026027.1	4951503	54	assembled-molecule	SUPER_34	AUTO	2	2
+GCA_014839835.1	35	35	Chromosome	NC_071646.1	Primary Assembly	8611581	CM026028.1	4964362	57.5	assembled-molecule	SUPER_35	AUTO	2	2
+GCA_014839835.1	36	36	Chromosome	NC_071647.1	Primary Assembly	8445117	CM026029.1	4788371	56.5	assembled-molecule	SUPER_36	AUTO	2	2
+GCA_014839835.1	37	37	Chromosome	NC_071648.1	Primary Assembly	7049144	CM026030.1	3437932	49	assembled-molecule	SUPER_37	AUTO	2	2
+GCA_014839835.1	38	38	Chromosome	NC_071649.1	Primary Assembly	4570954	CM026031.1	2122353	46.5	assembled-molecule	SUPER_38	AUTO	2	2
+GCA_014839835.1	39	39	Chromosome	NC_071650.1	Primary Assembly	4180637	CM026032.1	2155890	51.5	assembled-molecule	SUPER_39	AUTO	2	2
+GCA_014839835.1	40	40	Chromosome	NC_071651.1	Primary Assembly	2425763	CM026033.1	1529086	63	assembled-molecule	SUPER_40	AUTO	2	2
+GCA_014839835.1	41	41	Chromosome	NC_071652.1	Primary Assembly	967671	CM026034.1	607590	63	assembled-molecule	SUPER_41	AUTO	2	2
+GCA_014839835.1	42	42	Chromosome	NC_071653.1	Primary Assembly	1666849	CM026035.1	757319	52.5	assembled-molecule	SUPER_42	AUTO	2	2
+GCA_014839835.1	43	43	Chromosome	NC_071654.1	Primary Assembly	1399971	CM026036.1	589536	50.5	assembled-molecule	SUPER_43	AUTO	2	2
+GCA_014839835.1	44	44	Chromosome	NC_071655.1	Primary Assembly	251455	CM026037.1	141607	56.5	assembled-molecule	SUPER_44	AUTO	2	2
+GCA_014839835.1	W	45	Chromosome	NC_071656.1	Primary Assembly	3896135	CM026038.1	1814149	46.5	assembled-molecule	SUPER_W	chrW	1	0
+GCA_014839835.1	Z	46	Chromosome	NC_071657.1	Primary Assembly	140157326	CM026039.1	59097695	43	assembled-molecule	SUPER_Z	chrZ	1	2
+GCA_014839835.1	38	38	Chromosome	NW_026530684.1	Primary Assembly	950798	JACNMV010000127.1			unlocalized-scaffold	SUPER_38_unloc_1	AUTO	2	2
+GCA_014839835.1	41	41	Chromosome	NW_026530686.1	Primary Assembly	543394	JACNMV010000129.1			unlocalized-scaffold	SUPER_41_unloc_2	AUTO	2	2
+GCA_014839835.1	41	41	Chromosome	NW_026530685.1	Primary Assembly	615802	JACNMV010000131.1			unlocalized-scaffold	SUPER_41_unloc_1	AUTO	2	2
+GCA_014839835.1	44	44	Chromosome	NW_026530687.1	Primary Assembly	86881	JACNMV010000163.1			unlocalized-scaffold	SUPER_44_unloc_1	AUTO	2	2
+GCA_014839835.1	W	45	Chromosome	NW_026530688.1	Primary Assembly	1509510	JACNMV010000123.1			unlocalized-scaffold	SUPER_W_unloc_1	chrW	1	0
+GCA_014839835.1	W	45	Chromosome	NW_026530689.1	Primary Assembly	484417	JACNMV010000124.1			unlocalized-scaffold	SUPER_W_unloc_2	chrW	1	0
+GCA_014839835.1	Z	46	Chromosome	NW_026530690.1	Primary Assembly	525076	JACNMV010000125.1			unlocalized-scaffold	SUPER_Z_unloc_1	chrZ	1	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530691.1	Primary Assembly	59507	JACNMV010000001.1			unplaced-scaffold	scaffold_100_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530692.1	Primary Assembly	59467	JACNMV010000002.1			unplaced-scaffold	scaffold_101_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530693.1	Primary Assembly	52371	JACNMV010000003.1			unplaced-scaffold	scaffold_102_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530694.1	Primary Assembly	53040	JACNMV010000004.1			unplaced-scaffold	scaffold_103_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530695.1	Primary Assembly	52469	JACNMV010000005.1			unplaced-scaffold	scaffold_104_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530696.1	Primary Assembly	51386	JACNMV010000006.1			unplaced-scaffold	scaffold_105_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530697.1	Primary Assembly	49531	JACNMV010000007.1			unplaced-scaffold	scaffold_106_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530698.1	Primary Assembly	49236	JACNMV010000008.1			unplaced-scaffold	scaffold_107_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530699.1	Primary Assembly	49111	JACNMV010000009.1			unplaced-scaffold	scaffold_108_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530700.1	Primary Assembly	48242	JACNMV010000010.1			unplaced-scaffold	scaffold_109_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530701.1	Primary Assembly	47514	JACNMV010000012.1			unplaced-scaffold	scaffold_110_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530702.1	Primary Assembly	47310	JACNMV010000013.1			unplaced-scaffold	scaffold_111_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530703.1	Primary Assembly	45980	JACNMV010000014.1			unplaced-scaffold	scaffold_112_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530704.1	Primary Assembly	44937	JACNMV010000015.1			unplaced-scaffold	scaffold_113_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530705.1	Primary Assembly	44456	JACNMV010000016.1			unplaced-scaffold	scaffold_114_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530706.1	Primary Assembly	43944	JACNMV010000017.1			unplaced-scaffold	scaffold_115_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530707.1	Primary Assembly	43371	JACNMV010000018.1			unplaced-scaffold	scaffold_116_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530708.1	Primary Assembly	43568	JACNMV010000019.1			unplaced-scaffold	scaffold_117_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530709.1	Primary Assembly	41122	JACNMV010000020.1			unplaced-scaffold	scaffold_118_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530710.1	Primary Assembly	39640	JACNMV010000021.1			unplaced-scaffold	scaffold_119_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530711.1	Primary Assembly	40158	JACNMV010000023.1			unplaced-scaffold	scaffold_120_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530712.1	Primary Assembly	39209	JACNMV010000024.1			unplaced-scaffold	scaffold_121_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530713.1	Primary Assembly	37539	JACNMV010000025.1			unplaced-scaffold	scaffold_122_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530714.1	Primary Assembly	36422	JACNMV010000026.1			unplaced-scaffold	scaffold_123_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530715.1	Primary Assembly	35482	JACNMV010000027.1			unplaced-scaffold	scaffold_124_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530716.1	Primary Assembly	34647	JACNMV010000028.1			unplaced-scaffold	scaffold_125_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530717.1	Primary Assembly	34091	JACNMV010000029.1			unplaced-scaffold	scaffold_126_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530718.1	Primary Assembly	33167	JACNMV010000030.1			unplaced-scaffold	scaffold_127_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530719.1	Primary Assembly	32668	JACNMV010000031.1			unplaced-scaffold	scaffold_128_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530720.1	Primary Assembly	32040	JACNMV010000032.1			unplaced-scaffold	scaffold_129_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530721.1	Primary Assembly	31021	JACNMV010000034.1			unplaced-scaffold	scaffold_130_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530722.1	Primary Assembly	30871	JACNMV010000035.1			unplaced-scaffold	scaffold_131_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530723.1	Primary Assembly	29061	JACNMV010000036.1			unplaced-scaffold	scaffold_132_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530724.1	Primary Assembly	28378	JACNMV010000037.1			unplaced-scaffold	scaffold_133_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530725.1	Primary Assembly	27503	JACNMV010000038.1			unplaced-scaffold	scaffold_134_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530726.1	Primary Assembly	26837	JACNMV010000039.1			unplaced-scaffold	scaffold_135_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530727.1	Primary Assembly	26591	JACNMV010000040.1			unplaced-scaffold	scaffold_136_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530728.1	Primary Assembly	26513	JACNMV010000041.1			unplaced-scaffold	scaffold_137_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530729.1	Primary Assembly	26570	JACNMV010000042.1			unplaced-scaffold	scaffold_138_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530730.1	Primary Assembly	24462	JACNMV010000043.1			unplaced-scaffold	scaffold_139_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530731.1	Primary Assembly	24938	JACNMV010000045.1			unplaced-scaffold	scaffold_140_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530732.1	Primary Assembly	24250	JACNMV010000046.1			unplaced-scaffold	scaffold_141_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530733.1	Primary Assembly	23141	JACNMV010000047.1			unplaced-scaffold	scaffold_142_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530734.1	Primary Assembly	22333	JACNMV010000048.1			unplaced-scaffold	scaffold_143_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530735.1	Primary Assembly	20408	JACNMV010000049.1			unplaced-scaffold	scaffold_144_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530736.1	Primary Assembly	20313	JACNMV010000050.1			unplaced-scaffold	scaffold_145_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530737.1	Primary Assembly	19926	JACNMV010000051.1			unplaced-scaffold	scaffold_146_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530738.1	Primary Assembly	19955	JACNMV010000052.1			unplaced-scaffold	scaffold_147_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530739.1	Primary Assembly	18489	JACNMV010000053.1			unplaced-scaffold	scaffold_148_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530740.1	Primary Assembly	18535	JACNMV010000054.1			unplaced-scaffold	scaffold_149_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530741.1	Primary Assembly	18198	JACNMV010000056.1			unplaced-scaffold	scaffold_150_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530742.1	Primary Assembly	17906	JACNMV010000057.1			unplaced-scaffold	scaffold_151_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530743.1	Primary Assembly	17933	JACNMV010000058.1			unplaced-scaffold	scaffold_152_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530744.1	Primary Assembly	17970	JACNMV010000059.1			unplaced-scaffold	scaffold_153_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530745.1	Primary Assembly	17173	JACNMV010000060.1			unplaced-scaffold	scaffold_154_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530746.1	Primary Assembly	16979	JACNMV010000061.1			unplaced-scaffold	scaffold_155_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530747.1	Primary Assembly	16356	JACNMV010000062.1			unplaced-scaffold	scaffold_156_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530748.1	Primary Assembly	16232	JACNMV010000063.1			unplaced-scaffold	scaffold_157_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530749.1	Primary Assembly	15931	JACNMV010000064.1			unplaced-scaffold	scaffold_158_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530750.1	Primary Assembly	13331	JACNMV010000065.1			unplaced-scaffold	scaffold_159_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530751.1	Primary Assembly	12728	JACNMV010000068.1			unplaced-scaffold	scaffold_160_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530752.1	Primary Assembly	12052	JACNMV010000069.1			unplaced-scaffold	scaffold_161_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530753.1	Primary Assembly	11701	JACNMV010000070.1			unplaced-scaffold	scaffold_162_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530754.1	Primary Assembly	11264	JACNMV010000071.1			unplaced-scaffold	scaffold_163_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530755.1	Primary Assembly	10014	JACNMV010000072.1			unplaced-scaffold	scaffold_164_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530756.1	Primary Assembly	9461	JACNMV010000073.1			unplaced-scaffold	scaffold_165_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530757.1	Primary Assembly	9189	JACNMV010000074.1			unplaced-scaffold	scaffold_166_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530758.1	Primary Assembly	8627	JACNMV010000075.1			unplaced-scaffold	scaffold_167_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530759.1	Primary Assembly	7913	JACNMV010000076.1			unplaced-scaffold	scaffold_168_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530760.1	Primary Assembly	6148	JACNMV010000077.1			unplaced-scaffold	scaffold_169_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530761.1	Primary Assembly	5695	JACNMV010000079.1			unplaced-scaffold	scaffold_170_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530762.1	Primary Assembly	5590	JACNMV010000080.1			unplaced-scaffold	scaffold_171_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530763.1	Primary Assembly	5068	JACNMV010000081.1			unplaced-scaffold	scaffold_172_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530764.1	Primary Assembly	3980	JACNMV010000082.1			unplaced-scaffold	scaffold_173_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530765.1	Primary Assembly	3818	JACNMV010000083.1			unplaced-scaffold	scaffold_174_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530766.1	Primary Assembly	3301	JACNMV010000084.1			unplaced-scaffold	scaffold_175_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530767.1	Primary Assembly	2438	JACNMV010000085.1			unplaced-scaffold	scaffold_176_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530768.1	Primary Assembly	1308	JACNMV010000086.1			unplaced-scaffold	scaffold_177_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530769.1	Primary Assembly	379	JACNMV010000087.1			unplaced-scaffold	scaffold_178_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530770.1	Primary Assembly	78505	JACNMV010000098.1			unplaced-scaffold	scaffold_26A_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530771.1	Primary Assembly	195917	JACNMV010000109.1			unplaced-scaffold	scaffold_34A_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530772.1	Primary Assembly	153393	JACNMV010000110.1			unplaced-scaffold	scaffold_34B_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530773.1	Primary Assembly	255663	JACNMV010000111.1			unplaced-scaffold	scaffold_34C_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530774.1	Primary Assembly	181561	JACNMV010000112.1			unplaced-scaffold	scaffold_34D_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530775.1	Primary Assembly	150316	JACNMV010000130.1			unplaced-scaffold	scaffold_50A_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530776.1	Primary Assembly	422689	JACNMV010000132.1			unplaced-scaffold	scaffold_53_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530777.1	Primary Assembly	143022	JACNMV010000133.1			unplaced-scaffold	scaffold_54_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530778.1	Primary Assembly	312396	JACNMV010000134.1			unplaced-scaffold	scaffold_56_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530779.1	Primary Assembly	228325	JACNMV010000137.1			unplaced-scaffold	scaffold_60_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530780.1	Primary Assembly	184620	JACNMV010000138.1			unplaced-scaffold	scaffold_61_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530781.1	Primary Assembly	182294	JACNMV010000139.1			unplaced-scaffold	scaffold_62_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530782.1	Primary Assembly	179874	JACNMV010000140.1			unplaced-scaffold	scaffold_63_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530784.1	Primary Assembly	111684	JACNMV010000141.1			unplaced-scaffold	scaffold_64_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530783.1	Primary Assembly	65814	JACNMV010000142.1			unplaced-scaffold	scaffold_64A_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530785.1	Primary Assembly	148994	JACNMV010000143.1			unplaced-scaffold	scaffold_65_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530786.1	Primary Assembly	143472	JACNMV010000144.1			unplaced-scaffold	scaffold_66_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530787.1	Primary Assembly	140507	JACNMV010000145.1			unplaced-scaffold	scaffold_67_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530788.1	Primary Assembly	137840	JACNMV010000146.1			unplaced-scaffold	scaffold_69_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530789.1	Primary Assembly	133366	JACNMV010000148.1			unplaced-scaffold	scaffold_70_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530790.1	Primary Assembly	128418	JACNMV010000149.1			unplaced-scaffold	scaffold_71_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530791.1	Primary Assembly	126132	JACNMV010000150.1			unplaced-scaffold	scaffold_72_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530792.1	Primary Assembly	125619	JACNMV010000151.1			unplaced-scaffold	scaffold_73_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530793.1	Primary Assembly	118188	JACNMV010000152.1			unplaced-scaffold	scaffold_74_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530794.1	Primary Assembly	118190	JACNMV010000153.1			unplaced-scaffold	scaffold_75_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530795.1	Primary Assembly	115882	JACNMV010000154.1			unplaced-scaffold	scaffold_76_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530796.1	Primary Assembly	103938	JACNMV010000155.1			unplaced-scaffold	scaffold_77_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530797.1	Primary Assembly	95079	JACNMV010000156.1			unplaced-scaffold	scaffold_78_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530798.1	Primary Assembly	93805	JACNMV010000157.1			unplaced-scaffold	scaffold_79_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530799.1	Primary Assembly	92106	JACNMV010000159.1			unplaced-scaffold	scaffold_80_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530800.1	Primary Assembly	92010	JACNMV010000160.1			unplaced-scaffold	scaffold_81_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530801.1	Primary Assembly	90357	JACNMV010000161.1			unplaced-scaffold	scaffold_82_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530802.1	Primary Assembly	87712	JACNMV010000162.1			unplaced-scaffold	scaffold_83_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530803.1	Primary Assembly	84142	JACNMV010000164.1			unplaced-scaffold	scaffold_85_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530804.1	Primary Assembly	82690	JACNMV010000165.1			unplaced-scaffold	scaffold_86_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530805.1	Primary Assembly	82925	JACNMV010000166.1			unplaced-scaffold	scaffold_87_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530806.1	Primary Assembly	81072	JACNMV010000167.1			unplaced-scaffold	scaffold_88_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530807.1	Primary Assembly	76133	JACNMV010000168.1			unplaced-scaffold	scaffold_89_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530808.1	Primary Assembly	74477	JACNMV010000170.1			unplaced-scaffold	scaffold_90_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530809.1	Primary Assembly	74189	JACNMV010000171.1			unplaced-scaffold	scaffold_91_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530810.1	Primary Assembly	73676	JACNMV010000172.1			unplaced-scaffold	scaffold_92_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530811.1	Primary Assembly	73059	JACNMV010000173.1			unplaced-scaffold	scaffold_93_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530812.1	Primary Assembly	67821	JACNMV010000174.1			unplaced-scaffold	scaffold_94_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530813.1	Primary Assembly	67008	JACNMV010000175.1			unplaced-scaffold	scaffold_95_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530814.1	Primary Assembly	65726	JACNMV010000176.1			unplaced-scaffold	scaffold_96_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530815.1	Primary Assembly	65370	JACNMV010000177.1			unplaced-scaffold	scaffold_97_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530816.1	Primary Assembly	65286	JACNMV010000178.1			unplaced-scaffold	scaffold_98_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	Un	9999	Chromosome	NW_026530817.1	Primary Assembly	62482	JACNMV010000179.1			unplaced-scaffold	scaffold_99_arrow_ctg1	AUTO	2	2
+GCA_014839835.1	MT		Mitochondrion		non-nuclear	16842	CM026040.1	7958	47	assembled-molecule	bDryPub1_MT	chrM	1	1

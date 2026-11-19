@@ -1,0 +1,86 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_046562875.2	A1	1	Chromosome	NC_138339.1	Primary Assembly	240584455	CM102098.1	95879009	40	assembled-molecule	h2.Chr1	AUTO	2	2
+GCA_046562875.2	A2	2	Chromosome	NC_138340.1	Primary Assembly	169299531	CM102101.1	71452373	42	assembled-molecule	h2.Chr4	AUTO	2	2
+GCA_046562875.2	A3	3	Chromosome	NC_138341.1	Primary Assembly	140190341	CM102106.1	60175337	43	assembled-molecule	h2.Chr9	AUTO	2	2
+GCA_046562875.2	B1	4	Chromosome	NC_138342.1	Primary Assembly	207625228	CM102100.1	81649127	39.5	assembled-molecule	h2.Chr3	AUTO	2	2
+GCA_046562875.2	B2	5	Chromosome	NC_138343.1	Primary Assembly	151425583	CM102103.1	60883715	40	assembled-molecule	h2.Chr6	AUTO	2	2
+GCA_046562875.2	B3	6	Chromosome	NC_138344.1	Primary Assembly	148260853	CM102104.1	62099265	42	assembled-molecule	h2.Chr7	AUTO	2	2
+GCA_046562875.2	B4	7	Chromosome	NC_138345.1	Primary Assembly	141596417	CM102105.1	58493635	41.5	assembled-molecule	h2.Chr8	AUTO	2	2
+GCA_046562875.2	C1	8	Chromosome	NC_138346.1	Primary Assembly	221445943	CM102099.1	91843760	41.5	assembled-molecule	h2.Chr2	AUTO	2	2
+GCA_046562875.2	C2	9	Chromosome	NC_138347.1	Primary Assembly	158770093	CM102102.1	63026835	39.5	assembled-molecule	h2.Chr5	AUTO	2	2
+GCA_046562875.2	D1	10	Chromosome	NC_138348.1	Primary Assembly	115122847	CM102107.1	48920680	42.5	assembled-molecule	h2.Chr10	AUTO	2	2
+GCA_046562875.2	D2	11	Chromosome	NC_138349.1	Primary Assembly	88721258	CM102110.1	38616949	43.5	assembled-molecule	h2.Chr13	AUTO	2	2
+GCA_046562875.2	D3	12	Chromosome	NC_138350.1	Primary Assembly	93566799	CM102109.1	40377813	43	assembled-molecule	h2.Chr12	AUTO	2	2
+GCA_046562875.2	D4	13	Chromosome	NC_138351.1	Primary Assembly	95161563	CM102108.1	40787493	43	assembled-molecule	h2.Chr11	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NC_138352.1	Primary Assembly	60206859	CM102113.1	28547859	47.5	assembled-molecule	h2.Chr16	AUTO	2	2
+GCA_046562875.2	E2	15	Chromosome	NC_138353.1	Primary Assembly	61687931	CM102114.1	28377140	46	assembled-molecule	h2.Chr17	AUTO	2	2
+GCA_046562875.2	E3	16	Chromosome	NC_138354.1	Primary Assembly	42278268	CM102115.1	20340696	48	assembled-molecule	h2.Chr18	AUTO	2	2
+GCA_046562875.2	F1	17	Chromosome	NC_138355.1	Primary Assembly	71983893	CM102112.1	30732880	42.5	assembled-molecule	h2.Chr15	AUTO	2	2
+GCA_046562875.2	F2	18	Chromosome	NC_138356.1	Primary Assembly	83619006	CM102111.1	33976816	40.5	assembled-molecule	h2.Chr14	AUTO	2	2
+GCA_046562875.2	X	19	Chromosome	NC_138357.1	Primary Assembly	130846311	CM102116.1	53707035	41	assembled-molecule	h2.ChrX	chrX	2	1
+GCA_046562875.2	Y	20	Chromosome	NC_138358.1	Primary Assembly	30836324	CM102117.1	13902846	45	assembled-molecule	h2.ChrY	chrY	0	1
+GCA_046562875.2	E1	14	Chromosome	NW_027675808.1	Primary Assembly	1595242	JBKGDX010000032.1			unlocalized-scaffold	h2.Chr16_ul_1	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675816.1	Primary Assembly	1355683	JBKGDX010000033.1			unlocalized-scaffold	h2.Chr16_ul_2	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675817.1	Primary Assembly	1331819	JBKGDX010000034.1			unlocalized-scaffold	h2.Chr16_ul_3	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675818.1	Primary Assembly	1238143	JBKGDX010000035.1			unlocalized-scaffold	h2.Chr16_ul_4	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675819.1	Primary Assembly	1079318	JBKGDX010000036.1			unlocalized-scaffold	h2.Chr16_ul_5	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675820.1	Primary Assembly	1046741	JBKGDX010000037.1			unlocalized-scaffold	h2.Chr16_ul_6	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675821.1	Primary Assembly	998219	JBKGDX010000038.1			unlocalized-scaffold	h2.Chr16_ul_7	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675822.1	Primary Assembly	894202	JBKGDX010000039.1			unlocalized-scaffold	h2.Chr16_ul_8	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675823.1	Primary Assembly	827446	JBKGDX010000040.1			unlocalized-scaffold	h2.Chr16_ul_9	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675809.1	Primary Assembly	685426	JBKGDX010000041.1			unlocalized-scaffold	h2.Chr16_ul_10	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675810.1	Primary Assembly	621281	JBKGDX010000042.1			unlocalized-scaffold	h2.Chr16_ul_11	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675811.1	Primary Assembly	620398	JBKGDX010000043.1			unlocalized-scaffold	h2.Chr16_ul_12	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675812.1	Primary Assembly	438064	JBKGDX010000044.1			unlocalized-scaffold	h2.Chr16_ul_13	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675813.1	Primary Assembly	310747	JBKGDX010000045.1			unlocalized-scaffold	h2.Chr16_ul_14	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675814.1	Primary Assembly	260220	JBKGDX010000046.1			unlocalized-scaffold	h2.Chr16_ul_15	AUTO	2	2
+GCA_046562875.2	E1	14	Chromosome	NW_027675815.1	Primary Assembly	66617	JBKGDX010000047.1			unlocalized-scaffold	h2.Chr16_ul_16	AUTO	2	2
+GCA_046562875.2	E3	16	Chromosome	NW_027675824.1	Primary Assembly	183671	JBKGDX010000019.1			unlocalized-scaffold	h2.Chr18_unloc_1	AUTO	2	2
+GCA_046562875.2	F1	17	Chromosome	NW_027675825.1	Primary Assembly	88369	JBKGDX010000048.1			unlocalized-scaffold	h2.Chr15_ul_1	AUTO	2	2
+GCA_046562875.2	F1	17	Chromosome	NW_027675826.1	Primary Assembly	76762	JBKGDX010000049.1			unlocalized-scaffold	h2.Chr15_ul_2	AUTO	2	2
+GCA_046562875.2	Y	20	Chromosome	NW_027675864.1	Primary Assembly	4000634	JBKGDX010000021.1			unlocalized-scaffold	h2.ChrY_unloc_1	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675865.1	Primary Assembly	2955009	JBKGDX010000022.1			unlocalized-scaffold	h2.ChrY_unloc_2	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675866.1	Primary Assembly	2919399	JBKGDX010000023.1			unlocalized-scaffold	h2.ChrY_unloc_3	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675867.1	Primary Assembly	2466858	JBKGDX010000024.1			unlocalized-scaffold	h2.ChrY_unloc_4	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675868.1	Primary Assembly	2144932	JBKGDX010000025.1			unlocalized-scaffold	h2.ChrY_unloc_5	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675869.1	Primary Assembly	1663128	JBKGDX010000026.1			unlocalized-scaffold	h2.ChrY_unloc_6	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675870.1	Primary Assembly	1066271	JBKGDX010000027.1			unlocalized-scaffold	h2.ChrY_unloc_7	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675871.1	Primary Assembly	876513	JBKGDX010000028.1			unlocalized-scaffold	h2.ChrY_unloc_8	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675872.1	Primary Assembly	514737	JBKGDX010000029.1			unlocalized-scaffold	h2.ChrY_unloc_9	chrY	0	1
+GCA_046562875.2	Y	20	Chromosome	NW_027675863.1	Primary Assembly	27874	JBKGDX010000031.1			unlocalized-scaffold	h2.ChrY_ul_1	chrY	0	1
+GCA_046562875.2	Un	9999	Chromosome	NW_027675827.1	Primary Assembly	32305	JBKGDX010000050.1			unplaced-scaffold	h2.h2tg000074l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675828.1	Primary Assembly	32148	JBKGDX010000051.1			unplaced-scaffold	h2.h2tg000153l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675829.1	Primary Assembly	102292	JBKGDX010000052.1			unplaced-scaffold	h2.h2tg000170l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675830.1	Primary Assembly	150830	JBKGDX010000053.1			unplaced-scaffold	h2.h2tg000174l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675831.1	Primary Assembly	200862	JBKGDX010000054.1			unplaced-scaffold	h2.h2tg000175l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675832.1	Primary Assembly	31647	JBKGDX010000055.1			unplaced-scaffold	h2.h2tg000180l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675833.1	Primary Assembly	146243	JBKGDX010000056.1			unplaced-scaffold	h2.h2tg000182l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675834.1	Primary Assembly	24300	JBKGDX010000057.1			unplaced-scaffold	h2.h2tg000185l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675835.1	Primary Assembly	22797	JBKGDX010000058.1			unplaced-scaffold	h2.h2tg000192l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675836.1	Primary Assembly	186036	JBKGDX010000059.1			unplaced-scaffold	h2.h2tg000196l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675837.1	Primary Assembly	44046	JBKGDX010000060.1			unplaced-scaffold	h2.h2tg000200l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675838.1	Primary Assembly	31471	JBKGDX010000061.1			unplaced-scaffold	h2.h2tg000201l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675839.1	Primary Assembly	58874	JBKGDX010000062.1			unplaced-scaffold	h2.h2tg000203l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675840.1	Primary Assembly	112448	JBKGDX010000063.1			unplaced-scaffold	h2.h2tg000211c_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675841.1	Primary Assembly	168546	JBKGDX010000064.1			unplaced-scaffold	h2.h2tg000212l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675842.1	Primary Assembly	103053	JBKGDX010000065.1			unplaced-scaffold	h2.h2tg000214l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675843.1	Primary Assembly	52816	JBKGDX010000066.1			unplaced-scaffold	h2.h2tg000217l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675844.1	Primary Assembly	32395	JBKGDX010000067.1			unplaced-scaffold	h2.h2tg000219l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675845.1	Primary Assembly	111451	JBKGDX010000068.1			unplaced-scaffold	h2.h2tg000220l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675846.1	Primary Assembly	32038	JBKGDX010000069.1			unplaced-scaffold	h2.h2tg000223l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675847.1	Primary Assembly	111988	JBKGDX010000070.1			unplaced-scaffold	h2.h2tg000224c_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675848.1	Primary Assembly	52324	JBKGDX010000071.1			unplaced-scaffold	h2.h2tg000225l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675849.1	Primary Assembly	33171	JBKGDX010000072.1			unplaced-scaffold	h2.h2tg000228l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675850.1	Primary Assembly	29857	JBKGDX010000073.1			unplaced-scaffold	h2.h2tg000229l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675851.1	Primary Assembly	33066	JBKGDX010000074.1			unplaced-scaffold	h2.h2tg000232l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675852.1	Primary Assembly	18515	JBKGDX010000075.1			unplaced-scaffold	h2.h2tg000234l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675853.1	Primary Assembly	32608	JBKGDX010000076.1			unplaced-scaffold	h2.h2tg000235l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675854.1	Primary Assembly	33045	JBKGDX010000077.1			unplaced-scaffold	h2.h2tg000237l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675855.1	Primary Assembly	108549	JBKGDX010000078.1			unplaced-scaffold	h2.h2tg000238l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675856.1	Primary Assembly	35374	JBKGDX010000079.1			unplaced-scaffold	h2.h2tg000240l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675857.1	Primary Assembly	28721	JBKGDX010000080.1			unplaced-scaffold	h2.h2tg000241l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675858.1	Primary Assembly	32970	JBKGDX010000081.1			unplaced-scaffold	h2.h2tg000242l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675859.1	Primary Assembly	55567	JBKGDX010000082.1			unplaced-scaffold	h2.h2tg000244l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675860.1	Primary Assembly	29632	JBKGDX010000083.1			unplaced-scaffold	h2.h2tg000245l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675861.1	Primary Assembly	33202	JBKGDX010000084.1			unplaced-scaffold	h2.h2tg000246l_path	AUTO	2	2
+GCA_046562875.2	Un	9999	Chromosome	NW_027675862.1	Primary Assembly	32050	JBKGDX010000085.1			unplaced-scaffold	h2.h2tg000247l_path	AUTO	2	2

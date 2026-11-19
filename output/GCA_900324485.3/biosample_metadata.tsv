@@ -1,0 +1,29 @@
+sample_id	accession	title	organism	tax_id	id_SRA	common name	date received	family	env_medium	order	project	provider	provider id	sample_name	submission description	submission identifier	submission title	tissue storage	breed	dev_stage	sex	tissue	resequencing	strain	isolate	cultivar	ecotype	age
+SAMEA104026378	SAMEA104026378	Sample from Mastacembelus armatus	Mastacembelus armatus	205130	ERS2227367	zig-zag eel	2016-12-20	Mastacembelidae	individual	Synbranchiformes	VGP	Byrappa Venkatesh	Masta	fMasArm1	The Vertebrate Genomes Project aims to build reference quality genome assemblies for hundreds to thousands of vertebrate species.	GSB-2754	VGP - Vertebrate Genomes Project	HMW DNA										
+SAMN14857986	SAMN14857986	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616073														Fuzhou	Adult	male	Muscle	reseq 1					
+SAMN14857987	SAMN14857987	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616074														Fuzhou	Adult	male	Muscle	reseq 2					
+SAMN14857988	SAMN14857988	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616085														Fuzhou	Adult	male	Muscle	reseq 3					
+SAMN14857989	SAMN14857989	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616087														Fuzhou	Adult	male	Muscle	reseq 4					
+SAMN14857990	SAMN14857990	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616088														Fuzhou	Adult	male	Muscle	reseq 5					
+SAMN14857991	SAMN14857991	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616089														Fuzhou	Adult	male	Muscle	reseq 6					
+SAMN14857992	SAMN14857992	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616090														Fuzhou	Adult	male	Muscle	reseq 7					
+SAMN14857993	SAMN14857993	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616091														Fuzhou	Adult	male	Muscle	reseq 8					
+SAMN14857994	SAMN14857994	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616092														Fuzhou	Adult	male	Muscle	reseq 9					
+SAMN14857995	SAMN14857995	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616093														Fuzhou	Adult	male	Muscle	reseq 10					
+SAMN14857996	SAMN14857996	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616075														Fuzhou	Adult	female	Muscle	reseq 11					
+SAMN14857997	SAMN14857997	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616076														Fuzhou	Adult	female	Muscle	reseq 12					
+SAMN14857998	SAMN14857998	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616077														Fuzhou	Adult	female	Muscle	reseq 13					
+SAMN14857999	SAMN14857999	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616078														Fuzhou	Adult	female	Muscle	reseq 14					
+SAMN14858000	SAMN14858000	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616079														Fuzhou	Adult	female	Muscle	reseq 15					
+SAMN14858001	SAMN14858001	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616080														Fuzhou	Adult	female	Muscle	reseq 16					
+SAMN14858002	SAMN14858002	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616081														Fuzhou	Adult	female	Muscle	reseq 17					
+SAMN14858003	SAMN14858003	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616082														Fuzhou	Adult	female	Muscle	reseq 18					
+SAMN14858004	SAMN14858004	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616083														Fuzhou	Adult	female	Muscle	reseq 19					
+SAMN14858005	SAMN14858005	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS6616084														Fuzhou	Adult	female	Muscle	reseq 20					
+SAMN14858006	SAMN14858006	Mastacembelus armatus blood for HiC	Mastacembelus armatus	205130	SRS6616086														Fuzhou	adult	male	blood						
+SAMN31779408	SAMN31779408	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS15792840														missing	mature	female	muscle		zigzag eel1	zengcheng	missing	missing	one year
+SAMN31779409	SAMN31779409	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS15792841														missing	mature	female	muscle		zigzag eel2	zengcheng	missing	missing	one year
+SAMN31779410	SAMN31779410	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS15792842														missing	mature	female	muscle		zigzag eel3	zengcheng	missing	missing	one year
+SAMN31779411	SAMN31779411	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS15792843														missing	mature	male	muscle		zigzag eel4	zengcheng	missing	missing	one year
+SAMN31779412	SAMN31779412	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS15792844														missing	mature	male	muscle		zigzag eel5	zengcheng	missing	missing	one year
+SAMN31779413	SAMN31779413	Model organism or animal sample from Mastacembelus armatus	Mastacembelus armatus	205130	SRS15792845														missing	mature	male	muscle		zigzag eel6	zengcheng	missing	missing	one year

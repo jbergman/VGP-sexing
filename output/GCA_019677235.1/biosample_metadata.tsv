@@ -1,0 +1,151 @@
+sample_id	accession	title	organism	tax_id	id_SRA	ecotype	age	sex	tissue	biomaterial_provider	strain	isolate	breed	cultivar	dev_stage	collection_date	geo_loc_name	zidinyi
+SAMN20310102	SAMN20310102	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS9836682	missing	missing	male	fin ray	89								
+SAMN20310227	SAMN20310227	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS9836128	missing	missing	female	fin ray	214								
+SAMN20310276	SAMN20310276	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS9836182	missing	missing	male	fin ray	263								
+SAMN23555494	SAMN23555494	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS11207047	wild type	1 Year	female	Fin clip		FFK.HUNNU	The Protection Station of Polyploid Fish, Hunan Normal University	Largemouth bass	v1	matured			
+SAMN29572937	SAMN29572937	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995455		12 months	not collected	fin				JDF_1		mature			
+SAMN29572938	SAMN29572938	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995456		12 months	not collected	fin				JDF_2		mature			
+SAMN29572939	SAMN29572939	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995573		12 months	not collected	fin				JDF_3		mature			
+SAMN29572942	SAMN29572942	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995494		12 months	not collected	fin				JDF_6		mature			
+SAMN29572945	SAMN29572945	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995555		12 months	not collected	fin				JDF_9		mature			
+SAMN29572946	SAMN29572946	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995566		12 months	not collected	fin				JDF_10		mature			
+SAMN29572949	SAMN29572949	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995480		12 months	not collected	fin				JDF_13		mature			
+SAMN29572954	SAMN29572954	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995542		12 months	not collected	fin				JDF_18		mature			
+SAMN29572955	SAMN29572955	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995543		12 months	not collected	fin				JDF_19		mature			
+SAMN29572957	SAMN29572957	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995575		12 months	not collected	fin				JDF_21		mature			
+SAMN29572959	SAMN29572959	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995576		12 months	not collected	fin				JDF_23		mature			
+SAMN29572960	SAMN29572960	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995577		12 months	not collected	fin				JDF_24		mature			
+SAMN29572961	SAMN29572961	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995578		12 months	not collected	fin				JDF_25		mature			
+SAMN29572965	SAMN29572965	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995582		12 months	not collected	fin				JDF_29		mature			
+SAMN29572967	SAMN29572967	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995585		12 months	not collected	fin				YL_1		mature			
+SAMN29572968	SAMN29572968	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995586		12 months	not collected	fin				YL_2		mature			
+SAMN29572972	SAMN29572972	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995590		12 months	not collected	fin				YL_6		mature			
+SAMN29572974	SAMN29572974	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995592		12 months	not collected	fin				YL_8		mature			
+SAMN29572975	SAMN29572975	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995593		12 months	not collected	fin				YL_9		mature			
+SAMN29572977	SAMN29572977	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995596		12 months	not collected	fin				YL_11		mature			
+SAMN29572981	SAMN29572981	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995488		12 months	not collected	fin				YL_15		mature			
+SAMN29572982	SAMN29572982	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995489		12 months	not collected	fin				YL_16		mature			
+SAMN29572984	SAMN29572984	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995491		12 months	not collected	fin				YL_18		mature			
+SAMN29572985	SAMN29572985	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995492		12 months	not collected	fin				YL_19		mature			
+SAMN29572986	SAMN29572986	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995493		12 months	not collected	fin				YL_20		mature			
+SAMN29572987	SAMN29572987	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995495		12 months	not collected	fin				YL_21		mature			
+SAMN29572988	SAMN29572988	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995496		12 months	not collected	fin				YL_22		mature			
+SAMN29572989	SAMN29572989	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995498		12 months	not collected	fin				YL_23		mature			
+SAMN29572991	SAMN29572991	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995499		12 months	not collected	fin				YL_25		mature			
+SAMN29572992	SAMN29572992	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995500		12 months	not collected	fin				YL_26		mature			
+SAMN29572994	SAMN29572994	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995502		12 months	not collected	fin				YL_28		mature			
+SAMN29572995	SAMN29572995	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995503		12 months	not collected	fin				YL_29		mature			
+SAMN29572997	SAMN29572997	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995506		12 months	not collected	fin				TL_1		mature			
+SAMN29573001	SAMN29573001	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995510		12 months	not collected	fin				TL_5		mature			
+SAMN29573003	SAMN29573003	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995513		12 months	not collected	fin				TL_7		mature			
+SAMN29573004	SAMN29573004	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995512		12 months	not collected	fin				TL_8		mature			
+SAMN29573005	SAMN29573005	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995514		12 months	not collected	fin				TL_9		mature			
+SAMN29573007	SAMN29573007	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995546		12 months	not collected	fin				TL_11		mature			
+SAMN29573015	SAMN29573015	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995553		12 months	not collected	fin				TL_19		mature			
+SAMN29573023	SAMN29573023	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995562		12 months	not collected	fin				TL_27		mature			
+SAMN29573029	SAMN29573029	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995569		12 months	not collected	fin				TWL_3		mature			
+SAMN29573035	SAMN29573035	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995603		12 months	not collected	fin				TWL_9		mature			
+SAMN29573036	SAMN29573036	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995604		12 months	not collected	fin				TWL_10		mature			
+SAMN29573039	SAMN29573039	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995461		12 months	not collected	fin				TWL_13		mature			
+SAMN29573040	SAMN29573040	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995462		12 months	not collected	fin				TWL_14		mature			
+SAMN29573041	SAMN29573041	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995463		12 months	not collected	fin				TWL_15		mature			
+SAMN29573042	SAMN29573042	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995465		12 months	not collected	fin				TWL_16		mature			
+SAMN29573045	SAMN29573045	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995467		12 months	not collected	fin				TWL_19		mature			
+SAMN29573046	SAMN29573046	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995468		12 months	not collected	fin				TWL_20		mature			
+SAMN29573048	SAMN29573048	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995471		12 months	not collected	fin				TWL_22		mature			
+SAMN29573051	SAMN29573051	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995474		12 months	not collected	fin				TWL_25		mature			
+SAMN29573053	SAMN29573053	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995476		12 months	not collected	fin				TWL_27		mature			
+SAMN29573054	SAMN29573054	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995477		12 months	not collected	fin				TWL_28		mature			
+SAMN29573055	SAMN29573055	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995478		12 months	not collected	fin				TWL_29		mature			
+SAMN29573060	SAMN29573060	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995484		12 months	not collected	fin				WL_4		mature			
+SAMN29573061	SAMN29573061	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995485		12 months	not collected	fin				WL_5		mature			
+SAMN29573068	SAMN29573068	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995521		12 months	not collected	fin				WL_12		mature			
+SAMN29573070	SAMN29573070	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995523		12 months	not collected	fin				WL_14		mature			
+SAMN29573071	SAMN29573071	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995524		12 months	not collected	fin				WL_15		mature			
+SAMN29573074	SAMN29573074	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995527		12 months	not collected	fin				WL_18		mature			
+SAMN29573076	SAMN29573076	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995528		12 months	not collected	fin				WL_20		mature			
+SAMN29573079	SAMN29573079	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995533		12 months	not collected	fin				WL_23		mature			
+SAMN29573080	SAMN29573080	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995534		12 months	not collected	fin				WL_24		mature			
+SAMN29573085	SAMN29573085	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13995539		12 months	not collected	fin				WL_29		mature			
+SAMN29761943	SAMN29761943	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13891740	China	not collected	not provided	Fin11		Northern largemouth bass	China	Largemouth bass	Youlu 3				
+SAMN29761947	SAMN29761947	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13891745	China	not collected	not provided	Fin15		Northern largemouth bass	China	Largemouth bass	Youlu 3				
+SAMN29761948	SAMN29761948	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS13891746	China	not collected	not provided	Fin16		Northern largemouth bass	China	Largemouth bass	Youlu 3				
+SAMN37286726	SAMN37286726	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119351		12 months	male	fin				JDF_M3		mature	2020-10-20	China	
+SAMN37286727	SAMN37286727	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119352		12 months	male	fin				JDF_M4		mature	2020-10-20	China	
+SAMN37286733	SAMN37286733	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119359		12 months	male	fin				JDF_M10		mature	2020-10-20	China	
+SAMN37286735	SAMN37286735	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119361		12 months	male	fin				JDF_M12		mature	2020-10-20	China	
+SAMN37286740	SAMN37286740	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119366		12 months	male	fin				JDF_M17		mature	2020-10-20	China	
+SAMN37286741	SAMN37286741	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119368		12 months	male	fin				JDF_M18		mature	2020-10-20	China	
+SAMN37286745	SAMN37286745	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119372		12 months	male	fin				JDF_M22		mature	2020-10-20	China	
+SAMN37286747	SAMN37286747	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119374		12 months	male	fin				JDF_M24		mature	2020-10-20	China	
+SAMN37286750	SAMN37286750	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119377		12 months	male	fin				JDF_M27		mature	2020-10-20	China	
+SAMN37286756	SAMN37286756	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119384		12 months	male	fin				JDF_M33		mature	2020-10-20	China	
+SAMN37286757	SAMN37286757	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119386		12 months	male	fin				JDF_M34		mature	2020-10-20	China	
+SAMN37286759	SAMN37286759	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119387		12 months	male	fin				JDF_M36		mature	2020-10-20	China	
+SAMN37286761	SAMN37286761	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119295		12 months	male	fin				JDF_M38		mature	2020-10-20	China	
+SAMN37286762	SAMN37286762	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119297		12 months	male	fin				JDF_M39		mature	2020-10-20	China	
+SAMN37286763	SAMN37286763	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119296		12 months	male	fin				JDF_M40		mature	2020-10-20	China	
+SAMN37286764	SAMN37286764	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119298		12 months	male	fin				JDF_M41		mature	2020-10-20	China	
+SAMN37286766	SAMN37286766	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119300		12 months	male	fin				JDF_M43		mature	2020-10-20	China	
+SAMN37286767	SAMN37286767	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119301		12 months	male	fin				JDF_M44		mature	2020-10-20	China	
+SAMN37286768	SAMN37286768	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119302		12 months	male	fin				JDF_M45		mature	2020-10-20	China	
+SAMN37286769	SAMN37286769	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119303		12 months	male	fin				JDF_M46		mature	2020-10-20	China	
+SAMN37286773	SAMN37286773	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119308		12 months	male	fin				JDF_M50		mature	2020-10-20	China	
+SAMN37286775	SAMN37286775	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119310		12 months	male	fin				JDF_M52		mature	2020-10-20	China	
+SAMN37286776	SAMN37286776	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119312		12 months	male	fin				JDF_M53		mature	2020-10-20	China	
+SAMN37286780	SAMN37286780	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119315		12 months	male	fin				JDF_M57		mature	2020-10-20	China	
+SAMN37286785	SAMN37286785	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119321		12 months	male	fin				JDF_M62		mature	2020-10-20	China	
+SAMN37286786	SAMN37286786	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119322		12 months	female	fin				JDF_F1		mature	2020-10-20	China	
+SAMN37286788	SAMN37286788	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119324		12 months	female	fin				JDF_F3		mature	2020-10-20	China	
+SAMN37286790	SAMN37286790	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119326		12 months	female	fin				JDF_F5		mature	2020-10-20	China	
+SAMN37286795	SAMN37286795	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119396		12 months	female	fin				JDF_F10		mature	2020-10-20	China	
+SAMN37286796	SAMN37286796	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119395		12 months	female	fin				JDF_F11		mature	2020-10-20	China	
+SAMN37286800	SAMN37286800	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119400		12 months	female	fin				JDF_F15		mature	2020-10-20	China	
+SAMN37286803	SAMN37286803	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119264		12 months	female	fin				JDF_F18		mature	2020-10-20	China	
+SAMN37286805	SAMN37286805	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119266		12 months	female	fin				JDF_F20		mature	2020-10-20	China	
+SAMN37286806	SAMN37286806	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119268		12 months	female	fin				JDF_F21		mature	2020-10-20	China	
+SAMN37286807	SAMN37286807	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119267		12 months	female	fin				JDF_F22		mature	2020-10-20	China	
+SAMN37286809	SAMN37286809	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119270		12 months	female	fin				JDF_F24		mature	2020-10-20	China	
+SAMN37286810	SAMN37286810	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119271		12 months	female	fin				JDF_F25		mature	2020-10-20	China	
+SAMN37286811	SAMN37286811	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119273		12 months	female	fin				JDF_F26		mature	2020-10-20	China	
+SAMN37286814	SAMN37286814	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119275		12 months	female	fin				JDF_F29		mature	2020-10-20	China	
+SAMN37286816	SAMN37286816	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119278		12 months	female	fin				JDF_F31		mature	2020-10-20	China	
+SAMN37286818	SAMN37286818	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119281		12 months	female	fin				JDF_F33		mature	2020-10-20	China	
+SAMN37286819	SAMN37286819	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119280		12 months	female	fin				JDF_F34		mature	2020-10-20	China	
+SAMN37286821	SAMN37286821	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119283		12 months	female	fin				JDF_F36		mature	2020-10-20	China	
+SAMN37286822	SAMN37286822	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119285		12 months	female	fin				JDF_F37		mature	2020-10-20	China	
+SAMN37286823	SAMN37286823	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119287		12 months	female	fin				JDF_F38		mature	2020-10-20	China	
+SAMN37286824	SAMN37286824	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119286		12 months	female	fin				JDF_F39		mature	2020-10-20	China	
+SAMN37286825	SAMN37286825	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119289		12 months	female	fin				JDF_F40		mature	2020-10-20	China	
+SAMN37286830	SAMN37286830	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119293		12 months	female	fin				JDF_F45		mature	2020-10-20	China	
+SAMN37286834	SAMN37286834	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119331		12 months	female	fin				JDF_F49		mature	2020-10-20	China	
+SAMN37286835	SAMN37286835	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119330		12 months	female	fin				JDF_F50		mature	2020-10-20	China	
+SAMN37286841	SAMN37286841	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS19119338		12 months	female	fin				JDF_F56		mature	2020-10-20	China	
+SAMN39584286	SAMN39584286	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258986			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D4
+SAMN39584287	SAMN39584287	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258997			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D5
+SAMN39584288	SAMN39584288	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258998			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D6
+SAMN39584289	SAMN39584289	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258999			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D7
+SAMN39584290	SAMN39584290	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20259000			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D8
+SAMN39584293	SAMN39584293	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258965			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D11
+SAMN39584295	SAMN39584295	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258967			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D13
+SAMN39584297	SAMN39584297	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258969			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D15
+SAMN39584301	SAMN39584301	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258973			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D19
+SAMN39584302	SAMN39584302	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258974			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D20
+SAMN39584303	SAMN39584303	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258976			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D21
+SAMN39584304	SAMN39584304	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258977			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D22
+SAMN39584306	SAMN39584306	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258979			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D24
+SAMN39584307	SAMN39584307	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258980			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D25
+SAMN39584314	SAMN39584314	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258988			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D32
+SAMN39584315	SAMN39584315	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258989			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D33
+SAMN39584321	SAMN39584321	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20258995			missing	tail		Taiwan				larva	2023-12-04	China:Zhangzhou	sample LM-D49
+SAMN40411468	SAMN40411468	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729346		two years old	not collected	fin		ZL1f4	ZL1f4-1	Zhejiang Black Bass No.1			2021-11	China:Hangzhou	
+SAMN40411469	SAMN40411469	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729347		two years old	not collected	fin		ZL1f4	ZL1f4-2	Zhejiang Black Bass No.1			2021-11	China:Hangzhou	
+SAMN40411472	SAMN40411472	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729370		two years old	not collected	fin		ZL1f4	ZL1f4-5	Zhejiang Black Bass No.1			2021-11	China:Hangzhou	
+SAMN40411473	SAMN40411473	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729371		two years old	not collected	fin		ZL1f4	ZL1f4-6	Zhejiang Black Bass No.1			2021-11	China:Hangzhou	
+SAMN40411476	SAMN40411476	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729374		two years old	not collected	fin		ZL1f4	ZL1f4-9	Zhejiang Black Bass No.1			2021-11	China:Hangzhou	
+SAMN40411484	SAMN40411484	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729354		two years old	not collected	fin		AL	AL-7	wild			2021-11	China:Tongling	
+SAMN40411486	SAMN40411486	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729356		two years old	not collected	fin		AL	AL-9	wild			2021-11	China:Tongling	
+SAMN40411493	SAMN40411493	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729364		two years old	not collected	fin		PL	PL-6	wild			2021-11	China:Panzhihua	
+SAMN40411494	SAMN40411494	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729365		two years old	not collected	fin		PL	PL-7	wild			2021-11	China:Panzhihua	
+SAMN40411496	SAMN40411496	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729367		two years old	not collected	fin		PL	PL-9	wild			2021-11	China:Panzhihua	
+SAMN40411497	SAMN40411497	Model organism or animal sample from Micropterus salmoides	Micropterus salmoides	27706	SRS20729368		two years old	not collected	fin		PL	PL-10	wild			2021-11	China:Panzhihua	

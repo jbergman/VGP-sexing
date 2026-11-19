@@ -1,0 +1,76 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_028583425.1	1	1	Chromosome	NC_072790.1	Primary Assembly	255159772	CM053277.1	111754326	44	assembled-molecule	Eublepharis_1	AUTO	2	2
+GCA_028583425.1	2	2	Chromosome	NC_072791.1	Primary Assembly	235967456	CM053278.1	102664842	43.5	assembled-molecule	Eublepharis_2	AUTO	2	2
+GCA_028583425.1	3	3	Chromosome	NC_072792.1	Primary Assembly	189624839	CM053279.1	82645182	43.5	assembled-molecule	Eublepharis_3	AUTO	2	2
+GCA_028583425.1	4	4	Chromosome	NC_072793.1	Primary Assembly	188483467	CM053280.1	82324770	43.5	assembled-molecule	Eublepharis_4	AUTO	2	2
+GCA_028583425.1	5	5	Chromosome	NC_072794.1	Primary Assembly	175518112	CM053281.1	77054609	44	assembled-molecule	Eublepharis_5	AUTO	2	2
+GCA_028583425.1	6	6	Chromosome	NC_072795.1	Primary Assembly	145573841	CM053282.1	63448626	43.5	assembled-molecule	Eublepharis_6	AUTO	2	2
+GCA_028583425.1	7	7	Chromosome	NC_072796.1	Primary Assembly	144691619	CM053283.1	63054952	43.5	assembled-molecule	Eublepharis_7	AUTO	2	2
+GCA_028583425.1	8	8	Chromosome	NC_072797.1	Primary Assembly	143831152	CM053284.1	62658371	43.5	assembled-molecule	Eublepharis_8	AUTO	2	2
+GCA_028583425.1	9	9	Chromosome	NC_072798.1	Primary Assembly	108627703	CM053285.1	47492837	43.5	assembled-molecule	Eublepharis_9	AUTO	2	2
+GCA_028583425.1	10	10	Chromosome	NC_072799.1	Primary Assembly	97015429	CM053286.1	42477324	44	assembled-molecule	Eublepharis_10	AUTO	2	2
+GCA_028583425.1	11	11	Chromosome	NC_072800.1	Primary Assembly	95931924	CM053287.1	41987692	44	assembled-molecule	Eublepharis_11	AUTO	2	2
+GCA_028583425.1	12	12	Chromosome	NC_072801.1	Primary Assembly	81085323	CM053288.1	36880135	45.5	assembled-molecule	Eublepharis_12	AUTO	2	2
+GCA_028583425.1	13	13	Chromosome	NC_072802.1	Primary Assembly	74588296	CM053289.1	33567635	45	assembled-molecule	Eublepharis_13	AUTO	2	2
+GCA_028583425.1	14	14	Chromosome	NC_072803.1	Primary Assembly	72683480	CM053290.1	32864679	45	assembled-molecule	Eublepharis_14	AUTO	2	2
+GCA_028583425.1	15	15	Chromosome	NC_072804.1	Primary Assembly	59511070	CM053291.1	27299906	46	assembled-molecule	Eublepharis_15	AUTO	2	2
+GCA_028583425.1	16	16	Chromosome	NC_072805.1	Primary Assembly	49698820	CM053292.1	22395482	45	assembled-molecule	Eublepharis_16	AUTO	2	2
+GCA_028583425.1	17	17	Chromosome	NC_072806.1	Primary Assembly	46508227	CM053293.1	21414141	46	assembled-molecule	Eublepharis_17	AUTO	2	2
+GCA_028583425.1	18	18	Chromosome	NC_072807.1	Primary Assembly	41081036	CM053294.1	18719542	45.5	assembled-molecule	Eublepharis_18	AUTO	2	2
+GCA_028583425.1	19	19	Chromosome	NC_072808.1	Primary Assembly	26771560	CM053295.1	12354810	46	assembled-molecule	Eublepharis_19	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559722.1	Primary Assembly	409377	JAOPLA010000020.1			unplaced-scaffold	Eublepharis_20	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559723.1	Primary Assembly	382248	JAOPLA010000021.1			unplaced-scaffold	Eublepharis_21	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559724.1	Primary Assembly	318218	JAOPLA010000022.1			unplaced-scaffold	Eublepharis_22	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559725.1	Primary Assembly	245128	JAOPLA010000023.1			unplaced-scaffold	Eublepharis_23	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559726.1	Primary Assembly	242602	JAOPLA010000024.1			unplaced-scaffold	Eublepharis_24	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559727.1	Primary Assembly	230307	JAOPLA010000025.1			unplaced-scaffold	Eublepharis_25	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559728.1	Primary Assembly	202340	JAOPLA010000026.1			unplaced-scaffold	Eublepharis_26	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559729.1	Primary Assembly	182906	JAOPLA010000027.1			unplaced-scaffold	Eublepharis_27	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559730.1	Primary Assembly	170358	JAOPLA010000028.1			unplaced-scaffold	Eublepharis_28	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559731.1	Primary Assembly	166527	JAOPLA010000029.1			unplaced-scaffold	Eublepharis_29	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559732.1	Primary Assembly	137587	JAOPLA010000030.1			unplaced-scaffold	Eublepharis_30	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559733.1	Primary Assembly	134044	JAOPLA010000031.1			unplaced-scaffold	Eublepharis_31	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559734.1	Primary Assembly	125000	JAOPLA010000032.1			unplaced-scaffold	Eublepharis_32	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559735.1	Primary Assembly	118441	JAOPLA010000033.1			unplaced-scaffold	Eublepharis_33	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559736.1	Primary Assembly	117659	JAOPLA010000034.1			unplaced-scaffold	Eublepharis_34	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559737.1	Primary Assembly	109224	JAOPLA010000035.1			unplaced-scaffold	Eublepharis_35	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559738.1	Primary Assembly	100989	JAOPLA010000036.1			unplaced-scaffold	Eublepharis_36	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559739.1	Primary Assembly	88576	JAOPLA010000037.1			unplaced-scaffold	Eublepharis_37	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559740.1	Primary Assembly	73758	JAOPLA010000038.1			unplaced-scaffold	Eublepharis_38	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559741.1	Primary Assembly	70740	JAOPLA010000039.1			unplaced-scaffold	Eublepharis_39	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559742.1	Primary Assembly	70356	JAOPLA010000040.1			unplaced-scaffold	Eublepharis_40	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559743.1	Primary Assembly	68125	JAOPLA010000041.1			unplaced-scaffold	Eublepharis_41	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559744.1	Primary Assembly	61885	JAOPLA010000042.1			unplaced-scaffold	Eublepharis_42	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559745.1	Primary Assembly	60708	JAOPLA010000043.1			unplaced-scaffold	Eublepharis_43	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559746.1	Primary Assembly	59179	JAOPLA010000044.1			unplaced-scaffold	Eublepharis_44	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559747.1	Primary Assembly	57630	JAOPLA010000045.1			unplaced-scaffold	Eublepharis_45	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559748.1	Primary Assembly	53664	JAOPLA010000046.1			unplaced-scaffold	Eublepharis_46	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559749.1	Primary Assembly	50575	JAOPLA010000047.1			unplaced-scaffold	Eublepharis_47	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559750.1	Primary Assembly	50225	JAOPLA010000048.1			unplaced-scaffold	Eublepharis_48	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559751.1	Primary Assembly	49200	JAOPLA010000049.1			unplaced-scaffold	Eublepharis_49	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559752.1	Primary Assembly	45000	JAOPLA010000050.1			unplaced-scaffold	Eublepharis_50	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559753.1	Primary Assembly	43008	JAOPLA010000051.1			unplaced-scaffold	Eublepharis_51	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559754.1	Primary Assembly	42305	JAOPLA010000052.1			unplaced-scaffold	Eublepharis_52	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559755.1	Primary Assembly	42233	JAOPLA010000053.1			unplaced-scaffold	Eublepharis_53	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559756.1	Primary Assembly	39898	JAOPLA010000054.1			unplaced-scaffold	Eublepharis_54	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559757.1	Primary Assembly	38641	JAOPLA010000055.1			unplaced-scaffold	Eublepharis_55	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559758.1	Primary Assembly	38557	JAOPLA010000056.1			unplaced-scaffold	Eublepharis_56	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559759.1	Primary Assembly	38135	JAOPLA010000057.1			unplaced-scaffold	Eublepharis_57	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559760.1	Primary Assembly	37947	JAOPLA010000058.1			unplaced-scaffold	Eublepharis_58	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559761.1	Primary Assembly	33746	JAOPLA010000059.1			unplaced-scaffold	Eublepharis_59	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559762.1	Primary Assembly	33721	JAOPLA010000060.1			unplaced-scaffold	Eublepharis_60	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559763.1	Primary Assembly	33330	JAOPLA010000061.1			unplaced-scaffold	Eublepharis_61	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559764.1	Primary Assembly	31635	JAOPLA010000062.1			unplaced-scaffold	Eublepharis_62	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559765.1	Primary Assembly	31497	JAOPLA010000063.1			unplaced-scaffold	Eublepharis_63	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559766.1	Primary Assembly	31464	JAOPLA010000064.1			unplaced-scaffold	Eublepharis_64	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559767.1	Primary Assembly	31455	JAOPLA010000065.1			unplaced-scaffold	Eublepharis_65	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559768.1	Primary Assembly	26857	JAOPLA010000066.1			unplaced-scaffold	Eublepharis_66	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559769.1	Primary Assembly	26011	JAOPLA010000067.1			unplaced-scaffold	Eublepharis_67	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559770.1	Primary Assembly	25917	JAOPLA010000068.1			unplaced-scaffold	Eublepharis_68	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559771.1	Primary Assembly	25000	JAOPLA010000069.1			unplaced-scaffold	Eublepharis_69	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559772.1	Primary Assembly	23890	JAOPLA010000070.1			unplaced-scaffold	Eublepharis_70	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559773.1	Primary Assembly	23071	JAOPLA010000071.1			unplaced-scaffold	Eublepharis_71	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559774.1	Primary Assembly	22657	JAOPLA010000072.1			unplaced-scaffold	Eublepharis_72	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559775.1	Primary Assembly	21188	JAOPLA010000073.1			unplaced-scaffold	Eublepharis_73	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559776.1	Primary Assembly	20204	JAOPLA010000074.1			unplaced-scaffold	Eublepharis_74	AUTO	2	2
+GCA_028583425.1	Un	9999	Chromosome	NW_026559777.1	Primary Assembly	11877	JAOPLA010000075.1			unplaced-scaffold	Eublepharis_75	AUTO	2	2

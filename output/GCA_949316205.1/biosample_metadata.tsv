@@ -1,0 +1,54 @@
+sample_id	accession	title	organism	tax_id	id_SRA	ENA first public	ENA-CHECKLIST	INSDC center name	INSDC status	Submitter Id	collection_date	common name	geo_loc_name	geographic location (region and locality)	sample_name	scientific_name	strain	age	dev_stage	sex	tissue
+SAMEA118444162	SAMEA118444162	PUL-1	Platichthys flesus	8260	ERS24832185	2025-10-31	ERC000011	UH	public	PUL-1	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-1	Platichthys flesus					
+SAMEA118444163	SAMEA118444163	PUL-2	Platichthys flesus	8260	ERS24832186	2025-10-31	ERC000011	UH	public	PUL-2	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-2	Platichthys flesus					
+SAMEA118444164	SAMEA118444164	PUL-3	Platichthys flesus	8260	ERS24832187	2025-10-31	ERC000011	UH	public	PUL-3	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-3	Platichthys flesus					
+SAMEA118444165	SAMEA118444165	PUL-12	Platichthys flesus	8260	ERS24832188	2025-10-31	ERC000011	UH	public	PUL-12	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-12	Platichthys flesus					
+SAMEA118444167	SAMEA118444167	PUL-14	Platichthys flesus	8260	ERS24832190	2025-10-31	ERC000011	UH	public	PUL-14	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-14	Platichthys flesus					
+SAMEA118444168	SAMEA118444168	PUL-18	Platichthys flesus	8260	ERS24832191	2025-10-31	ERC000011	UH	public	PUL-18	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-18	Platichthys flesus					
+SAMEA118444169	SAMEA118444169	PUL-19	Platichthys flesus	8260	ERS24832192	2025-10-31	ERC000011	UH	public	PUL-19	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-19	Platichthys flesus					
+SAMEA118444170	SAMEA118444170	PUL-22	Platichthys flesus	8260	ERS24832193	2025-10-31	ERC000011	UH	public	PUL-22	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-22	Platichthys flesus					
+SAMEA118444171	SAMEA118444171	PUL-23	Platichthys flesus	8260	ERS24832194	2025-10-31	ERC000011	UH	public	PUL-23	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-23	Platichthys flesus					
+SAMEA118444172	SAMEA118444172	PUL-24	Platichthys flesus	8260	ERS24832195	2025-10-31	ERC000011	UH	public	PUL-24	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-24	Platichthys flesus					
+SAMEA118444173	SAMEA118444173	PUL-26	Platichthys flesus	8260	ERS24832196	2025-10-31	ERC000011	UH	public	PUL-26	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-26	Platichthys flesus					
+SAMEA118444174	SAMEA118444174	PUL-28	Platichthys flesus	8260	ERS24832197	2025-10-31	ERC000011	UH	public	PUL-28	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-28	Platichthys flesus					
+SAMEA118444175	SAMEA118444175	PUL-29	Platichthys flesus	8260	ERS24832198	2025-10-31	ERC000011	UH	public	PUL-29	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-29	Platichthys flesus					
+SAMEA118444177	SAMEA118444177	PUL-31	Platichthys flesus	8260	ERS24832200	2025-10-31	ERC000011	UH	public	PUL-31	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-31	Platichthys flesus					
+SAMEA118444178	SAMEA118444178	PUL-32	Platichthys flesus	8260	ERS24832201	2025-10-31	ERC000011	UH	public	PUL-32	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-32	Platichthys flesus					
+SAMEA118444179	SAMEA118444179	PUL-33	Platichthys flesus	8260	ERS24832202	2025-10-31	ERC000011	UH	public	PUL-33	2009-09	European flounder	Finland	Lapland, Lake Pulmanki	PUL-33	Platichthys flesus					
+SAMEA118444180	SAMEA118444180	TAN-1	Platichthys flesus	8260	ERS24832203	2025-10-31	ERC000011	UH	public	TAN-1	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-1	Platichthys flesus					
+SAMEA118444181	SAMEA118444181	TAN-2	Platichthys flesus	8260	ERS24832204	2025-10-31	ERC000011	UH	public	TAN-2	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-2	Platichthys flesus					
+SAMEA118444182	SAMEA118444182	TAN-3	Platichthys flesus	8260	ERS24832205	2025-10-31	ERC000011	UH	public	TAN-3	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-3	Platichthys flesus					
+SAMEA118444183	SAMEA118444183	TAN-4	Platichthys flesus	8260	ERS24832206	2025-10-31	ERC000011	UH	public	TAN-4	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-4	Platichthys flesus					
+SAMEA118444184	SAMEA118444184	TAN-5	Platichthys flesus	8260	ERS24832207	2025-10-31	ERC000011	UH	public	TAN-5	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-5	Platichthys flesus					
+SAMEA118444185	SAMEA118444185	TAN-6	Platichthys flesus	8260	ERS24832208	2025-10-31	ERC000011	UH	public	TAN-6	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-6	Platichthys flesus					
+SAMEA118444186	SAMEA118444186	TAN-7	Platichthys flesus	8260	ERS24832209	2025-10-31	ERC000011	UH	public	TAN-7	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-7	Platichthys flesus					
+SAMEA118444187	SAMEA118444187	TAN-8	Platichthys flesus	8260	ERS24832210	2025-10-31	ERC000011	UH	public	TAN-8	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-8	Platichthys flesus					
+SAMEA118444188	SAMEA118444188	TAN-9	Platichthys flesus	8260	ERS24832211	2025-10-31	ERC000011	UH	public	TAN-9	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-9	Platichthys flesus					
+SAMEA118444189	SAMEA118444189	TAN-10	Platichthys flesus	8260	ERS24832212	2025-10-31	ERC000011	UH	public	TAN-10	2018-09	European flounder	Norway	Barents Sea, Tanafjord	TAN-10	Platichthys flesus					
+SAMEA118444190	SAMEA118444190	NES-1	Platichthys flesus	8260	ERS24832213	2025-10-31	ERC000011	UH	public	NES-1	2018-09	European flounder	Norway	Barents Sea, Varangerfjord	NES-1	Platichthys flesus					
+SAMEA118444191	SAMEA118444191	NES-2	Platichthys flesus	8260	ERS24832214	2025-10-31	ERC000011	UH	public	NES-2	2018-09	European flounder	Norway	Barents Sea, Varangerfjord	NES-2	Platichthys flesus					
+SAMEA118444192	SAMEA118444192	NES-3	Platichthys flesus	8260	ERS24832215	2025-10-31	ERC000011	UH	public	NES-3	2018-09	European flounder	Norway	Barents Sea, Varangerfjord	NES-3	Platichthys flesus					
+SAMEA118444193	SAMEA118444193	NES-4	Platichthys flesus	8260	ERS24832216	2025-10-31	ERC000011	UH	public	NES-4	2018-09	European flounder	Norway	Barents Sea, Varangerfjord	NES-4	Platichthys flesus					
+SAMEA118444194	SAMEA118444194	KAT-1	Platichthys flesus	8260	ERS24832217	2025-10-31	ERC000011	UH	public	KAT-1	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-1	Platichthys flesus					
+SAMEA118444195	SAMEA118444195	KAT-2	Platichthys flesus	8260	ERS24832218	2025-10-31	ERC000011	UH	public	KAT-2	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-2	Platichthys flesus					
+SAMEA118444196	SAMEA118444196	KAT-3	Platichthys flesus	8260	ERS24832219	2025-10-31	ERC000011	UH	public	KAT-3	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-3	Platichthys flesus					
+SAMEA118444197	SAMEA118444197	KAT-4	Platichthys flesus	8260	ERS24832220	2025-10-31	ERC000011	UH	public	KAT-4	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-4	Platichthys flesus					
+SAMEA118444198	SAMEA118444198	KAT-5	Platichthys flesus	8260	ERS24832221	2025-10-31	ERC000011	UH	public	KAT-5	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-5	Platichthys flesus					
+SAMEA118444199	SAMEA118444199	KAT-6	Platichthys flesus	8260	ERS24832222	2025-10-31	ERC000011	UH	public	KAT-6	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-6	Platichthys flesus					
+SAMEA118444200	SAMEA118444200	KAT-7	Platichthys flesus	8260	ERS24832223	2025-10-31	ERC000011	UH	public	KAT-7	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-7	Platichthys flesus					
+SAMEA118444201	SAMEA118444201	KAT-8	Platichthys flesus	8260	ERS24832224	2025-10-31	ERC000011	UH	public	KAT-8	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-8	Platichthys flesus					
+SAMEA118444202	SAMEA118444202	KAT-9	Platichthys flesus	8260	ERS24832225	2025-10-31	ERC000011	UH	public	KAT-9	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-9	Platichthys flesus					
+SAMEA118444203	SAMEA118444203	KAT-10	Platichthys flesus	8260	ERS24832226	2025-10-31	ERC000011	UH	public	KAT-10	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-10	Platichthys flesus					
+SAMEA118444204	SAMEA118444204	KAT-11	Platichthys flesus	8260	ERS24832227	2025-10-31	ERC000011	UH	public	KAT-11	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-11	Platichthys flesus					
+SAMEA118444205	SAMEA118444205	KAT-12	Platichthys flesus	8260	ERS24832228	2025-10-31	ERC000011	UH	public	KAT-12	2009-09	European flounder	Sweden	North Sea, Kattegat	KAT-12	Platichthys flesus					
+SAMEA118444206	SAMEA118444206	POR-1	Platichthys flesus	8260	ERS24832229	2025-10-31	ERC000011	UH	public	POR-1	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-1	Platichthys flesus					
+SAMEA118444207	SAMEA118444207	POR-2	Platichthys flesus	8260	ERS24832230	2025-10-31	ERC000011	UH	public	POR-2	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-2	Platichthys flesus					
+SAMEA118444208	SAMEA118444208	POR-3	Platichthys flesus	8260	ERS24832231	2025-10-31	ERC000011	UH	public	POR-3	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-3	Platichthys flesus					
+SAMEA118444209	SAMEA118444209	POR-4	Platichthys flesus	8260	ERS24832232	2025-10-31	ERC000011	UH	public	POR-4	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-4	Platichthys flesus					
+SAMEA118444210	SAMEA118444210	POR-5	Platichthys flesus	8260	ERS24832233	2025-10-31	ERC000011	UH	public	POR-5	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-5	Platichthys flesus					
+SAMEA118444211	SAMEA118444211	POR-6	Platichthys flesus	8260	ERS24832234	2025-10-31	ERC000011	UH	public	POR-6	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-6	Platichthys flesus					
+SAMEA118444212	SAMEA118444212	POR-7	Platichthys flesus	8260	ERS24832235	2025-10-31	ERC000011	UH	public	POR-7	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-7	Platichthys flesus					
+SAMEA118444213	SAMEA118444213	POR-8	Platichthys flesus	8260	ERS24832236	2025-10-31	ERC000011	UH	public	POR-8	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-8	Platichthys flesus					
+SAMEA118444214	SAMEA118444214	POR-9	Platichthys flesus	8260	ERS24832237	2025-10-31	ERC000011	UH	public	POR-9	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-9	Platichthys flesus					
+SAMEA118444215	SAMEA118444215	POR-10	Platichthys flesus	8260	ERS24832238	2025-10-31	ERC000011	UH	public	POR-10	2013-06/2013-07	European flounder	Portugal	North Atlantic Ocean, Figueira Foz	POR-10	Platichthys flesus					
+SAMN31781931	SAMN31781931	Model organism or animal sample from Platichthys flesus	Platichthys flesus	8260	SRS17362389												ENV1825	not applicable	Adult	not provided	Finclip

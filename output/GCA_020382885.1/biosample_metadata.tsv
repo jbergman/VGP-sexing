@@ -1,0 +1,13 @@
+sample_id	accession	title	organism	tax_id	id_SRA	isolate	ecotype	age	dev_stage	sex	tissue	biomaterial_provider	birth_date	collected_by	collection_date	geo_loc_name	lat_lon	store_cond	treatment	strain	breed	cultivar	specimen_voucher
+SAMN12541485	SAMN12541485	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS5243352	Zhanjiang Donghai Island Cultivation Base (Zhanjiang, Guangdong, China)	inshore rocky reefs and estuaries witha broad adaptability of salinity	1.5 years	with ovary of stage III	female	muscle												
+SAMN12541486	SAMN12541486	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS5243353	Zhanjiang Donghai Island Cultivation Base (Zhanjiang, Guangdong, China)	inshore rocky reefs and estuaries witha broad adaptability of salinity	1.5 years	with testis of stage III	male	muscle												
+SAMN12623616	SAMN12623616	Animal sample from Scatophagus argus	Scatophagus argus	75038	SRS18698731	fScaArg1			adult	missing	muscle	Institue of Molecular and Cell Biology	missing	Byrappa Venkatesh	2018-08-06	Singapore	1.3521 N 103.8198 E	frozen	liquid nitrogen				
+SAMN15158754	SAMN15158754	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS6787128	Zhuhai		adult		female	muscle												
+SAMN16236978	SAMN16236978	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7408885	Zhuhai		adult		female	blood												
+SAMN16242204	SAMN16242204	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7412781	Zhuhai		adult		female	blood												
+SAMN16253045	SAMN16253045	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7419341	Zhuhai		adult		female	blood												
+SAMN16268311	SAMN16268311	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7431595	Zhuhai		adult		female	blood												
+SAMN16287476	SAMN16287476	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7444208	Zhuhai		adult		male	blood												
+SAMN16361240	SAMN16361240	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7472562	Zhuhai		adult		male	blood												
+SAMN17189441	SAMN17189441	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS7951271	missing	missing	missing	missing	male	muscle									missing	missing	missing	
+SAMN33355758	SAMN33355758	Model organism or animal sample from Scatophagus argus	Scatophagus argus	75038	SRS16811509	IRGN CSIRO1			adult	not provided	tissue	Ricardo Betancur											IRGN:CSIRO1

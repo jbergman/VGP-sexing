@@ -1,0 +1,21 @@
+sample_id	accession	title	organism	tax_id	id_SRA	isolate	breed	dev_stage	collection_date	geo_loc_name	sex	tissue	birth_location
+SAMN40463416	SAMN40463416	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755541	08UCPB10	Southern corroboree frog	Adult	2022	Australia	male	Toe	Upper Cool Plains
+SAMN40463417	SAMN40463417	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755542	08UCPB11	Southern corroboree frog	Adult	2022	Australia	male	Toe	Upper Cool Plains
+SAMN40463418	SAMN40463418	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755553	09MJ31	Southern corroboree frog	Adult	2022	Australia	female	Toe	Manjar
+SAMN40463419	SAMN40463419	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755555	09UJ12	Southern corroboree frog	Adult	2022	Australia	male	Toe	Upper Jugumba
+SAMN40463420	SAMN40463420	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755556	09UO05	Southern corroboree frog	Adult	2022	Australia	male	Toe	Upper Ogilvies
+SAMN40463421	SAMN40463421	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755557	11MJA01	Southern corroboree frog	Adult	2022	Australia	male	Toe	Manjar
+SAMN40463422	SAMN40463422	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755558	11SP60	Southern corroboree frog	Adult	2022	Australia	male	Toe	Snakey Plain
+SAMN40463423	SAMN40463423	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755559	12HH32	Southern corroboree frog	Adult	2022	Australia	male	Toe	Hell Hole
+SAMN40463424	SAMN40463424	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755560	A80091	Southern corroboree frog	Adult	2022	Australia	male	Toe	Ogilivies Quarry
+SAMN40463425	SAMN40463425	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755561	A80100	Southern corroboree frog	Adult	2022	Australia	male	Toe	Ogilivies Quarry
+SAMN40463426	SAMN40463426	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755543	A80101	Southern corroboree frog	Adult	2022	Australia	female	Toe	Jugumba FT
+SAMN40463427	SAMN40463427	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755544	A90355	Southern corroboree frog	Adult	2022	Australia	male	Toe	Far Dargals
+SAMN40463428	SAMN40463428	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755545	A90359	Southern corroboree frog	Adult	2022	Australia	male	Toe	Hell Hole
+SAMN40463429	SAMN40463429	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755546	B00699	Southern corroboree frog	Adult	2022	Australia	male	Toe	missing
+SAMN40463430	SAMN40463430	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755547	B10735	Southern corroboree frog	Adult	2022	Australia	male	Toe	Snakey Plain
+SAMN40463431	SAMN40463431	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755548	B40180	Southern corroboree frog	Adult	2022	Australia	male	Toe	Manjar
+SAMN40463432	SAMN40463432	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755549	B40185	Southern corroboree frog	Adult	2022	Australia	male	Toe	Manjar
+SAMN40463433	SAMN40463433	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755550	B40302	Southern corroboree frog	Adult	2022	Australia	male	Toe	missing
+SAMN40463434	SAMN40463434	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755551	B40303	Southern corroboree frog	Adult	2022	Australia	female	Toe	Dargals Saddle
+SAMN40463435	SAMN40463435	Model organism or animal sample from Pseudophryne corroboree	Pseudophryne corroboree	495146	SRS20755552	B40307	Southern corroboree frog	Adult	2022	Australia	female	Toe	Dargals Saddle

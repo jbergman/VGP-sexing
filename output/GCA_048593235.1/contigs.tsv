@@ -1,0 +1,8 @@
+assembly_accession	chr_name	sort_order	assigned_molecule_location_type	refseq_accession	assembly_unit	length	genbank_accession	gc_count	gc_percent	role	sequence_name	TYPE	FEMALE_PLOIDY	MALE_PLOIDY
+GCA_048593235.1	1	1	Chromosome	NC_133617.1	Primary Assembly	757456671	CM109181.1	270430649	35.5	assembled-molecule	Chr1	AUTO	2	2
+GCA_048593235.1	2	2	Chromosome	NC_133618.1	Primary Assembly	684596898	CM109182.1	248229533	36.5	assembled-molecule	Chr2	AUTO	2	2
+GCA_048593235.1	3	3	Chromosome	NC_133619.1	Primary Assembly	656909261	CM109183.1	233846362	35.5	assembled-molecule	Chr3	AUTO	2	2
+GCA_048593235.1	4	4	Chromosome	NC_133620.1	Primary Assembly	478676348	CM109184.1	173766292	36.5	assembled-molecule	Chr4	AUTO	2	2
+GCA_048593235.1	5	5	Chromosome	NC_133621.1	Primary Assembly	314307200	CM109185.1	113986849	36.5	assembled-molecule	Chr5	AUTO	2	2
+GCA_048593235.1	6	6	Chromosome	NC_133622.1	Primary Assembly	258107999	CM109186.1	93833938	36.5	assembled-molecule	Chr6	AUTO	2	2
+GCA_048593235.1	X	7	Chromosome	NC_133623.1	Primary Assembly	89927176	CM109187.1	36189223	40	assembled-molecule	ChrX	chrX	2	1
