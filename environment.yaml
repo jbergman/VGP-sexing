@@ -1,0 +1,38 @@
+name: vgp_sex_chr
+channels:
+  - conda-forge    # must be first so modern snakemake is found here
+  - bioconda
+  - defaults
+dependencies:
+  # ── core language ──────────────────────────────────────────────────────────
+  - python=3.11
+
+  # ── alignment & mapping ───────────────────────────────────────────────────
+  - minimap2>=2.28        # assembly-to-assembly and HiFi read mapping
+  - bwa>=0.7.18           # Illumina WGS mapping (BWA-MEM)
+  - samtools>=1.20        # indexing, sorting, coverage, flagstat
+
+  # ── coverage computation ──────────────────────────────────────────────────
+  - mosdepth>=0.3.9       # fast per-region depth (preferred)
+
+  # ── duplicate marking ─────────────────────────────────────────────────────
+  - gatk4>=4.5            # MarkDuplicates (Illumina WGS only)
+  # alternative: picard (if gatk4 unavailable on your cluster)
+  # - picard>=3.1
+
+  # ── NCBI data download ────────────────────────────────────────────────────
+  - ncbi-datasets-cli>=16 # `datasets download genome accession …`
+
+  # ── workflow manager ──────────────────────────────────────────────────────
+  - snakemake>=8.0        # alternative workflow manager (see Snakefile)
+
+  # ── Python data stack ─────────────────────────────────────────────────────
+  - pandas>=2.1
+  - numpy>=1.26
+  - matplotlib>=3.8
+  - scipy>=1.12           # optional: used for QC statistics
+  - pip
+
+  # ── pip extras ────────────────────────────────────────────────────────────
+  - pip:
+    - pysam>=0.22         # samtools Python bindings (optional, for BAM QC)
