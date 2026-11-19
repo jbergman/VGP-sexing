@@ -6,11 +6,11 @@ reference assemblies.
 
 For each assembly accession the workflow:
 
-1. downloads the chromosome-level sequence report from NCBI Datasets to find
-   the sex chromosomes
+1. downloads the chromosome-level reference sequence report from NCBI to find
+   the sex chromosomes (if annotated)
 2. downloads the sample sheet, README, and per-sample mosdepth coverage
    summaries from GenomeArk
-3. fetches BioSample metadata (sex, organism, collection site) from NCBI
+3. downloads BioSample metadata (sex, organism, collection site, etc.) from NCBI
 4. computes a sex-chromosome / autosome coverage ratio and assigns
    `MALE`, `FEMALE`, or `UNKNOWN` to every sample.
 
@@ -29,10 +29,10 @@ rule all
 
 | Script | What it does |
 |---|---|
-| `scripts/fetch_reference_data.py` | Downloads NCBI sequence report; writes `contigs.tsv`; detects sex chromosomes and adds three columns to `contigs.tsv`: TYPE (AUTO / chrX / chrY / chrZ / chrW / chrM), FEMALE_PLOIDY, MALE_PLOIDY |
+| `scripts/fetch_reference_data.py` | Downloads NCBI sequence report; writes `contigs.tsv`; detects sex chromosomes (if annotated in the report) and adds three columns to `contigs.tsv`: `TYPE`: assigns each contig into one of the following categories - AUTO (default assignment; autosome), chrX, chrY, chrZ, chrW, chrM (mitochondrion), `FEMALE_PLOIDY`: ploidy of females for each contig `TYPE`, `MALE_PLOIDY`: ploidy of males for each contig `TYPE` |
 | `scripts/fetch_sample_data_genark.py` | Downloads `sample_sheet.csv`, `README.txt`, and per-sample mosdepth summary files from the GenomeArk S3 folder |
 | `scripts/fetch_sample_data_ncbi.py` | Calls NCBI eutils esearch + efetch for each BioSample ID in `sample_sheet.csv`; writes `biosample_metadata.tsv` |
-| `scripts/assign_genetic_sex.py` | Reads per-sample mosdepth coverage, computes XA/ZA ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv` |
+| `scripts/assign_genetic_sex.py` | Reads per-sample mosdepth coverage, computes XA or ZA ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv` |
 
 ## Usage
 
