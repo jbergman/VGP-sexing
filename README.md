@@ -6,26 +6,18 @@ reference assemblies.
 
 For each assembly accession the workflow:
 
-1. downloads the chromosome-level reference sequence report from NCBI to find
-   the sex chromosomes (if annotated)
-2. downloads the sample sheet, README, and per-sample mosdepth coverage
-   summaries from GenomeArk
-3. downloads BioSample metadata (sex, organism, collection site, etc.) from NCBI for each sample in the GenomeArk sample sheet
-4. computes a sex-chromosome / autosome coverage ratio and assigns
+1. Downloads the chromosome-level reference sequence report from NCBI to find
+   the sex chromosomes (if annotated).
+2. Downloads the sample sheet, README, and per-sample coverage
+   summaries from GenomeArk.
+3. Downloads BioSample metadata (sex, organism, collection site, etc.) from NCBI for each sample in the GenomeArk sample sheet.
+4. Computes a sex-chromosome / autosome coverage ratio and assigns
    `MALE`, `FEMALE`, or `UNKNOWN` to every sample.
 
 Both XY (mammals) and ZW (birds, reptiles) sex-determination systems are
 supported.
 
-## Pipeline
-
-```
-rule all
-  └── assign_genetic_sex      (contigs.tsv + biosample_metadata.tsv → .sex_assigned)
-        ├── fetch_sample_data_ncbi   (sample_sheet.csv → biosample_metadata.tsv)
-        │     └── fetch_sample_data_genark  (contigs.tsv → sample_sheet.csv)
-        └── fetch_reference_data     (accession → contigs.tsv)
-```
+## Scripts
 
 | Script | What it does |
 |---|---|
@@ -33,7 +25,6 @@ rule all
 | `scripts/fetch_sample_data_genark.py` | Downloads `sample_sheet.csv`, `README.txt`, and per-sample mosdepth summary files from the GenomeArk S3 folder. |
 | `scripts/fetch_sample_data_ncbi.py` | Calls NCBI eutils esearch + efetch for each BioSample ID in `sample_sheet.csv`; writes `biosample_metadata.tsv`. |
 | `scripts/assign_genetic_sex.py` | Reads per-sample mosdepth coverage, computes XA or ZA ratio, writes `GENETIC_SEX` column into `biosample_metadata.tsv`. The coverage of the longest autosome is chosen in the calculation of the XA or ZA ratio. Similarly, if there are multiple X (or Z) contigs present in the reference, the longest X (or Z) contig is used to get the sex-chromsome coverage. The threshold of 0.75 if used to assign genetic sex: in XY systems, `FEMALE` is assigned if XA ≥ 0.75 and `MALE` otherwise, while in ZW systems, `MALE` is assigned if ZA ≥ 0.75 and `FEMALE` otherwise. |
-
 
 ## All considered combinations of chromosome types and female/male ploidy
 
@@ -45,6 +36,15 @@ rule all
 | chrZ | 1 | 2 |
 | chrW | 1 | 0 |
 | chrM | 1 | 1 |
+
+## Pipeline
+```
+rule all
+  └── assign_genetic_sex      (contigs.tsv + biosample_metadata.tsv → .sex_assigned)
+        ├── fetch_sample_data_ncbi   (sample_sheet.csv → biosample_metadata.tsv)
+        │     └── fetch_sample_data_genark  (contigs.tsv → sample_sheet.csv)
+        └── fetch_reference_data     (accession → contigs.tsv)
+```
 
 ## Usage
 
